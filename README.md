@@ -1,4 +1,4 @@
-# Memory-Enhanced Transformer for Dialect-to-Standard Language Translation
+# Adaptive Memory-based Transformer for Low-Resource Dialect Translation
 
 This repository contains the code and results for a project on translating low-resource Bengali dialects (Chittagonian and Barendri) into Standard Bangla. The core of this work is a novel **Memory-Enhanced Transformer model** that improves upon a standard fine-tuned baseline by integrating a specialized memory module. This module is trained to focus on specific, challenging tokens, leading to significant gains in translation quality and impressive generalization to unseen dialects.
 
