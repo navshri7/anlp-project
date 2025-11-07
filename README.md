@@ -183,5 +183,3 @@ This work utilizes two newly created datasets:
 1.  **Chittagonian-to-Bangla**: A corpus of parallel sentences from the Chittagonian dialect and Standard Bangla which is present in ANLP_Project file.
 2.  **Barendri-to-Bangla**: A corpus of parallel sentences from the Barendri dialect and Standard Bangla.
 
-
-```
