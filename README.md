@@ -151,7 +151,7 @@ This is the core pipeline for building and evaluating the models.
 
 The best-performing baseline model (`model_backbone`) and the best Memory-Enhanced Transformer (`freq_asc_p25`) are available for download.
 
-(**[Download Models Here]**(https://iiithydresearch-my.sharepoint.com/:f:/g/personal/vamshavardhanreddy_b_research_iiit_ac_in/EkDRGUqD1EJBlGOA0kTCnmIBM2UcpSAQeOsVdixvhwIYyQ?e=px2iw5))
+**[Download Models Here]**(https://iiithydresearch-my.sharepoint.com/:f:/g/personal/vamshavardhanreddy_b_research_iiit_ac_in/EkDRGUqD1EJBlGOA0kTCnmIBM2UcpSAQeOsVdixvhwIYyQ?e=px2iw5)
 
 **Instructions:**
 *   Download and unzip the files.
