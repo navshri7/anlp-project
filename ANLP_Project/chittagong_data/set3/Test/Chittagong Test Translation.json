@@ -1,0 +1,3002 @@
+[
+  {
+    "bangla_speech ":"তোমার আব্বু কেমন আছে?",
+    "banglish_speech ":"tomar abbu kemon ache?",
+    "chittagong_bangla_speech ":"তোয়ার আব্বু কেন আসে?",
+    "chittagong_banglish_speech ":"toyar abbu ken ase?",
+    "region_name ":"Chittagong",
+    "english_speech":"How is your father?"
+  },
+  {
+    "bangla_speech ":"আমার বড় বোনের আজকে মন ভালো নেই",
+    "banglish_speech ":"amar boro  boner ajke mon valo nei",
+    "chittagong_bangla_speech ":"আর বর বইনোর আজিয়া মন ভালা নাই",
+    "chittagong_banglish_speech ":"ar bor boinor ajiya mon vala nai",
+    "region_name ":"Chittagong",
+    "english_speech":"My elder sister is not feeling well today"
+  },
+  {
+    "bangla_speech ":"তুমি কি আমাকে এই কাজটি করে দিতে পারবে?",
+    "banglish_speech ":"tumi ki amake ei kajti kore dite parbe?",
+    "chittagong_bangla_speech ":"তুইকি আরে হাম্মান গরি দিত্তারিবানা?",
+    "chittagong_banglish_speech ":"tuiki are hamman gori dittaribana?",
+    "region_name ":"Chittagong",
+    "english_speech":"Can you do this for me?"
+  },
+  {
+    "bangla_speech ":"এই গরমে বাহিরে বের হতে ইচ্ছা করে না",
+    "banglish_speech ":"ei gorome bahire ber hote iccha kore na",
+    "chittagong_bangla_speech ":"এই গরমত বাইর ওইতো মনত নো সার",
+    "chittagong_banglish_speech ":"ei goromot bair oito monot no sar",
+    "region_name ":"Chittagong",
+    "english_speech":"Don't want to go out in this summer"
+  },
+  {
+    "bangla_speech ":"তোমার সব কথাই ভুল",
+    "banglish_speech ":"tomar sob kothai vul",
+    "chittagong_bangla_speech ":"তোয়ার বেক হোতাই ভুল",
+    "chittagong_banglish_speech ":"toyar bek hotai vul",
+    "region_name ":"Chittagong",
+    "english_speech":"Everything you say is wrong"
+  },
+  {
+    "bangla_speech ":"তোমার মত খারাপ ছেলে আমি আর একটাও  দেখিনি",
+    "banglish_speech ":"tomar moto kharap chele ami ar ektao  dekhini",
+    "chittagong_bangla_speech ":"তোয়ার ডইল্লে মরতফোয়া আই এক্কান ও নো দেহি",
+    "chittagong_banglish_speech ":"toyar doille morotfoya ai ekkan o no dehi",
+    "region_name ":"Chittagong",
+    "english_speech":"I've never seen a bad boy like you"
+  },
+  {
+    "bangla_speech ":"বিয়ের জন্য আম্মা  আমার জন্য ছেলে  খুজতাসে",
+    "banglish_speech ":"biyer jonno amma amar jonno chele  khujtase",
+    "chittagong_bangla_speech ":"আর লাই ফোওয়া কুজেরদে",
+    "chittagong_banglish_speech ":"ar lai foya kujerde",
+    "region_name ":"Chittagong",
+    "english_speech":"Amma is looking for a boy for me for marriage"
+  },
+  {
+    "bangla_speech ":"আব্বা আমাকে গতকাল একটা ছেলের সাথে দেখা করতে বলেছিল",
+    "banglish_speech ":"abba amake gotokal ekta cheler sathe dekha korte bolechilo",
+    "chittagong_bangla_speech ":"গতহালিয়া আব্বু আরে এক্কান ফোয়ার ফোয়ারিত দেহা গরিবেল্লাই হইল",
+    "chittagong_banglish_speech ":"gotohaliya abbu are ekkan foyar foyarit deha goribellai hoilo",
+    "region_name ":"Chittagong",
+    "english_speech":"Dad asked me to meet a boy yesterday"
+  },
+  {
+    "bangla_speech ":"ছেলেটিকে আমার একদমই ভালো লাগেনি",
+    "banglish_speech ":"cheletike amar ekdomi valo lageni",
+    "chittagong_bangla_speech ":"ফোয়া ইবা আর এক্কেরে গম ন লাগে",
+    "chittagong_banglish_speech ":"foya iba ar ekkere gom no lage",
+    "region_name ":"Chittagong",
+    "english_speech":"I didn't like the boy at all"
+  },
+  {
+    "bangla_speech ":"মেয়েটি গোলাপি রঙের শাড়ি পরে এসেছিল",
+    "banglish_speech ":"meyeti golapi ronger shari pore esechilo",
+    "chittagong_bangla_speech ":"মাইয়াফোয়া ইবা গোলাফি কালার শাড়ি ফইজ্জেদে",
+    "chittagong_banglish_speech ":"maiyafoya iba golafi colour shari foijjede",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl came in a pink saree"
+  },
+  {
+    "bangla_speech ":"আমার দুইদিন পরে বিয়ে হবে",
+    "banglish_speech ":"amar duidin pore biye hobe",
+    "chittagong_bangla_speech ":"আর দুইদিন ফোর বিয়া অইবোদে",
+    "chittagong_banglish_speech ":"ar duidin for biya oibode",
+    "region_name ":"Chittagong",
+    "english_speech":"I am getting married in two days"
+  },
+  {
+    "bangla_speech ":"ছেলেটি এখন আর বিকালে খেলতে বের হয় না",
+    "banglish_speech ":"cheleti ekhon ar bikale khelte ber hoy na",
+    "chittagong_bangla_speech ":"মারতফোয়া ইবা এহন আর বিকালত খেলিবেল্লাই ন আইয়ে",
+    "chittagong_banglish_speech ":"marotfoya iba ehon ar bikalot khelibellai no aiye",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy no longer goes out to play in the afternoon"
+  },
+  {
+    "bangla_speech ":"মেয়েটি সকালে ঘুম থেকে উঠেই পরতে বসে",
+    "banglish_speech ":"meyeti sokale ghum theke uthei porte bose",
+    "chittagong_bangla_speech ":"মাঈয়া ফোয়া ইবা বেইন্না ঘুমত্তুন উডি ফন্না ফইওত্তে বইসসে",
+    "chittagong_banglish_speech ":"maiya foya iba beinna ghumottun udi fonna foiotte boisse",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl wakes up in the morning and wears it"
+  },
+  {
+    "bangla_speech ":"আমার চাচা বিদেশ থেকে গতকাল বাংলাদেশে এসেছে",
+    "banglish_speech ":"amar chacha bidesh theke gotokal bangladeshe eseche",
+    "chittagong_bangla_speech ":"আর চাচা গতহালিয়া বিদেশেত্তুন বাংলাদেশত আইসসে",
+    "chittagong_banglish_speech ":"ar chacha gotohaliya bideshettun bangladeshot aisse",
+    "region_name ":"Chittagong",
+    "english_speech":"My uncle came to Bangladesh yesterday from abroad"
+  },
+  {
+    "bangla_speech ":"আমার বাসার দারওয়ান অনেক ভালো মানুষ",
+    "banglish_speech ":"amar basar daroyan onek valo manush",
+    "chittagong_bangla_speech ":"আর বাসার দারওয়ান বহুত ভালা মানুষ",
+    "chittagong_banglish_speech ":"ar basar daroyan bohut vala manush",
+    "region_name ":"Chittagong",
+    "english_speech":"The janitor of my house is a very good person"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধু খুলনা ঘুরতে গিয়েছে",
+    "banglish_speech ":"amar bondhu khulna ghurte giyeche",
+    "chittagong_bangla_speech ":"আর বান্ধু খুলনা গুইত্ত গিয়ে",
+    "chittagong_banglish_speech ":"ar bandhu khulna guitto giye",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend went to visit Khulna"
+  },
+  {
+    "bangla_speech ":"আমার ঘুরতে অনেক ভালো  লাগে",
+    "banglish_speech ":"amar ghurte onek valo  lage",
+    "chittagong_bangla_speech ":"আর গুরতো বহুত ভালা লাগে",
+    "chittagong_banglish_speech ":"ar gurto bohut vala lage",
+    "region_name ":"Chittagong",
+    "english_speech":"I like to travel a lot"
+  },
+  {
+    "bangla_speech ":"আমি বিদেশে গিয়ে অনেক ঘুরতে চাই",
+    "banglish_speech ":"ami bideshe giye onek ghurte chai",
+    "chittagong_bangla_speech ":"আই বিদেশত জাইয়েরে বহুত ঘুইরতাম চাই",
+    "chittagong_banglish_speech ":"ai bideshot jaiyere bohut ghuirtam chai",
+    "region_name ":"Chittagong",
+    "english_speech":"I want to go abroad and travel a lot"
+  },
+  {
+    "bangla_speech ":"তুমি আমাকে বিরক্ত করো না",
+    "banglish_speech ":"tumi amake birokto koro na",
+    "chittagong_bangla_speech ":"তুই আরে বিরক্ত ন গইজ",
+    "chittagong_banglish_speech ":"tui are birokto no goij",
+    "region_name ":"Chittagong",
+    "english_speech":"you don't bother me"
+  },
+  {
+    "bangla_speech ":"তিনি আমাকে অনেক অপমান করেছে",
+    "banglish_speech ":"tini amake onek opman koreche",
+    "chittagong_bangla_speech ":"তুই আরে বহুত অফমান গইজ্জ",
+    "chittagong_banglish_speech ":"tui are bohut ofoman goijjo",
+    "region_name ":"Chittagong",
+    "english_speech":"He insulted me a lot"
+  },
+  {
+    "bangla_speech ":"আমার সকালে উঠে বই পরতে অনেক ভালো লাগে",
+    "banglish_speech ":"amar sokale uthe boi porte onek valo lage",
+    "chittagong_bangla_speech ":"আর সকালত উডিয়েরে বই ফইত্তাম বহুত ভালো লাগে ",
+    "chittagong_banglish_speech ":"ar sokalot udiyere boi foittam bohut valo lage",
+    "region_name ":"Chittagong",
+    "english_speech":"I like to get up in the morning and wear a book"
+  },
+  {
+    "bangla_speech ":"আমার ছোট ভাই একদমই পড়ালেখা করতে চায় না",
+    "banglish_speech ":"amar choto vai ekdomi poralekha korte chay na",
+    "chittagong_bangla_speech ":"আর ভাই ছোড উওা একদমি ফন্না ফরিবেল্লাই ন চায় ",
+    "chittagong_banglish_speech ":"ar vai chodo uoa ekdomi fonna foribellai no cay",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger brother does not want to study at all"
+  },
+  {
+    "bangla_speech ":"আমার ছোট ভাই  বিদ্যালয়ে  যেতে চায় না",
+    "banglish_speech ":"amar choto vai  biddaloye  jete chay na",
+    "chittagong_bangla_speech ":"আর ভাই ছোড ইবা স্কুলত জাইতো ন চায় ",
+    "chittagong_banglish_speech ":"ar vai chodo iba schoolot jaito no cay",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger brother doesn't want to go to school"
+  },
+  {
+    "bangla_speech ":"আমার ছোট ভাইয়ের বিদ্যালয়ে গিয়ে পড়ালেখা করতে ভাল লাগে না",
+    "banglish_speech ":"amar choto vaiyer biddaloye giye poralekha korte val lage na",
+    "chittagong_bangla_speech ":"আর ভাই ছোড ইবা স্কুলত জাইয়েরে ফন্না ফরিবেল্লাই ন চায় ",
+    "chittagong_banglish_speech ":"ar vai chodo iba schoolot jaiyere fonna foribellai no cay",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger brother does not like to go to school and study"
+  },
+  {
+    "bangla_speech ":"আমি একদিন  বিদ্যালয়ের মাঠে মাথা ঘুরিয়ে পরে গিয়েছিলাম",
+    "banglish_speech ":"ami ekdin biddaloyer mathe matha ghuriye pore giyechilam",
+    "chittagong_bangla_speech ":"আই একদিন স্কুলর মাডত মাথা গুরাইয়েরে ফরি গেইলাম",
+    "chittagong_banglish_speech ":"ai ekdin schoolor madot matha guraiyere fori geilam",
+    "region_name ":"Chittagong",
+    "english_speech":"I lost my head one day in the school grounds"
+  },
+  {
+    "bangla_speech ":"আপনি কি আমাকে কোনদিনও ভালবাসবেন না ?",
+    "banglish_speech ":"apni ki amake konodino valobashben na ?",
+    "chittagong_bangla_speech ":"অনেকি আরে হোন দিনো ভালোনোবাসিবান?",
+    "chittagong_banglish_speech ":"oneki are hon dino valonobasiban?",
+    "region_name ":"Chittagong",
+    "english_speech":"Will you never love me?"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধু আজকে সকালে ফুটবল খেলেছে",
+    "banglish_speech ":"amar bondhu ajke sokale football kheleche",
+    "chittagong_bangla_speech ":"আর বন্ধু আজিয়া সকালত ফুটবল খেইল্লে",
+    "chittagong_banglish_speech ":"ar bondhu ajiya sokalot football kheille",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend played football this morning"
+  },
+  {
+    "bangla_speech ":"তুমি আমার মনের কথা একদমই বুঝো না ",
+    "banglish_speech ":"tumi amar moner kotha ekdomi bujho na",
+    "chittagong_bangla_speech ":"তুই আর মনত হতা এক্কেরে ন বুঝে ",
+    "chittagong_banglish_speech ":"tui ar monot hota ekkere no bujhe",
+    "region_name ":"Chittagong",
+    "english_speech":"You don't understand my mind at all"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু অনেক ভালো রান্না করে",
+    "banglish_speech ":"amar ammu onek valo ranna kore",
+    "chittagong_bangla_speech ":"আর আম্মু বহুত ভালা রান্দিত ফারে",
+    "chittagong_banglish_speech ":"ar ammu bohut vala randit fare",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom cooks very well"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধু এখন ঘুমাতে যাবে",
+    "banglish_speech ":"amar bondhu ekhon ghumate jabe",
+    "chittagong_bangla_speech ":"আর বন্ধু এহন ঘুম জাইব দে",
+    "chittagong_banglish_speech ":"ar bondhu ehon ghum jaib de",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend will go to sleep now"
+  },
+  {
+    "bangla_speech ":"আমার ছোট বোন নাচতে পারে",
+    "banglish_speech ":"amar choto bon nachte pare",
+    "chittagong_bangla_speech ":"আর বইত ছোড ইবা নাসিত্তারে",
+    "chittagong_banglish_speech ":"ar boit chodo iba nasittare",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger sister can dance"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধু এইবার ছুটিতে রাজশাহী ঘুরতে যাবে",
+    "banglish_speech ":"amar bondhu eibar chutite rajshahi ghurte jabe",
+    "chittagong_bangla_speech ":"আর বন্ধু এইসুডিত রাজশাহী গুইত্ত জাইবদে",
+    "chittagong_banglish_speech ":"ar bondhu eisudit rajshahi guitto jaibde",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend will go to Rajshahi on vacation this time"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধু  যাকে ভালবাসে  সে রাজশাহী থাকে",
+    "banglish_speech ":"amar bondhu  jake valobase se rajshahi thake",
+    "chittagong_bangla_speech ":"আর বন্ধু জিতারে ভালোবাসে ইতে রাজশাহী তাহে দে",
+    "chittagong_banglish_speech ":"ar bondhu jitare valobase ite rajshahi tahe de",
+    "region_name ":"Chittagong",
+    "english_speech":"The one my friend loves lives in Rajshahi"
+  },
+  {
+    "bangla_speech ":"মেয়েটি  রাজশাহী থেকে আমার বড় ভাইয়ের সাথে দেখা করতে এসেছিল",
+    "banglish_speech ":"meyeti  rajshahi theke amar boro vaiyer sathe dekha korte esechilo",
+    "chittagong_bangla_speech ":"মাইয়াা ফয়া ইব আরাজশাহীত্তুন আর ডোর ভাইর ফয়ারিত দেহা গরিবেল্লাই আইসসিল",
+    "chittagong_banglish_speech ":"maiyaa foya ib ara rajshahittun ar dor vair foyarit deha goribellai aissilo",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl came from Rajshahi to meet my elder brother"
+  },
+  {
+    "bangla_speech ":"মেয়েটি এখন সিলেট যাবে",
+    "banglish_speech ":"meyeti ekhon sylhet jabe",
+    "chittagong_bangla_speech ":"মাইয়া ফয়া ইবা এহন সিলেট জাইবদে",
+    "chittagong_banglish_speech ":"maiya foya iba ehon sylhet jaibde",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl will now go to Sylhet"
+  },
+  {
+    "bangla_speech ":"আমার বড় ভাই এখন তাঁর বন্ধুদের সাথে সিগারেট খায় না",
+    "banglish_speech ":"amar boro vai ekhon tar bondhuder cigarettes sathe khay na",
+    "chittagong_bangla_speech ":"আর আই ডোর ইবা তার বন্ধুর ফয়ারিত এহন বিরি ন হায়দে",
+    "chittagong_banglish_speech ":"ar ai dor iba tar bondhur foyarit ehon biri no hayde",
+    "region_name ":"Chittagong",
+    "english_speech":"My elder brother does not smoke cigarettes with his friends now"
+  },
+  {
+    "bangla_speech ":"আপনি কি আমাকে আগে কোনদিন দেখেছেন ?",
+    "banglish_speech ":"apni ki amake age konodin dekhechen ?",
+    "chittagong_bangla_speech ":" অনেকি আরে আগে হন দিন দেইক্কুন্না?",
+    "chittagong_banglish_speech ":"oneki are age hon din deikkunna?",
+    "region_name ":"Chittagong",
+    "english_speech":"Have you ever seen me before?"
+  },
+  {
+    "bangla_speech ":"আপনি কি আমাকে চিনতে পেরেছেন?",
+    "banglish_speech ":"apni ki amake chinte perechen?",
+    "chittagong_bangla_speech ":"অনেকি আরে চিনিত্তাইজ্জুন্না?",
+    "chittagong_banglish_speech ":"oneki are cinitaijjunna?",
+    "region_name ":"Chittagong",
+    "english_speech":"Do you recognize me?"
+  },
+  {
+    "bangla_speech ":"ছেলেটি আমাকে চিনতে পারল না",
+    "banglish_speech ":"cheleti amake chinte parlo na",
+    "chittagong_bangla_speech ":"ফোয়াইবা আরে ন চিনে",
+    "chittagong_banglish_speech ":"foyaiba are no cine",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy did not recognize me"
+  },
+  {
+    "bangla_speech ":"মেয়েটি তোমাকে  চিনতে পারল না",
+    "banglish_speech ":"meyeti tomake chinte parlo na",
+    "chittagong_bangla_speech ":"মাইয়াফোয়াা ইবা আরে ন চিনে",
+    "chittagong_banglish_speech ":"maiyafoyaa iba are no cine",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl didn't recognize you"
+  },
+  {
+    "bangla_speech ":"আমার এখন পড়ালেখা করা উচিত",
+    "banglish_speech ":"amar ekhon poralekha kora uchit",
+    "chittagong_bangla_speech ":"আর এহন ফন্না ফরা উচিত",
+    "chittagong_banglish_speech ":"ar ehon fonna fora ucit",
+    "region_name ":"Chittagong",
+    "english_speech":"I should study now"
+  },
+  {
+    "bangla_speech ":"অনেক রাত হয়েছে এখন আমার ছোট বোন ঘুমাতে যাবে",
+    "banglish_speech ":"onek rat hoyeche ekhon amar choto bon ghumate jabe",
+    "chittagong_bangla_speech ":"বহুত রাত অইয়ে এহন আর ভই ছোডউওা ঘুমাইবেল্লাই জাইব দে",
+    "chittagong_banglish_speech ":"bhut rat oiye ehon ar voi chodouoa ghumaibellai jaibo de",
+    "region_name ":"Chittagong",
+    "english_speech":"It is late night now my younger sister will go to sleep"
+  },
+  {
+    "bangla_speech ":"আমাকে পরিক্ষার আগে সব কিছু নিয়ে পড়ালেখা করতে হবে",
+    "banglish_speech ":"amake porikkhar age sob kichu niye poralekha korte hobe",
+    "chittagong_bangla_speech ":"আত্তুন ফরিক্ষার আগদ্দি বেয়াক কিছু লইয়েরে ফন্না ফরন ফরিব",
+    "chittagong_banglish_speech ":"attun forikkhar agoddi beyak kichu loiyere fonna foron foribo",
+    "region_name ":"Chittagong",
+    "english_speech":"I have to study everything before the exam"
+  },
+  {
+    "bangla_speech ":"আমার ছোট ভাই বিদ্যালয়ে  গিয়ে বন্ধুদের সাথে গল্প করে",
+    "banglish_speech ":"amar choto vai biddaloye  giye bondhuder sathe golpo kore",
+    "chittagong_bangla_speech ":"আর ভআই ছোড ইবা স্কুলত জাইয়েরে বন্দুর ফোয়ারিত গলফ মারে দে",
+    "chittagong_banglish_speech ":"ar voai chodo iba schoolot jaiyere bondur foyarit golof mare de",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger brother goes to school and chats with his friends"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধু বিদ্যালয়ের  মাঠে প্রতিদিন ক্রিকেট খেলে",
+    "banglish_speech ":"amar bondhu biddaloyer mathe protidin cricket khele",
+    "chittagong_bangla_speech ":"আর বন্ধু স্কুলর মাডত ফ্রতিদিন ক্রিকেত হেলা হায় দে",
+    "chittagong_banglish_speech ":"ar bondhu schoolor madot frotidin cricket hela hay de",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend plays cricket everyday in the school ground"
+  },
+  {
+    "bangla_speech ":"একটি ছোট শিশু ফুটপাতে লাফাচ্ছে",
+    "banglish_speech ":"ekti choto shishu footpath e lafacche",
+    "chittagong_bangla_speech ":"এক্কান ছোড ফুটফাতত লাফাদ্দে",
+    "chittagong_banglish_speech ":"ekkan chodo futfatot lafadde",
+    "region_name ":"Chittagong",
+    "english_speech":"A small child is jumping on the sidewalk"
+  },
+  {
+    "bangla_speech ":"আমার বান্ধুবি তার স্বামীকে খুব ভালবাসে",
+    "banglish_speech ":"amar bandhubi tar shamike khub valobase",
+    "chittagong_bangla_speech ":"আর বান্ধবির তার জামাইরে বহুত ভালবাসেদে",
+    "chittagong_banglish_speech ":"ar bandhobir tar jamaire bohut valobasede",
+    "region_name ":"Chittagong",
+    "english_speech":"My girlfriend loves her husband very much"
+  },
+  {
+    "bangla_speech ":"আমার স্ত্রী আমাকে  ভালোবাসে না",
+    "banglish_speech ":"amar stri amake valobase na",
+    "chittagong_bangla_speech ":"আর বউ আরে ভালনোবাসেদে",
+    "chittagong_banglish_speech ":"ar bou are valonobasede",
+    "region_name ":"Chittagong",
+    "english_speech":"My wife doesn't love me"
+  },
+  {
+    "bangla_speech ":"স্কুল জীবন থেকে আমার ভাইয়ের সাথে তোমার বোনের  প্রেম ছিলো",
+    "banglish_speech ":"school jibon theke amar vaiyer sathe tomar boner  prem chilo",
+    "chittagong_bangla_speech ":"স্কুল জীবনেত্তুন আর ভআই ফয়ারিত তোয়ার ভইনর ফ্রেম আসিল",
+    "chittagong_banglish_speech ":"school jibonettun ar vai foyarit toyar voinor frem asilo",
+    "region_name ":"Chittagong",
+    "english_speech":"Your sister was in love with my brother since school life"
+  },
+  {
+    "bangla_speech ":"আমার গতকাল প্রচণ্ড মাথা ব্যথা করছিলো",
+    "banglish_speech ":"amar gotokal procondo matha betha korchilo",
+    "chittagong_bangla_speech ":"আর গুতহালিয়া বহুত মাতা হরাইয়ে ",
+    "chittagong_banglish_speech ":"ar guthaliya bohut mata horaiye",
+    "region_name ":"Chittagong",
+    "english_speech":"I had a severe headache yesterday"
+  },
+  {
+    "bangla_speech ":"আমি তোমার কোন কথা কিছুই বুঝতে পারলাম না",
+    "banglish_speech ":"ami tomar kono kotha kichui bujhte parlam na",
+    "chittagong_bangla_speech ":"আই তোয়ার হোন হতা কিছুই বঝিত নোফাইল্লাম",
+    "chittagong_banglish_speech ":"ai toyar hon hota kichui bojhit nofaillam",
+    "region_name ":"Chittagong",
+    "english_speech":"I didn't understand anything you said"
+  },
+  {
+    "bangla_speech ":"তোমার  হাশির কাছে আমার সব কিছু হার মেনে যায়",
+    "banglish_speech ":"tomar  hashir kache amar sob kichu har mene jay",
+    "chittagong_bangla_speech ":"তোয়ারর হাশির হাসে আর বেয়াক্কিসু আর মানে দে",
+    "chittagong_banglish_speech ":"toyaror hashir hase ar beyakkisu ar mane de",
+    "region_name ":"Chittagong",
+    "english_speech":"I lose everything to your smile"
+  },
+  {
+    "bangla_speech ":"তোমার  চোখ দুটো অনেক সুন্দর",
+    "banglish_speech ":"tomar chokh duto onek sundor",
+    "chittagong_bangla_speech ":"তোয়ার চখ দুইয়ান বহুত সুন্দর",
+    "chittagong_banglish_speech ":"toyar cokh duiyan bohut sundor",
+    "region_name ":"Chittagong",
+    "english_speech":"Your eyes are very beautiful"
+  },
+  {
+    "bangla_speech ":"তোমার সাথে অনেক দিন পর  দেখা",
+    "banglish_speech ":"tomar sathe onek din por  dekha",
+    "chittagong_bangla_speech ":"তোওয়ার ফোয়ারিত বহুত দিন ফর দেহা অইয়েদে",
+    "chittagong_banglish_speech ":"toyar foyarit bohut din for deha oiyede",
+    "region_name ":"Chittagong",
+    "english_speech":"See you after a long time"
+  },
+  {
+    "bangla_speech ":"ছেলেটি  বিদেশে গিয়ে পড়ালেখা করার স্বপ্ন দেখে",
+    "banglish_speech ":"cheleti  bideshe giye poralekha korar shopno dekhe",
+    "chittagong_bangla_speech ":"ফয়া ইবা বদেশত জাইয়েরে ফন্নাফরিবার স্বপ্ন দেহে",
+    "chittagong_banglish_speech ":"foya iba bodeshot jaiyere fonnaforibar sopno dehe",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy dreams of studying abroad"
+  },
+  {
+    "bangla_speech ":"তোমার  সাথে কথা বলে আমার অনেক ভালো লাগলো",
+    "banglish_speech ":"tomar  sathe kotha bole amar onek valo laglo",
+    "chittagong_bangla_speech ":"তোয়ার ফোয়ারিত হতা হইয়েরে আত্তুন বহুত গম লাগেদে",
+    "chittagong_banglish_speech ":"toyar foyarit hota hoiyere attun bohut gom lagede",
+    "region_name ":"Chittagong",
+    "english_speech":"I enjoyed talking with you"
+  },
+  {
+    "bangla_speech ":"তোমার বন্ধুর সাথে পরিচিত হয়ে  ভালো লাগলো",
+    "banglish_speech ":"tomar bondhur sathe porichito hoye  valo laglo",
+    "chittagong_bangla_speech ":"তোওয়ার বন্দুর ফোয়ারিত ফরিচয় অইয়েরে ভালো লাইজ্ঞে",
+    "chittagong_banglish_speech ":"tooyar bondur foyarit foricoy oiyere valo laigge",
+    "region_name ":"Chittagong",
+    "english_speech":"Nice to meet your friend"
+  },
+  {
+    "bangla_speech ":"আমার আব্বু আর চাচার মধ্যে জায়গা জমি নিয়ে ঝগড়া হয়",
+    "banglish_speech ":"amar abbu ar chachar moddhe jayga jomi niye jhogra hoy",
+    "chittagong_bangla_speech ":"আর আব্বু আর চাচা জায়গা জবি লইয়েরে হইজ্জে অইদে",
+    "chittagong_banglish_speech ":"ar abbu ar caca jayga jobi loiyere hoijje oide",
+    "region_name ":"Chittagong",
+    "english_speech":"My father and uncle quarreled about land"
+  },
+  {
+    "bangla_speech ":"লোকটি কিছু দিন আগে  বিয়ে করেন",
+    "banglish_speech ":"lokti kichu din age  biye koren",
+    "chittagong_bangla_speech ":"লোক ইবা কিছু আগদ্দি বিয়া গইজ্জেদে",
+    "chittagong_banglish_speech ":"lok iba kichu agoddi biya goijjede",
+    "region_name ":"Chittagong",
+    "english_speech":"The man got married a few days ago"
+  },
+  {
+    "bangla_speech ":"প্রথমে তোমাকে একটি বইয়ের দোকানে যেতে হবে",
+    "banglish_speech ":"prothome tomake ekti boiyer dokane jete hobe",
+    "chittagong_bangla_speech ":"ফ্রতমে তোয়াত্তুন এক্কান বইয়র দোয়ানত জন ফরিবদে",
+    "chittagong_banglish_speech ":"frotome toyattun ekkan boiyor doyanot jon foribde",
+    "region_name ":"Chittagong",
+    "english_speech":"First you need to go to a bookstore"
+  },
+  {
+    "bangla_speech ":"বেশি কিছু বলার আগেই  আবেগে চোখে পানি চলে আসছে",
+    "banglish_speech ":"beshi kichu bolar agei  abege chokhe pani chole asche",
+    "chittagong_bangla_speech ":"বেশি হইবার আগে আবেগে ছখত ফানি চলি আইসসে",
+    "chittagong_banglish_speech ":"beshi hoibar age abege chokhot fani coli aisse",
+    "region_name ":"Chittagong",
+    "english_speech":"Before saying more, tears are coming to the eyes"
+  },
+  {
+    "bangla_speech ":"আপনার বন্ধুদের গালি দেওয়ার সুযোগ করে দিন",
+    "banglish_speech ":"apnar bondhuder gali deoyar sujog kore din",
+    "chittagong_bangla_speech ":"অনের বন্ধুতারার গালি দিবেল্লাই সুযোগ গরি দন",
+    "chittagong_banglish_speech ":"oner bondhutarar gali dibellai sujog gori don",
+    "region_name ":"Chittagong",
+    "english_speech":"Give your friends a chance to abuse"
+  },
+  {
+    "bangla_speech ":"অনেক মানুষ এখনো পেছনে লাইনে দাঁড়িয়ে আছে",
+    "banglish_speech ":"onek manush ekhono pechone line e dariye ache",
+    "chittagong_bangla_speech ":"বহুুত মানুষ এহনো ফিছনে লাইনত তিয়াই আসে",
+    "chittagong_banglish_speech ":"bohut manush ehono fichone lainot tiyai ase",
+    "region_name ":"Chittagong",
+    "english_speech":"Many people are still standing in the back line"
+  },
+  {
+    "bangla_speech ":"একজন মহিলা  মারা গেছেন",
+    "banglish_speech ":"ekjon mohila  mara gechen",
+    "chittagong_bangla_speech ":"এক্কাজন মহিলা ইন্তেকাল গইজ্জে ",
+    "chittagong_banglish_speech ":"ekkajon mohila intekal goijje",
+    "region_name ":"Chittagong",
+    "english_speech":"A woman died"
+  },
+  {
+    "bangla_speech ":"আপনি  এত গরীব আগে কেন বলেননি",
+    "banglish_speech ":"apni  eto gorib age keno bolenni",
+    "chittagong_bangla_speech ":"অনে এইল্লে গরিব আগে কিল্লাই ন হন",
+    "chittagong_banglish_speech ":"one eille gorib age killai no hon",
+    "region_name ":"Chittagong",
+    "english_speech":"Why didn't you tell me earlier that you are so poor"
+  },
+  {
+    "bangla_speech ":"তুমি ছাড়া এই পৃথিবীতে আমার আর কেউ নেই",
+    "banglish_speech ":"tumi chara ei prithibite amar ar keu nei",
+    "chittagong_bangla_speech ":"তুই ছাড়া এই দুনিয়াত আর হনিক্কা নাই",
+    "chittagong_banglish_speech ":"tui chara ei duniyat ar honikka nai",
+    "region_name ":"Chittagong",
+    "english_speech":"I have no one else in this world except you"
+  },
+  {
+    "bangla_speech ":"আমি আগেই বলেছি তোমাকে নিয়ে বিদেশ ঘুরতে চাই",
+    "banglish_speech ":"ami agei bolechi tomake niye bidesh ghurte chai",
+    "chittagong_bangla_speech ":"আই আগেই হইয়ি আই তোয়ারে লই বিদেশত ঘুইত্তাম চাই",
+    "chittagong_banglish_speech ":"ai agei hoiyi ai toyare loi bideshot ghuittam cai",
+    "region_name ":"Chittagong",
+    "english_speech":"I already said I want to travel abroad with you"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু আমাকে সবার  সামনে মারতে মারতে বাসায় নিয়ে আসে",
+    "banglish_speech ":"amar ammu amake sobar  samne marte marte bashay niye ase",
+    "chittagong_bangla_speech ":"আর আম্মু আরে বেয়াক্কুনর সাম্নদ্দি মাইত্তে মাইত্তে বাসাত লই গিয়ি",
+    "chittagong_banglish_speech ":"ar ammu are beyakkunor samnoddi maitte maitte basat loi giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom brought me home beating me in front of everyone"
+  },
+  {
+    "bangla_speech ":"আপনি কি জানেন  এখানে অনেক ছেলে কমেন্ট পড়তে আসবে",
+    "banglish_speech ":"apni ki janen  ekhane onek chele comment porte asbe",
+    "chittagong_bangla_speech ":"অনে কি জানন্না এডে বহুত মরত ফোয়া কমেন্ট ফরিবেল্লাই আইবদে",
+    "chittagong_banglish_speech ":"one ki janonna ede bohut morot foya comment foribellai aibde",
+    "region_name ":"Chittagong",
+    "english_speech":"Do you know that many boys will come here to read comments"
+  },
+  {
+    "bangla_speech ":"আবেগের ভালোবাসা কাউকে দেওয়া উচিত না",
+    "banglish_speech ":"abeger valobasa kauke deoya uchit na",
+    "chittagong_bangla_speech ":"আবেগর ভালোবাসা হনিক্কারে দন উছিত নয়",
+    "chittagong_banglish_speech ":"abegor valobasa honikkare don uchit noy",
+    "region_name ":"Chittagong",
+    "english_speech":"Emotional love should not be given to anyone"
+  },
+  {
+    "bangla_speech ":"একদিন বিবেকের কাছে আবেগের ভালোবাসা হেরে যাবে",
+    "banglish_speech ":"ekdin bibeker kache abeger valobasha here jabe",
+    "chittagong_bangla_speech ":"একদিন বিবেগর ভালোবাসার হাসে আবেগর ভালোবাসা হারি জাইব দে",
+    "chittagong_banglish_speech ":"ekdin bibegor valobasar hase abegor valobasa hari jaibo de",
+    "region_name ":"Chittagong",
+    "english_speech":"One day emotional love will lose to conscience"
+  },
+  {
+    "bangla_speech ":"আমার মনের ভালোবাসা চিরদিন তোমার জন্য থেকে যাবে",
+    "banglish_speech ":"amar moner valobasha chirodin tomar jonno theke jabe",
+    "chittagong_bangla_speech ":"আর মনর ভালোবাসা চিরদিন তোয়ার লাই তাকি জাইব দে",
+    "chittagong_banglish_speech ":"ar monor valobasa cirodin toyar lai taki jaibo de",
+    "region_name ":"Chittagong",
+    "english_speech":"The love of my heart will remain for you forever"
+  },
+  {
+    "bangla_speech ":"জীবনে একা একা পথ চলা অনেক কঠিন",
+    "banglish_speech ":"jibone eka eka path chola onek kothin",
+    "chittagong_bangla_speech ":"জীবনে এহলা এহলা ফথ চলন বহুত কঠিন",
+    "chittagong_banglish_speech ":"jibone ehla ehla foth colon bohut kothin",
+    "region_name ":"Chittagong",
+    "english_speech":"It is very difficult to walk the path of life alone"
+  },
+  {
+    "bangla_speech ":"আমার জীবন আমি তোমাকে নিয়ে বাঁচার জন্য দিব",
+    "banglish_speech ":"amar jibon ami tomake niye bachar jonno dibo",
+    "chittagong_bangla_speech ":"আর জীবন আই তোয়ারেলই বাইচতাম দিউম",
+    "chittagong_banglish_speech ":"ar jibon ai toyareli baictam dium",
+    "region_name ":"Chittagong",
+    "english_speech":"I will give my life to live with you"
+  },
+  {
+    "bangla_speech ":"আমার ভালবাসা  দিয়ে  সারাজীবন তোমার পাশে থাকতে চাই",
+    "banglish_speech ":"amar valobasha  diye  sarajibon tomar pashe thakte chai",
+    "chittagong_bangla_speech ":"আর ভালোবাসা দিয়েরে সারাজীবন তোয়ার ফাশে তাইক্তাম চাই ",
+    "chittagong_banglish_speech ":"ar valobasa diyere sarajibon toyar fashe taiktam cai",
+    "region_name ":"Chittagong",
+    "english_speech":"I want to be with you all my life with my love"
+  },
+  {
+    "bangla_speech ":"তোমাকে কি করে বুঝাবো তোমাকে কতটা ভালবাসি?",
+    "banglish_speech ":"tomake ki kore bujhabo tomake kotota valobasi?",
+    "chittagong_bangla_speech ":"তোয়ারে কেনে বুঝাইতাম আই তোয়ারে হতকান ভালোবাসি?",
+    "chittagong_banglish_speech ":"toyare kene bujhaitam ai toyare hotokan valobasi?",
+    "region_name ":"Chittagong",
+    "english_speech":"How to tell you how much I love you?"
+  },
+  {
+    "bangla_speech ":"আপনাকে দেখে আমি দেখে থমকে দারিয়ে ছিলাম",
+    "banglish_speech ":"apnake dekhe ami dekhe thomke dariye chilam",
+    "chittagong_bangla_speech ":"অনেরে দেহিয়েরে আই থমকি দারাই আসিলাম ",
+    "chittagong_banglish_speech ":"onere dehiyere ai thomki darai asilam",
+    "region_name ":"Chittagong",
+    "english_speech":"I was stunned to see you"
+  },
+  {
+    "bangla_speech ":"আপনি  খুব কষ্টে নিজেকে সামলে নিয়েছেন",
+    "banglish_speech ":"apni  khub koshte nijeke shamle niyechen",
+    "chittagong_bangla_speech ":"অনে কিখুব হষ্ট গরিয়েরে নিজেরে মেনেজ গইজ্জেন",
+    "chittagong_banglish_speech ":"one kikhub hoshto goriyere nijere manage goijjen",
+    "region_name ":"Chittagong",
+    "english_speech":"You have handled yourself with great difficulty"
+  },
+  {
+    "bangla_speech ":"আমার বান্ধুবি কিছু ভাবতে পারেনা আপনাকে  ছাড়া",
+    "banglish_speech ":"amar bandhubi kichu vabte parena apnake chara",
+    "chittagong_bangla_speech ":"আর বান্ধুবি আরে ছাড়া কিছু ভাবিত ন ফারের ",
+    "chittagong_banglish_speech ":"ar bandhubi are chara kichu vabit no farer",
+    "region_name ":"Chittagong",
+    "english_speech":"My girlfriend can't think of anything without you"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধু কিছু লিখতে পারেনা  আপনার নাম ছাড়া",
+    "banglish_speech ":"amar bondhu kichu likhte parena apnar name chara",
+    "chittagong_bangla_speech ":"আর বন্ধু কিছু লিখিন্নোফারে অনের নাম্মান ছাড়া",
+    "chittagong_banglish_speech ":"ar bondhu kichu likhinnofare oner namman chara",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend can't write anything except your name"
+  },
+  {
+    "bangla_speech ":"আপনাকে ভালোবাসি  এই কথাটি বলা বাকি",
+    "banglish_speech ":"apnake valobashi  ei kothati bola baki",
+    "chittagong_bangla_speech ":"অনেরে ভালোদবাসি হতা ইবা হন বাকি",
+    "chittagong_banglish_speech ":"onere valodbasi hota iba hon baki",
+    "region_name ":"Chittagong",
+    "english_speech":"All that is left to say is that I love you"
+  },
+  {
+    "bangla_speech ":"আমার আব্বুর খুব গরম লাগছে",
+    "banglish_speech ":"amar abbur khub gorom lagche",
+    "chittagong_bangla_speech ":"আর আব্বু্তুন খুব গরম লাইজ্ঞেদে",
+    "chittagong_banglish_speech ":"ar abbutun khub gorom laiggede",
+    "region_name ":"Chittagong",
+    "english_speech":"My father feels very hot"
+  },
+  {
+    "bangla_speech ":"আমার ছোট বোনের গরম লাগছে",
+    "banglish_speech ":"amar choto boner gorom lagche",
+    "chittagong_bangla_speech ":"আর ভইন ছোড ইবার গরম লাইজ্ঞে",
+    "chittagong_banglish_speech ":"ar voin chodo ibar gorom laigge",
+    "region_name ":"Chittagong",
+    "english_speech":"My little sister feels very hot"
+  },
+  {
+    "bangla_speech ":"এই শিশুটির অনেক ঠাণ্ডা লাগছে",
+    "banglish_speech ":"ei shishutir onek thanda lagche",
+    "chittagong_bangla_speech ":"এই শিশু ইবার বহুত ঠান্ডা লাইজ্ঞে",
+    "chittagong_banglish_speech ":"ei shishu ibar bohut thanda laigge",
+    "region_name ":"Chittagong",
+    "english_speech":"This child feels very cold"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধুর খুব মন খারাপ",
+    "banglish_speech ":"amar bondhur khub mon kharap",
+    "chittagong_bangla_speech ":"আর বন্ধুর মন্নান হারাফ",
+    "chittagong_banglish_speech ":"ar bondhur monnan haraf",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend is very upset"
+  },
+  {
+    "bangla_speech ":"আম্মু আমার জন্য নীল শাড়ি কিনে এনেছে",
+    "banglish_speech ":"ammu amar jonno nil shari kine eneche",
+    "chittagong_bangla_speech ":"আর আম্মু আর লাই নীল শাড়ি কিনি আইন্নে ",
+    "chittagong_banglish_speech ":"ar ammu ar lai nil shari kini ainne",
+    "region_name ":"Chittagong",
+    "english_speech":"Mom bought a blue saree for me"
+  },
+  {
+    "bangla_speech ":"আমি আমার বন্ধুকে  একটি লাল গোলাপ কিনে উপহার দিয়েছি",
+    "banglish_speech ":"ami amar bondhuke  ekti lal golap kine upohar diyechi",
+    "chittagong_bangla_speech ":"আই আম্র বন্ধুরে এক্কান লাল গোলাফ কিনি উফহার দিয়ি",
+    "chittagong_banglish_speech ":"ai amro bondhure ekkan lal golaf kini ufohar diyi",
+    "region_name ":"Chittagong",
+    "english_speech":"I bought and gifted a red rose to my friend"
+  },
+  {
+    "bangla_speech ":"আমি আমার স্বামীর সাথে বিকালে পার্কে ঘুরতে যাব",
+    "banglish_speech ":"ami amar shamir sathe bikale park e ghurte jabo",
+    "chittagong_bangla_speech ":"আই আর জামাইর ফোয়ারিত বিকালত গুইত্তাম জাইয়ুম দে",
+    "chittagong_banglish_speech ":"ai ar jamair foyarit bikalot guittam jaiyum de",
+    "region_name ":"Chittagong",
+    "english_speech":"I will go for a walk in the park with my husband in the afternoon"
+  },
+  {
+    "bangla_speech ":"কাউকে ভালোবাসা দেওয়াতেই বেশি আনন্দ লাগে আমার",
+    "banglish_speech ":"kauke valobasha deoyatei beshi anondo lage amar",
+    "chittagong_bangla_speech ":"হনিক্কারে ভালোবাসা দিতাম বেশি আনন্দ লাগে দে",
+    "chittagong_banglish_speech ":"honikkare valobasa ditam beshi anondo lage de",
+    "region_name ":"Chittagong",
+    "english_speech":"I am more happy to give love to someone"
+  },
+  {
+    "bangla_speech ":"যদি তুমি আমার কাছে ফিরে আস ,তবে তাকে ছেড়ে দাও",
+    "banglish_speech ":"jodi tumi amar kache fire asho ,tobe take chere dao",
+    "chittagong_bangla_speech ":"যদি তুই আর হাসে ফিরি আইয়, তইলে তারে ছাড়ি দো",
+    "chittagong_banglish_speech ":"jodi tui ar hase firi aiyo, toile tare chari do",
+    "region_name ":"Chittagong",
+    "english_speech":"If you come back to me, let him go"
+  },
+  {
+    "bangla_speech ":"সে তোমার জন্য সব কিছু করতে পারে",
+    "banglish_speech ":"se tomar jonno sob kichu korte pare",
+    "chittagong_bangla_speech ":"সে তোয়ার লাই বেক কিছু গরিত্তারে",
+    "chittagong_banglish_speech ":"se toyar lai bek kichu gorittare",
+    "region_name ":"Chittagong",
+    "english_speech":"He can do anything for you"
+  },
+  {
+    "bangla_speech ":"আপনি যে মানুষটিকে ভালবাসবেন  তাকে যদি না বুঝতে পারেন  তাহলে আপনার এই প্রেমের কোনো অর্থ নেই",
+    "banglish_speech ":"apni je manushtike valobashben  take jodi na bujhte paren  tahole apnar ei premer kono ortho nei",
+    "chittagong_bangla_speech ":"অনে যে মানুষোরে ভালোবাসিবান তারে যদি নো বুঝিত্তারন তাইলে অনে এই ফ্রেমর হোনো মানে নাই",
+    "chittagong_banglish_speech ":"one je manushore valobasiban tare jodi no bujhittaron taile one ei fremor hono mane nai",
+    "region_name ":"Chittagong",
+    "english_speech":"If you don't understand the person you love then your love has no meaning"
+  },
+  {
+    "bangla_speech ":"আপনি নিজে অসুখী হয়ে কিভাবে অন্যকে ভালোবেসে সুখী করবেন",
+    "banglish_speech ":"apni nije osukhi hoye kivabe onnoke valobeshe sukhi korben",
+    "chittagong_bangla_speech ":"অনে নিজে অসুখী অইয়েরে কেনে অন্যরে ভালোবাসিয়েরে খুসি গরিবান",
+    "chittagong_banglish_speech ":"one nije osukhi oiyere kene onnore valobasiyere khusi goriban",
+    "region_name ":"Chittagong",
+    "english_speech":"How to make others happy if you are unhappy yourself"
+  },
+  {
+    "bangla_speech ":"তুমি কারো জীবনে সুখ এনে দেবে এই ভেবে তোমার প্রেম করা উচিত",
+    "banglish_speech ":"tumi karo jibone sukh ene debe ei vebe tomar prem kora uchit",
+    "chittagong_bangla_speech ":"তুই হার জীবনত সুখ আনি দিবা এইল্লে গরি ফ্রেম গরন উচিত",
+    "chittagong_banglish_speech ":"tui har jibonot sukh ani diba eille gori frem goron ucit",
+    "region_name ":"Chittagong",
+    "english_speech":"You should love thinking that you will bring happiness to someone's life"
+  },
+  {
+    "bangla_speech ":"আপনার  মনের কথা গুলো আমাকে আজ খুলে বলুন",
+    "banglish_speech ":"apnar  moner kotha gulo amake aj khule bolun",
+    "chittagong_bangla_speech ":"অনের মনর হতা ইন আরে আজিয়া খুলি হন",
+    "chittagong_banglish_speech ":"oner monor hota in are ajiya khuli hon",
+    "region_name ":"Chittagong",
+    "english_speech":"Tell me your thoughts today"
+  },
+  {
+    "bangla_speech ":"তুমি  কখনই পারবে না অন্য কারও ভালোবাসাকে ছিনিয়ে নিতে",
+    "banglish_speech ":"tumi  kokhonoi parbe na onno karo valobashake chiniye nite",
+    "chittagong_bangla_speech ":"তুই হোনো সমত নো ফারিবা হনিক্কার ভালোবাসা ছিনিইয়েরে লইতা",
+    "chittagong_banglish_speech ":"tui hono somot no fariba honikkar valobasa chiniyere loita",
+    "region_name ":"Chittagong",
+    "english_speech":"You can never take away someone else's love"
+  },
+  {
+    "bangla_speech ":"তুমি  জোর করে অন্যের ভালো লাগার মানুষ হতে পারবে না",
+    "banglish_speech ":"tumi  jor kore onner valo lagar manush hote parbe na",
+    "chittagong_bangla_speech ":"তুই জোর গরিয়েরে আন্য আরেকজনর ভালোলাগার মানুষ অইন্নো ফারিবা",
+    "chittagong_banglish_speech ":"tui jor goriyere anno arekjonor valolagar manush oinno fariba",
+    "region_name ":"Chittagong",
+    "english_speech":"You can't force others to like you"
+  },
+  {
+    "bangla_speech ":"আগামিকাল সকালবেলা  তাদেরকে দেখতে পাবেন",
+    "banglish_speech ":"agamikal sokalbela  taderke dekhte paben",
+    "chittagong_bangla_speech ":"আগামি হালিয়া সকালত তারারে দেখিত্তারিবান",
+    "chittagong_banglish_speech ":"agami haliya sokalot tarare dekhittariban",
+    "region_name ":"Chittagong",
+    "english_speech":"You will see them again tomorrow morning"
+  },
+  {
+    "bangla_speech ":"তোমার কোন কথাতেই কোনও নিশ্চয়তা নেই",
+    "banglish_speech ":"tomar kono kothatei kono nishchoyta nei",
+    "chittagong_bangla_speech ":"তোয়ার হোন হতাত হোনও কিশ্চয়তা নাই",
+    "chittagong_banglish_speech ":"toyar hon hotat hono kishcoyta nai",
+    "region_name ":"Chittagong",
+    "english_speech":"There is no guarantee of anything you say"
+  },
+  {
+    "bangla_speech ":"আমার অনেক ভালো লাগে কালো  ওই চোখ দুটো তোমার",
+    "banglish_speech ":"amar onek valo lage kalo  oi chokh duto tomar",
+    "chittagong_bangla_speech ":"আত্তু্তুন বহুত ভালো লাগেদে অই হালা চখ দুইয়ান",
+    "chittagong_banglish_speech ":"attutun bohut valo lagede oi hala cokh duiyan",
+    "region_name ":"Chittagong",
+    "english_speech":"I like those black eyes of yours"
+  },
+  {
+    "bangla_speech ":"তোমাকে একটি গোলাপ ফুল কিনে দিবো",
+    "banglish_speech ":"tomake ekti golap ful kine dibo",
+    "chittagong_bangla_speech ":"তোয়ারে এক্কান গোলাপ ফুল কিনি দিয়ুম",
+    "chittagong_banglish_speech ":"toyare ekkan golap ful kini diyum",
+    "region_name ":"Chittagong",
+    "english_speech":"I will buy you a rose flower"
+  },
+  {
+    "bangla_speech ":"আমার এই মন তোমাকে দিলাম",
+    "banglish_speech ":"amar ei mon tomake dilam",
+    "chittagong_bangla_speech ":"আর এই মন্নান তোয়ারে দিলাম",
+    "chittagong_banglish_speech ":"ar ei monnan toyare dilam",
+    "region_name ":"Chittagong",
+    "english_speech":"I gave you my heart"
+  },
+  {
+    "bangla_speech ":"তোমার হাজার কথার মাঝে তোমার  মনের কথা লুকিয়ে ছিল",
+    "banglish_speech ":"tomar hajar kothar majhe tomar  moner kotha lukiye chilo",
+    "chittagong_bangla_speech ":"তোমার হাজার হথার মঝত তোয়ার মনর হতা লুয়াই তাইক্কে",
+    "chittagong_banglish_speech ":"tomar hajar hothar mojhot toyar monor hota luyai taikke",
+    "region_name ":"Chittagong",
+    "english_speech":"Your heart was hidden in your thousands of words"
+  },
+  {
+    "bangla_speech ":"একটা মানুষের সব কথা একদিনে মুখে বলে দেওয়া যায়না",
+    "banglish_speech ":"ekta manusher sob kotha ekdine mukhe bole deoya jayna",
+    "chittagong_bangla_speech ":"এক্কান মানুষর সব হতার এক্কান দিনত মুখত হই দন ন যায়",
+    "chittagong_banglish_speech ":"ekkan manushor sob hotar ekkan dinot mukhot hoi don no jay",
+    "region_name ":"Chittagong",
+    "english_speech":"A person's words cannot be said in one day"
+  },
+  {
+    "bangla_speech ":"আমার হাজার কথার মাঝে ওই একটা কথা তোমাকে বুঝে নিতে হবে",
+    "banglish_speech ":"amar hajar kothar majhe oi ekta kotha tomake bujhe nite hobe",
+    "chittagong_bangla_speech ":"আর হাজার হতার মাঝত অই এক্কান হতা তোয়ার বুঝিয়েরে লন ফরিব",
+    "chittagong_banglish_speech ":"ar hajar hotar majhot oi ekkan hota toyar bujhiyere lon foribo",
+    "region_name ":"Chittagong",
+    "english_speech":"You have to understand that one word among my thousand words"
+  },
+  {
+    "bangla_speech ":"আমি যতদিন বেঁছে থাকি আপনাকে মনে রাখবো",
+    "banglish_speech ":"ami jotodin beche thaki apnake mone rakhbo",
+    "chittagong_bangla_speech ":"আই জতদিন বাসি তাহি অনেরে মনত রাইক্কুম",
+    "chittagong_banglish_speech ":"ai jotodin basi tahi onere monot raikkum",
+    "region_name ":"Chittagong",
+    "english_speech":"I will remember you as long as I live"
+  },
+  {
+    "bangla_speech ":"আমার যত কষ্ট হোক তোমাকে নিয়ে আমি জীবন সাজাবোই",
+    "banglish_speech ":"amar joto koshto hok tomake niye ami jibon sajaboi",
+    "chittagong_bangla_speech ":"আর জীতই হষ্ট উক আই তয়ারে লই জীবন সাজাইয়ুম",
+    "chittagong_banglish_speech ":"ar jiti hoshto uk ai toyare loi jibon sajaiyum",
+    "region_name ":"Chittagong",
+    "english_speech":"No matter how hard I am, I will arrange my life with you"
+  },
+  {
+    "bangla_speech ":"তোমার পড়াশোনা করে  কি হবে যদি তুমি যাকে ভালোবাসো তাকেই  না পাও",
+    "banglish_speech ":"tomar porashona kore  ki hobe jodi tumi jake valobasho takei na pao",
+    "chittagong_bangla_speech ":"তোয়ার ফোন্না ফরিয়েরে লাবহান কি যদি তুই যারে ভালোবাসো তারেই ন ফো",
+    "chittagong_banglish_speech ":"toyar fonna foriyere labhan ki jodi tui jare valobaso tarei no fo",
+    "region_name ":"Chittagong",
+    "english_speech":"What happens to your studies if you don't find the one you love?"
+  },
+  {
+    "bangla_speech ":"চাঁদের মিষ্টি আলো দেখতে আমার খুব ভালো লাগে",
+    "banglish_speech ":"chader mishti alo dekhte amar khub valo lage",
+    "chittagong_bangla_speech ":"চাদর মিষ্টি আলো দেখিতাম আর বহুত ভালো লাগে দে",
+    "chittagong_banglish_speech ":"cador mishti alo dekhitam ar bohut valo lage de",
+    "region_name ":"Chittagong",
+    "english_speech":"I love to see the sweet light of the moon"
+  },
+  {
+    "bangla_speech ":"আমাদের ঘরের প্রতিটি রুম ফুল দিয়ে সাজিয়ে রেখেছি",
+    "banglish_speech ":"amader ghorer protiti room ful diye sajiye rekhechi",
+    "chittagong_bangla_speech ":"আরার গরর বেয়াক্কুন রুম ফুল দিয়েরে সাজাই রাইক্কি",
+    "chittagong_banglish_speech ":"arar goror beyakkun room ful diyere sajai raikki",
+    "region_name ":"Chittagong",
+    "english_speech":"Every room in our house is decorated with flowers"
+  },
+  {
+    "bangla_speech ":"মাছের বাজারে  সবাই এসে বড় মাছটি দেখার জন্য ভিড় জমালো",
+    "banglish_speech ":"macher bajare sobai ese boro machti dekhar jonnovir jomalo",
+    "chittagong_bangla_speech ":"মাসর বাজারত বেয়াক্কুন আইয়েরে ডর মাস দেহিবেরলাই ভির জমাইয়ে",
+    "chittagong_banglish_speech ":"masor bajarot beyakkun aiyere dor mas dehiberlai vir jomaiye",
+    "region_name ":"Chittagong",
+    "english_speech":"The fish market was crowded to see the big fish"
+  },
+  {
+    "bangla_speech ":"আমার বিয়ে করার জন্য আরেকটা দিন এগিয়েছে",
+    "banglish_speech ":"amar biye korar jonno arekta din egiyeche",
+    "chittagong_bangla_speech ":"আর বিয়ার আরেক্কান দিন আগাইয়ে",
+    "chittagong_banglish_speech ":"ar biyar arekkan din agaiye",
+    "region_name ":"Chittagong",
+    "english_speech":"Another day has passed for my wedding"
+  },
+  {
+    "bangla_speech ":"দুজনে মিলে দুরে কোথাও ঘুরে আসতে পারি",
+    "banglish_speech ":"dujone mile dure kothao ghure aste pari",
+    "chittagong_bangla_speech ":"দুইজন মিলিয়েরে হোনমিক্কা ঘুরি আইত্তাম ফারি",
+    "chittagong_banglish_speech ":"duijon miliyere honmikka ghuri aittam fari",
+    "region_name ":"Chittagong",
+    "english_speech":"Both of us can visit somewhere far away"
+  },
+  {
+    "bangla_speech ":"আকাশের নীলে হারিয়ে যেতে  চাই তোমায় নিয়ে",
+    "banglish_speech ":"akasher nile hariye jete  chai tomay niye",
+    "chittagong_bangla_speech ":"আকাশর নিলত হারাই যাইতাম চাই তোয়ারে লই",
+    "chittagong_banglish_speech ":"akashor nilot harai jaitam cai toyare loi",
+    "region_name ":"Chittagong",
+    "english_speech":"I want to get lost in the blue sky with you"
+  },
+  {
+    "bangla_speech ":"আপনার জন্য মনে আমার অফুরন্ত ভালবাসা",
+    "banglish_speech ":"apnar jonno  mone amar ofuronto valobasa",
+    "chittagong_bangla_speech ":"অনের লাই মনত আর অফুরন্ত ভালোবাসা",
+    "chittagong_banglish_speech ":"oner lai monot ar ofuronto valobasa",
+    "region_name ":"Chittagong",
+    "english_speech":"My endless love for you"
+  },
+  {
+    "bangla_speech ":"আমি সারা জীবন আপনার ভালবাসা পেতে চাই",
+    "banglish_speech ":"ami sara jibon apnar valobasa pete chai",
+    "chittagong_bangla_speech ":"আই সারাজীবন অনের ভালোবাসা ফাইতাম চাই",
+    "chittagong_banglish_speech ":"ai sarajibon oner valobasa faitam cai",
+    "region_name ":"Chittagong",
+    "english_speech":"I want to have your love all my life"
+  },
+  {
+    "bangla_speech ":"আমি এবং আমার ছোট বোন একসাথে সাঁতার কাটি",
+    "banglish_speech ":"ami ebong amar choto bon eksathe satar kati",
+    "chittagong_bangla_speech ":"আই এবং আর ভইন ছোড ইবা সাতার হাডি",
+    "chittagong_banglish_speech ":"ai ebong ar voin chodo iba satar hadi",
+    "region_name ":"Chittagong",
+    "english_speech":"Me and my younger sister swim together"
+  },
+  {
+    "bangla_speech ":"তোমাকে নিয়ে সুখের পৃথিবী সাজাতে চাই",
+    "banglish_speech ":"tomake niye sukher prithibi sajate chai",
+    "chittagong_bangla_speech ":"তোয়ারে লই শুখর দুনিয়া সাজাইতাম চাই",
+    "chittagong_banglish_speech ":"toyare loi shukhor duniya sajaitam cai",
+    "region_name ":"Chittagong",
+    "english_speech":"I want to decorate the world of happiness with you"
+  },
+  {
+    "bangla_speech ":"আজ সিলেটে বৃষ্টি হবে",
+    "banglish_speech ":"aj sylhet e brishti hobe",
+    "chittagong_bangla_speech ":"আজিয়া সিলেটত বিষ্টি ফরিব দে",
+    "chittagong_banglish_speech ":"ajiya sylhetot bishti forib de",
+    "region_name ":"Chittagong",
+    "english_speech":"Today it will rain in Sylhet"
+  },
+  {
+    "bangla_speech ":"তোমার মিথ্যা ভালবাসা একদিন হেরে যাবে",
+    "banglish_speech ":"tomar mittha valobasa ekdin here jabe",
+    "chittagong_bangla_speech ":"তোয়ার মিসা ভালোবাসা একদিন হারি জাইব দে",
+    "chittagong_banglish_speech ":"toyar misa valobasa ekdin hari jaib de",
+    "region_name ":"Chittagong",
+    "english_speech":"Your fake love will lose one day"
+  },
+  {
+    "bangla_speech ":"আমার সত্যের ভালবাসা কোনদিনও হারবে না",
+    "banglish_speech ":"amar sotter valobasa konodin o harbe na",
+    "chittagong_bangla_speech ":"আর হাসা ভালোবাসা হোন দিন ন হারিবো",
+    "chittagong_banglish_speech ":"ar hasa valobasa hon din no haribo",
+    "region_name ":"Chittagong",
+    "english_speech":"My true love will never fail"
+  },
+  {
+    "bangla_speech ":"এই গানটি আমার খুব ভালো লাগে",
+    "banglish_speech ":"ei ganti amar khub valo lage",
+    "chittagong_bangla_speech ":"গান ইবা আর খুব ভালো লাগে দে",
+    "chittagong_banglish_speech ":"gan iba ar khub valo lage de",
+    "region_name ":"Chittagong",
+    "english_speech":"I like this song very much"
+  },
+  {
+    "bangla_speech ":"তোমাকে অসম্ভব সুন্দরী লাগে",
+    "banglish_speech ":"tomake osomvob sundori lage",
+    "chittagong_bangla_speech ":"তোয়ারে অসম্ভব সুন্দর লাগেদে ",
+    "chittagong_banglish_speech ":"toyare osomvob sundor lagede",
+    "region_name ":"Chittagong",
+    "english_speech":"You look incredibly beautiful"
+  },
+  {
+    "bangla_speech ":"আপনার কি এখনও আপনার  ভালোবাসার মানুষটার কথা মনে পড়ে",
+    "banglish_speech ":"apnar ki ekhono apnar valobasar manushtar kotha pore",
+    "chittagong_bangla_speech ":"অনের কি এহোন অনের ভালোবাসার মানুষ ইবার হতা মনত ফরে না",
+    "chittagong_banglish_speech ":"oner ki ehon oner valobasar manush ibar hota monot fore na",
+    "region_name ":"Chittagong",
+    "english_speech":"Do you still remember your loved one?"
+  },
+  {
+    "bangla_speech ":"তোমার সাথে দেখা হলেই পুরাতন ইতিহাস মনে পড়ে যায়",
+    "banglish_speech ":"tomar sathe dekha holei puraton itihas mone pore jay",
+    "chittagong_bangla_speech ":"তোয়ার ফোয়ারিত দেহা অইলেই ফুরান ইতিহাস মনত ফরে দে",
+    "chittagong_banglish_speech ":"toyar foyarit deha oilei furan itihas monot fore de",
+    "region_name ":"Chittagong",
+    "english_speech":"Seeing you reminds me of old history"
+  },
+  {
+    "bangla_speech ":"এই ছবির নীল আকাশ অনেক সুন্দর",
+    "banglish_speech ":"ei chobir nil akash onek sundor",
+    "chittagong_bangla_speech ":"এই ছবি ইয়ানর নিল আকাশ বহুত সুন্দর",
+    "chittagong_banglish_speech ":"ei chobi iyanor nil akash bohut sundor",
+    "region_name ":"Chittagong",
+    "english_speech":"The blue sky in this picture is very beautiful"
+  },
+  {
+    "bangla_speech ":"তুমি  এক সন্ধ্যায় অফিস থেকে বাসায় ফিরে দেখবে আমি আর নেই",
+    "banglish_speech ":"tumi  ek sondhay office theke basay fire dekhbe ami ar nei",
+    "chittagong_bangla_speech ":"তুই এক সন্ধাত আফিসেত্তুন বাসায় আইয়েরে দেখিবা আই আর নাই",
+    "chittagong_banglish_speech ":"tui ek sondhat afficettun basay aiyere dekhiba ai ar nai",
+    "region_name ":"Chittagong",
+    "english_speech":"You will come home from office one evening and find I am gone"
+  },
+  {
+    "bangla_speech ":"তোমার কন্যা তোমাকে অনেক ভালবাসে",
+    "banglish_speech ":"tomar konna tomake onek valobase",
+    "chittagong_bangla_speech ":"তোওয়ার মাইয়া ফোইয়া তোয়ারের বহুত ভালোবাসে দে",
+    "chittagong_banglish_speech ":"towyar maiya foiya toyarer bohut valobase de",
+    "region_name ":"Chittagong",
+    "english_speech":"Your daughter loves you very much"
+  },
+  {
+    "bangla_speech ":"আমার মাঝে মাঝে চিৎকার করে কাঁদতে ইচ্ছে করে",
+    "banglish_speech ":"amar majhe majhe chitkar kore kadte icche kore",
+    "chittagong_bangla_speech ":"আর মাঝে মাঝে চিল্লাইয়েরে হাইন্তাম মনত চায় দে",
+    "chittagong_banglish_speech ":"ar majhe majhe cillaiyere haintam monot cay de",
+    "region_name ":"Chittagong",
+    "english_speech":"I sometimes want to scream and cry"
+  },
+  {
+    "bangla_speech ":"তুমি চলে যাওয়ার পর আমার জীবন থেমে গেছে",
+    "banglish_speech ":"tumi chole jaoyar por amar jibon theme geche",
+    "chittagong_bangla_speech ":"তুই চোলি জাইবার ফরদ্দি আর আর জীবন থামি গিয়ি",
+    "chittagong_banglish_speech ":"tui coli jaibar foroddi ar ar jibon thami giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"My life stopped after you left"
+  },
+  {
+    "bangla_speech ":"আমার ছোট বোন কেমন যেন শান্ত হয়ে গেছে",
+    "banglish_speech ":"amar choto bon kemon jeno shanto hoye geche",
+    "chittagong_bangla_speech ":"আর ভইন ছোড ইবা হইল্লে জানি শান্ত অই গিয়ি",
+    "chittagong_banglish_speech ":"ar voin chodo iba hoille jani shanto oi giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger sister seems to have calmed down"
+  },
+  {
+    "bangla_speech ":"বাবা মার আদর ভালোবাসা ছাড়া আমি বড় হয়েছি",
+    "banglish_speech ":"baba mar ador valobasa chara ami boro hoyechi",
+    "chittagong_bangla_speech ":"বাবা মার আদর ভালোবাসা ছাড়া আই ডর অই গিয়ি",
+    "chittagong_banglish_speech ":"baba mar ador valobasa chara ai dor oi giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"I grew up without the love of my parents"
+  },
+  {
+    "bangla_speech ":"তুমি সত্যিই খুব কঠিন সময় পার করছ",
+    "banglish_speech ":"tumi sottii khub kothin somoy par korocho",
+    "chittagong_bangla_speech ":"তুই হাসা খুব কঠিন সময় ফার গরর",
+    "chittagong_banglish_speech ":"tui hasa khub kothin somoy far goror",
+    "region_name ":"Chittagong",
+    "english_speech":"You are going through a really tough time"
+  },
+  {
+    "bangla_speech ":"বাবা হয়ে মায়ের দায়িত্ব পালন করা করা খুব কঠিন",
+    "banglish_speech ":"baba hoye mayer dayitto palon kora kora khub kothin",
+    "chittagong_bangla_speech ":"বাবা অইয়েরে মার দায়িত্ত ফালন গরা খুব হঠিন হাম",
+    "chittagong_banglish_speech ":"baba oiyere mar dayitto falon gora khub hothin ham",
+    "region_name ":"Chittagong",
+    "english_speech":"Being a father is very difficult to fulfill the responsibilities of a mother"
+  },
+  {
+    "bangla_speech ":"একটি শিশুকে একমাত্র তার মায়ের কোলেই মানায়",
+    "banglish_speech ":"ekti shishuke ekmatro tar mayer kolei manay",
+    "chittagong_bangla_speech ":"এক্কান শিশুরে একমাত্র তার মার হলত মানায়",
+    "chittagong_banglish_speech ":"ekkan shishure ekmatro tar mar holot manay",
+    "region_name ":"Chittagong",
+    "english_speech":"A child fits only in its mother's arms"
+  },
+  {
+    "bangla_speech ":"আমার কোলে এসে শিশুটি তার মাকে খোঁজে মনে হয়",
+    "banglish_speech ":"amar kole ese shishuti tar make khoje mone hoy",
+    "chittagong_bangla_speech ":"শিশু ইবা আর হোলত আইয়েরে তার মারে খুজের ফাল্লার",
+    "chittagong_banglish_speech ":"shishu iba ar holot aiyere tar mare khujer fallar",
+    "region_name ":"Chittagong",
+    "english_speech":"The child in my arms seems to be looking for its mother"
+  },
+  {
+    "bangla_speech ":"আমি যে মা তাই আমি আমার বাচ্চার  মুখের দিকে তাকিয়ে অনেক কিছু বুঝতে পারি",
+    "banglish_speech ":"ami je ma tai ami amar bacchar  mukher dike takiye onek kichu bujhte pari",
+    "chittagong_bangla_speech ":"আই যে মা তাই আই আর বাইচ্চার মুখর মিক্কে সাইয়েরে বহুত কিছু মুঝিত্তারি",
+    "chittagong_banglish_speech ":"ai je ma tai ai ar baiccar mukhor mikke saiyere bohut kichu mujhittari",
+    "region_name ":"Chittagong",
+    "english_speech":"As a mother, I understand a lot by looking at my child's face"
+  },
+  {
+    "bangla_speech ":"এই কঠিন বাস্তবের সাথে তোমাকে মানিয়ে নিয়ে চলতে হবে",
+    "banglish_speech ":"ei kothin bastober sathe tomake maniye niye cholte hobe",
+    "chittagong_bangla_speech ":"এই কঠিন বাস্তবের ফোয়ারিত মানাই চলন ফরিব",
+    "chittagong_banglish_speech ":"ei kothin bastober foyarit manai colon foribo",
+    "region_name ":"Chittagong",
+    "english_speech":"You have to adapt to this harsh reality"
+  },
+  {
+    "bangla_speech ":"মেয়েটি একটি  ভালো চাকরি করে",
+    "banglish_speech ":"meyeti ekti  valo chakri kore",
+    "chittagong_bangla_speech ":"মাইয়া ফোয়া ইবা ভালো চরি গরে",
+    "chittagong_banglish_speech ":"maiya foya iba valo cori gore",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl does a good job"
+  },
+  {
+    "bangla_speech ":"এই  মাসে ছেলে তার পরিবার  নিয়ে ঘুরতে যাওয়ার কথা",
+    "banglish_speech ":"ei mase chele tar poribar  niye ghurte jaoyar kotha",
+    "chittagong_bangla_speech ":"এই আমসত ফোয়া তার ফরিবার লইয়েরে ঘুরিবার যাইবার হতা",
+    "chittagong_banglish_speech ":"ei amsot foya tar foribar loiyere ghuribar jaibar hota",
+    "region_name ":"Chittagong",
+    "english_speech":"This month the son is supposed to travel with his family"
+  },
+  {
+    "bangla_speech ":"আমার পরিবার আজকে বিকালে তোমার পরিবারের সাথে কথা বলবে",
+    "banglish_speech ":"amar poribar ajke bikale tomar poribarer sathe kotha bolbe",
+    "chittagong_bangla_speech ":"আর ফরিবারা আজিয়া বিকালত তোয়ার ফরিবারর ফোয়ারিত ফতা হইব",
+    "chittagong_banglish_speech ":"ar foribara ajiya bikalot toyar foribaror foyarit fota hoibo",
+    "region_name ":"Chittagong",
+    "english_speech":"My family will talk to your family this afternoon"
+  },
+  {
+    "bangla_speech ":"আমাদের দুজনের বিয়ে হওয়ার কথা চলছে",
+    "banglish_speech ":"amader dujoner biye howyar kotha cholche",
+    "chittagong_bangla_speech ":"আরা দুইজনর বিয়া অইবার হতা চলের",
+    "chittagong_banglish_speech ":"ara duijonor biya oibar hota coler",
+    "region_name ":"Chittagong",
+    "english_speech":"We are going to get married"
+  },
+  {
+    "bangla_speech ":"মেয়েটি  এই ছেলেকে  বিয়ে করতে রাজি হচ্ছে না",
+    "banglish_speech ":"meyeti  ei cheleke  biye korte raji hocche na",
+    "chittagong_bangla_speech ":"মাইয়া ফোয়া এই মরতফোয়া ইবারে বিয়া গইত্ত রাজি ন অর",
+    "chittagong_banglish_speech ":"maiya foya ei morotfoya ibare biya goitto raji no or",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl is not agreeing to marry this boy"
+  },
+  {
+    "bangla_speech ":"আমার স্বামী  আমাদেরকে নিয়ে রাতের বেলা ঘুরতে বের হবে",
+    "banglish_speech ":"amar shami  amaderke niye rater bela ghurte ber hobe",
+    "chittagong_bangla_speech ":"আর জামাই আরারে লইয়েরে লাতিয়া ঘুইরতে বাইর অইবদে",
+    "chittagong_banglish_speech ":"ar jamai arare loiyere latiya ghuirte bair oibde",
+    "region_name ":"Chittagong",
+    "english_speech":"My husband will take us out for a walk at night"
+  },
+  {
+    "bangla_speech ":"আমার পছন্দ হয় এমন ছেলে  আমার বাবা মায়ের পছন্দ হয় না",
+    "banglish_speech ":"amar pochondo hoy emon chele  amar baba mayer pochondo hoy na",
+    "chittagong_bangla_speech ":"আর ফসন্দ অয় এইল্লে ফোয়া আর বাবা মায়ের ফসন্দ ন অয়",
+    "chittagong_banglish_speech ":"ar fosondo oy eille foya ar baba mayer fosondo no oy",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy I like is not liked by my parents"
+  },
+  {
+    "bangla_speech ":"তোমার মত মানুষেরা কখনো ঠিক হবে না",
+    "banglish_speech ":"tomar moto manushera kokhono thik hobe na",
+    "chittagong_bangla_speech ":"তোয়ার মত মানুষরা হন সমত ঠিক ন অইব",
+    "chittagong_banglish_speech ":"toyar moto manushra hon somot thik no oibo",
+    "region_name ":"Chittagong",
+    "english_speech":"People like you will never be okay"
+  },
+  {
+    "bangla_speech ":"ছেলেটি তার পরিবারের পছন্দে বিয়ে করে ফেলে",
+    "banglish_speech ":"cheleti tar poribarer pochonde biye kore fele",
+    "chittagong_bangla_speech ":"ফোয়াা ইবার তার ফরিবারর ফসন্দ মতন বিয়া গরি ফেলায়",
+    "chittagong_banglish_speech ":"foyaa ibar tar foribaror fosondo moton biya gori felay",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy gets married according to his family's choice"
+  },
+  {
+    "bangla_speech ":"আমার ভাই  মেয়েটির সাথে গতকাল যোগাযোগ করে",
+    "banglish_speech ":"amar vai  meyetir sathe gotokal jogajog kore",
+    "chittagong_bangla_speech ":"আর ভাই মাইয়া ফোয়ারফোয়ারিত যোগাযগ গরে দে",
+    "chittagong_banglish_speech ":"ar vai maiya foyarfoyarit jogajog gore de",
+    "region_name ":"Chittagong",
+    "english_speech":"My brother contacted the girl yesterday"
+  },
+  {
+    "bangla_speech ":"ছেলে কোন ধরনের মামলা চায় না",
+    "banglish_speech ":"chele kono dhoroner mamla chay na",
+    "chittagong_bangla_speech ":"ফোয়া হোন ধরনর মামলা ন চায়",
+    "chittagong_banglish_speech ":"foya hon dhoronor mamla no cay",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy does not want any kind of lawsuit"
+  },
+  {
+    "bangla_speech ":"সে বিবাহিত তাই মামলা করতে চাচ্ছে না",
+    "banglish_speech ":"se bibahito tai mamla korte chacche na",
+    "chittagong_bangla_speech ":"সে বিবাহিত এতেল্লাই মামলা গরিত ন সার",
+    "chittagong_banglish_speech ":"se bibahito etellai mamla gorit no sar",
+    "region_name ":"Chittagong",
+    "english_speech":"She is married so does not want to sue"
+  },
+  {
+    "bangla_speech ":"এই বিষয়টা জানাজানি হলে মহিলাটির সংসার টিকবে না",
+    "banglish_speech ":"ei bishoyta janajani hole mohilatir songsar tikbe na",
+    "chittagong_bangla_speech ":"এই বিষয়ান জানাজানি অই গেইলে মহিলা ইবার সংসার ন টিকিব",
+    "chittagong_banglish_speech ":"ei bishoyan janajani oi geile mohila ibar songsar no tikibo",
+    "region_name ":"Chittagong",
+    "english_speech":"If this matter is known, the woman's family will not survive"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধু মেয়েদের  সাথে সারা রাত জেগে কথা বলে",
+    "banglish_speech ":"amar bondhu meyeder  sathe sara rat jege kotha bole",
+    "chittagong_bangla_speech ":"আর ফুরা লাত জাগিয়েরে মাইয়াফোয়ার ফোয়ারিত হতা হয় দে",
+    "chittagong_banglish_speech ":"ar fura lat jagiyere maiyafoyar foyarit hota hoy de",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend stays up all night talking to girls"
+  },
+  {
+    "bangla_speech ":"আমার কাবিনের টাকা তোমাকে প্রতি মাসে মাসে দিতে হবে",
+    "banglish_speech ":"amar kabiner taka tomake proti mase mase dite hobe",
+    "chittagong_bangla_speech ":"আর হাবিনর টেয়া তোয়ার ফ্রতি মাসত মাসত দন ফরিব",
+    "chittagong_banglish_speech ":"ar habinor teya toyar froti masot masot don foribo",
+    "region_name ":"Chittagong",
+    "english_speech":"My cabin money will be paid to you every month"
+  },
+  {
+    "bangla_speech ":"আমার বড় ভাই সাত মাস প্রেম করে একজনকে বিয়ে করেছে",
+    "banglish_speech ":"amar boro vai sat mas prem kore ekjonke biye koreche",
+    "chittagong_bangla_speech ":"আর ভআই ডোর ইবা সাত মাস ফ্রেম গরিয়েরে একজনেরে বিয়া গইজ্জে",
+    "chittagong_banglish_speech ":"ar vai dor iba sat mas frem goriyere ekjonere biya goijje",
+    "region_name ":"Chittagong",
+    "english_speech":"My elder brother married someone after dating for seven months"
+  },
+  {
+    "bangla_speech ":"আমি ক্লাসের সব ছেলেদের  সাথেই মিশতাম",
+    "banglish_speech ":"ami class er sob cheleder  sathei mishtam",
+    "chittagong_bangla_speech ":"আই ক্লাসর বেয়াক ফোয়ারিত মিশ্তাম",
+    "chittagong_banglish_speech ":"ai classor beyak foyarit mishtam",
+    "region_name ":"Chittagong",
+    "english_speech":"I got along with all the boys in the class"
+  },
+  {
+    "bangla_speech ":"তোমার অনেক ভুল ছিল",
+    "banglish_speech ":"tomar onek vul chilo",
+    "chittagong_bangla_speech ":"তোয়ার বহুত ভুল আসিল",
+    "chittagong_banglish_speech ":"toyar bohut vul asilo",
+    "region_name ":"Chittagong",
+    "english_speech":"You were wrong a lot"
+  },
+  {
+    "bangla_speech ":"এই তিন বছরের শিশুটির দোষ কোথায় ?",
+    "banglish_speech ":"ei tin bochorer shishutir dosh kothay?",
+    "chittagong_bangla_speech ":"এই তিন বছরর শিশু ইবার দোষ হন্ডে?",
+    "chittagong_banglish_speech ":"ei tin bochoror shishu ibar dosh honde?",
+    "region_name ":"Chittagong",
+    "english_speech":"Where is the fault of this three-year-old child?"
+  },
+  {
+    "bangla_speech ":"তোমাকে বলেছিলাম বিয়েটা করে ফেলো",
+    "banglish_speech ":"tomake bolechilam biyeta kore felo",
+    "chittagong_bangla_speech ":"তোয়ারে হইয়ি বিয়া গরি ফেলো",
+    "chittagong_banglish_speech ":"toyare hoiyi biya gori felo",
+    "region_name ":"Chittagong",
+    "english_speech":"I told you to get married"
+  },
+  {
+    "bangla_speech ":"শুধু তোমার ভালোর জন্য বিয়েটা করে ফেলতে বললাম",
+    "banglish_speech ":"shudhu tomar valor jonno biyeta kore felte bollam",
+    "chittagong_bangla_speech ":" শুধু তোয়ার ভালোর লাই বিয়া ইবা গরিবেল্লাই হইলাম",
+    "chittagong_banglish_speech ":"shudhu toyar valor lai biya iba goribellai hoilam",
+    "region_name ":"Chittagong",
+    "english_speech":"I asked to do the marriage just for your sake"
+  },
+  {
+    "bangla_speech ":"তোমার ভালোর জন্যই আমি তোমাকে ছেড়ে দূরে চলে আসছি ",
+    "banglish_speech ":"tomar valor jonnoii ami tomake chere dure chole aschi ",
+    "chittagong_bangla_speech ":"তোয়ার ভালোর লাই আই তোয়ারে ছাড়ি দুরত চলি গিয়ি",
+    "chittagong_banglish_speech ":"toyar valor lai ai toyare chari durot coli giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"I am leaving you for your sake"
+  },
+  {
+    "bangla_speech ":"আমি আর তুমি একসাথে নেই আমি এটা মানতে পারছি না",
+    "banglish_speech ":"ami ar tumi eksathe nei ami eta mante parchi na",
+    "chittagong_bangla_speech ":"আই আর তুই একফোয়ারিত নাই ইয়ান আই মানিন্নোফারির",
+    "chittagong_banglish_speech ":"ai ar tui ekfoyarit nai iyan ai maninnofarir",
+    "region_name ":"Chittagong",
+    "english_speech":"I can't accept that you and I are not together"
+  },
+  {
+    "bangla_speech ":"আমার আর আমার স্বপ্নটা যে কবে পূরণ হবে",
+    "banglish_speech ":"amar ar amar sopnota je kobe puron hobe",
+    "chittagong_bangla_speech ":"আর স্বপ্ন যে হত্তে ফুরন অইব",
+    "chittagong_banglish_speech ":"ar sopno je hotte furon oibo",
+    "region_name ":"Chittagong",
+    "english_speech":"When will my dream come true?"
+  },
+  {
+    "bangla_speech ":"তোমার পরিবার আমার বাবার সাথে কথা বলতে চায়",
+    "banglish_speech ":"tomar poribar amar babar sathe kotha bolte cay",
+    "chittagong_bangla_speech ":"তোয়ার ফরিবার আর বাবার ফোয়ারিত হতা হত চাইয়ে",
+    "chittagong_banglish_speech ":"toyar foribar ar babar foyarit hota hot caiye",
+    "region_name ":"Chittagong",
+    "english_speech":"Your family wants to talk to my father"
+  },
+  {
+    "bangla_speech ":"তোমার বিয়ে হবে শুনে আমরা খুব খুশি",
+    "banglish_speech ":"tomar biye hobe shune amra khub khushi",
+    "chittagong_bangla_speech ":"তোয়ার বিয়া হইব ফুনিয়েরে আর খুব খুশি",
+    "chittagong_banglish_speech ":"toyar biya hoibo funiyere ar khub khushi",
+    "region_name ":"Chittagong",
+    "english_speech":"We are very happy to hear that you are getting married"
+  },
+  {
+    "bangla_speech ":"আমার বোন তার বন্ধুর সাথে ঘুরতে যেতে চায়",
+    "banglish_speech ":"amar bon tar bondhur sathe ghurte jete chay",
+    "chittagong_bangla_speech ":"আর ভইন তার বন্ধুর ফোয়ারিত ঘুইরত জাইত চার",
+    "chittagong_banglish_speech ":"ar voin tar bondhur foyarit ghuirot jaito car",
+    "region_name ":"Chittagong",
+    "english_speech":"My sister wants to go out with her friend"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধুরা সত্যিই ভালো হৃদয়ের মানুষ",
+    "banglish_speech ":"amar bondhura shotti valo hridoyer manush",
+    "chittagong_bangla_speech ":"আর বন্ধু তারা হাসা ভালা মনর মানুষ",
+    "chittagong_banglish_speech ":"ar bondhu tara hasa vala monor manush",
+    "region_name ":"Chittagong",
+    "english_speech":"My friends are really good hearted people"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধুরা  সবাই খুব মেধাবী",
+    "banglish_speech ":"amar bondhura  sobai khub medhabi",
+    "chittagong_bangla_speech ":"আর বন্ধু তারা খুব মেধাবি",
+    "chittagong_banglish_speech ":"ar bondhu tara khub medhabi",
+    "region_name ":"Chittagong",
+    "english_speech":"All my friends are very talented"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধুদের সাথে ঘুরতে খুব ভালো লাগে",
+    "banglish_speech ":"amar bondhuder sathe ghurte khub valo lage",
+    "chittagong_bangla_speech ":"আর বন্ধুরার ফোয়ারিত ঘুইরত বহুত গম লাগে",
+    "chittagong_banglish_speech ":"ar bondhurar foyarit ghuirot bohut gom lage",
+    "region_name ":"Chittagong",
+    "english_speech":"I like to travel with my friends"
+  },
+  {
+    "bangla_speech ":"তাদের পরিবারে কোন ঝগড়া হয় না",
+    "banglish_speech ":"tader poribare kono jhogra hoy na",
+    "chittagong_bangla_speech ":"তারার ফরিবার হোন ঝগরা ন অয়",
+    "chittagong_banglish_speech ":"tarar foribar hon jhogra no oy",
+    "region_name ":"Chittagong",
+    "english_speech":"There is no quarrel in their family"
+  },
+  {
+    "bangla_speech ":"আমার ভাই বোনের খুব ভালো ছবি আঁকে",
+    "banglish_speech ":"amar vai boner khub valo chobi ake",
+    "chittagong_bangla_speech ":"আর ভাই ভইনর বহুত খুব ভালো ছবি আহে",
+    "chittagong_banglish_speech ":"ar vai vinor bohut khub valo chobi ahe",
+    "region_name ":"Chittagong",
+    "english_speech":"My brother draws very good pictures of my sister"
+  },
+  {
+    "bangla_speech ":"আমার গ্রামের মানুষদের মধ্যে কোন রকম ঝগড়া নেই",
+    "banglish_speech ":"amar gramer manushder moddhe kon rokom jhogra nei",
+    "chittagong_bangla_speech ":"আর গ্রামর মানুষর মধ্য হোন রহম ঝগ্রা নাই",
+    "chittagong_banglish_speech ":"ar gramor manushor moddho hon rohom jhogra nai",
+    "region_name ":"Chittagong",
+    "english_speech":"There is no quarrel among the people of my village"
+  },
+  {
+    "bangla_speech ":"আপনি খুব সুন্দর করে  কথা বলেন",
+    "banglish_speech ":"apni khub sundor kore  kotha bolen",
+    "chittagong_bangla_speech ":"অনে খুব সুন্দর গরি হতা হন",
+    "chittagong_banglish_speech ":"one khub sundor gori hota hon",
+    "region_name ":"Chittagong",
+    "english_speech":"You speak very nicely"
+  },
+  {
+    "bangla_speech ":"তোমার  সুন্দর সুন্দর ছবিগুলো দেখে খুব আনন্দ পেয়েছি",
+    "banglish_speech ":"tomar  sundor sundor chobigulo dekhe khub anondo peyechi",
+    "chittagong_bangla_speech ":"তোয়ার খুব সুন্দর সুন্দর শবি সাইয়েরে আর খুব আনন্দ ফাইয়ি",
+    "chittagong_banglish_speech ":"toyar khub sundor sundor shobi saiyere ar khub anondo faiyi",
+    "region_name ":"Chittagong",
+    "english_speech":"I am very happy to see your beautiful pictures"
+  },
+  {
+    "bangla_speech ":"বিয়ের পর অনেক পাতলা মেয়ে মোটা হয়ে যায়",
+    "banglish_speech ":"biyer por onek patla meye mota hoye jay",
+    "chittagong_bangla_speech ":"বিয়ার ফর ফাতলা মাইয়াফোয়া মোদা অই যায়",
+    "chittagong_banglish_speech ":"biyar for fatla maiyafoya moda oi jay",
+    "region_name ":"Chittagong",
+    "english_speech":"Many thin girls become fat after marriage"
+  },
+  {
+    "bangla_speech ":"মেয়েরা বিয়ে করার জন্য  ভদ্র ছেলে খুঁজে",
+    "banglish_speech ":"meyera biye korar jonno  vodro chele khuje",
+    "chittagong_bangla_speech ":"মাইয়াফোয়া বিয়া গরার লাই ভদ্র ফোয়া খুজের",
+    "chittagong_banglish_speech ":"maiyafoya biya gorar lai vodro foya khujer",
+    "region_name ":"Chittagong",
+    "english_speech":"Girls find decent boys to marry"
+  },
+  {
+    "bangla_speech ":"আমার খুব ভয় লাগছে কোনো দিন আমি কিডন্যাপ হয়ে না যাই",
+    "banglish_speech ":"amar khub voy lagche kono din ami kidnap hoye na jai",
+    "chittagong_bangla_speech ":"আর খুব ডর লাগের হোনো দিন আই কিডন্যাপ অই ন যায়",
+    "chittagong_banglish_speech ":"ar khub dor lager hono din ai kidnap oi no jay",
+    "region_name ":"Chittagong",
+    "english_speech":"I am very afraid that one day I will be kidnapped"
+  },
+  {
+    "bangla_speech ":"আজ সিঙ্গেল বলে ঘুরতে যেতে পারি না",
+    "banglish_speech ":"aj single bole ghurte jete pari na",
+    "chittagong_bangla_speech ":"আজিয়া সিঙ্গেল বলি ঘুইরতাম যাইন্নো ফারি",
+    "chittagong_banglish_speech ":"ajiya single boli ghuirtam jainno fari",
+    "region_name ":"Chittagong",
+    "english_speech":"I can't go around as a single today"
+  },
+  {
+    "bangla_speech ":"বাস্তব জীবনে বিয়ের পরই ঝগড়া শুরু  হয়",
+    "banglish_speech ":"bastob jibone biyer porii jhogra shuru  hoy",
+    "chittagong_bangla_speech ":"বাস্তব জীবনত বিয়ার ফরদ্দি ঝগরা শুরু অয় দে",
+    "chittagong_banglish_speech ":"bastob jibonot biyar foroddi jhogra shuru oy de",
+    "region_name ":"Chittagong",
+    "english_speech":"In real life quarrels start only after marriage"
+  },
+  {
+    "bangla_speech ":"আজ গরিব বলে কেউ আমাকে ভালবাসে না",
+    "banglish_speech ":"aj gorib bole keu amake valobase na",
+    "chittagong_bangla_speech ":"আজিয়া গ্রিব বলি হনিক্কা আরে ভালোনোবাসে",
+    "chittagong_banglish_speech ":"ajiya grib boli honikka are valonobase",
+    "region_name ":"Chittagong",
+    "english_speech":"Today nobody loves me because I am poor"
+  },
+  {
+    "bangla_speech ":"যতদিন এই পৃথিবীতে থাকব , তোমাকে মনে রাখব",
+    "banglish_speech ":"jotodin ei prithibite thakbo , tomake mone rakhbo",
+    "chittagong_bangla_speech ":"যতদিন এই দুনিয়াত থাইক্কুম, তোয়ারে মনত রাইক্ষুম",
+    "chittagong_banglish_speech ":"jotodin ei duniyat thaikkum, toyare monot raikkhum",
+    "region_name ":"Chittagong",
+    "english_speech":"As long as I live in this world, I will remember you"
+  },
+  {
+    "bangla_speech ":"একমাত্র মেয়েরাই পারে সংসার গুছিয়ে রাখতে",
+    "banglish_speech ":"ekmatro meyerai pare songsar guchiye rakhte",
+    "chittagong_bangla_speech ":"একমাত্র মাইয়াফোয়ারাই ফারে সংসার ঘুছায় রাহে",
+    "chittagong_banglish_speech ":"ekmatro maiyafoyarai fare songsar ghuchay rahe",
+    "region_name ":"Chittagong",
+    "english_speech":"Only girls can manage the family"
+  },
+  {
+    "bangla_speech ":"ছেলেদের সহজ সরল মনটা নিয়ে মেয়েরা ফুটবল খেলে",
+    "banglish_speech ":"cheleder sohoj sorol monta niye meyera football khele",
+    "chittagong_bangla_speech ":"মরতফোয়া তারা সহজ সরল মন্নান লইয়েরে মাইয়াফোয়াতারা ফুটবল কেলা হায়দে",
+    "chittagong_banglish_speech ":"morotfoya tara sohoj sorol monnan liyere maiyafoyatara football kela hayde",
+    "region_name ":"Chittagong",
+    "english_speech":"Girls play football with the simple mind of boys"
+  },
+  {
+    "bangla_speech ":"ছেলেটি গাড়ির নিচে পরে মারা যায়",
+    "banglish_speech ":"cheleti garir niche pore mara jay",
+    "chittagong_bangla_speech ":"ফোয়া ইবা গারির তলত ফরিয়েরে মারা গিয়ি",
+    "chittagong_banglish_speech ":"foya iba garir tolot foriyere mara giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy died after being hit by the car"
+  },
+  {
+    "bangla_speech ":"একবার তোমার হাঁট ধরলে আর কোনদিনও ছাড়বনা",
+    "banglish_speech ":"ekbar tomar hat dhorle ar konodino charobna",
+    "chittagong_bangla_speech ":"একবার তোয়ার হাত্তান দরিলে হোনদিন নোছাইজ্জুম",
+    "chittagong_banglish_speech ":"ekbar toyar hattan dorile hondin nochaijjum",
+    "region_name ":"Chittagong",
+    "english_speech":"Once I get hold of you, I will never let go"
+  },
+  {
+    "bangla_speech ":"তুমি ছাড়া আমার জীবনটা অন্ধকার",
+    "banglish_speech ":"tumi chara amar jibonta ondhokar",
+    "chittagong_bangla_speech ":"তুই  ছাড়া আর জীবন্নান অন্ধকার",
+    "chittagong_banglish_speech ":"tui  chara ar jibonnan ondhokar",
+    "region_name ":"Chittagong",
+    "english_speech":"My life is dark without you"
+  },
+  {
+    "bangla_speech ":"তোমার চুল পরার এই সমস্যা  নিয়ে ডাক্তারের কাছে যেতে হবে",
+    "banglish_speech ":"tomar chul porar ei somossa  niye doctor er kache jete hobe",
+    "chittagong_bangla_speech ":"তোয়ার চুল ফড়ার সমইস্যা ইবা লইয়েরে ডাক্তারর হাসে জন ফরিব",
+    "chittagong_banglish_speech ":"toyar cul forar somoissa iba loiyere daktaror hase jon foribo",
+    "region_name ":"Chittagong",
+    "english_speech":"You should go to the doctor about this hair loss problem"
+  },
+  {
+    "bangla_speech ":"ভালো মানুষ এই পৃথিবীতে  বেশি দিন বাঁচে না",
+    "banglish_speech ":"valo manush ei prithibite  beshi din bache na",
+    "chittagong_bangla_speech ":"ভালা মানুষ এই দুনিয়াত বেহসি দিন ন বাসে",
+    "chittagong_banglish_speech ":"vala manush ei duniyat behsi din no base",
+    "region_name ":"Chittagong",
+    "english_speech":"Good people don't live long in this world"
+  },
+  {
+    "bangla_speech ":"গ্রামের বাড়ির এই মেয়েটাকে খুব ভালো লেগেছিল",
+    "banglish_speech ":"gramer barir ei meyetake khub valo legechilo",
+    "chittagong_bangla_speech ":"গ্রামর বাড়ির এই মাইয়াফোয়া ইবা খুব ভালো লাগে",
+    "chittagong_banglish_speech ":"gramor barir ei maiyafoya iba khub valo lage",
+    "region_name ":"Chittagong",
+    "english_speech":"This village girl liked very much"
+  },
+  {
+    "bangla_speech ":"ছেলেটি  ছুটির দিনেও কলেজে যায়",
+    "banglish_speech ":"cheleti  chutir dineo college e jay",
+    "chittagong_bangla_speech ":"মরতফোয়া ইব ছুটির দিনত হলেজত যায়",
+    "chittagong_banglish_speech ":"morotfoya ib chutir dinot holejot jay",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy goes to college even on holidays"
+  },
+  {
+    "bangla_speech ":"আমার বাংলা সিনেমা দেখতে ভালো লাগে",
+    "banglish_speech ":"amar bangla cinema dekhte valo lage",
+    "chittagong_bangla_speech ":"আড় বাংলা সিনেমা দেহিইতে গম লাগেদে",
+    "chittagong_banglish_speech ":"ar bangla cinema dehite gom lagede",
+    "region_name ":"Chittagong",
+    "english_speech":"I like watching Bengali movies"
+  },
+  {
+    "bangla_speech ":"তোমাকে আমি ধন্যবাদ জানাতে চাই",
+    "banglish_speech ":"tomake ami dhonnbad janate chai",
+    "chittagong_bangla_speech ":"তোয়ারে আই ধন্যবাদ জানাইতাম চাই ",
+    "chittagong_banglish_speech ":"toyare ai dhonnobad janaitam cai",
+    "region_name ":"Chittagong",
+    "english_speech":"I want to thank you"
+  },
+  {
+    "bangla_speech ":"তোমার ছোট ভাইয়ের জন্মদিন কবে?",
+    "banglish_speech ":"tomar choto vaiyer jonmodin kobe?",
+    "chittagong_bangla_speech ":"তোয়ার ভাই ছোড ইবার জন্মদিন হত্তে?",
+    "chittagong_banglish_speech ":"toyar vai chodo ibar jonmodin hotte?",
+    "region_name ":"Chittagong",
+    "english_speech":"When is your younger brother's birthday?"
+  },
+  {
+    "bangla_speech ":"তুমি কি আমাকে একটি ছবি তুলে দিতে পারবে",
+    "banglish_speech ":"tumi ki amake ekti chobi tule dite parbe",
+    "chittagong_bangla_speech ":"তুই কি আরে এক্কান ছবি তুলি দিত্তারিবানা",
+    "chittagong_banglish_speech ":"tui ki are ekkan chobi tuli dittaribana",
+    "region_name ":"Chittagong",
+    "english_speech":"Can you send me a picture"
+  },
+  {
+    "bangla_speech ":"তোমার সাথে আমার আম্মু কথা বলতে চায়",
+    "banglish_speech ":"tomar sathe amar ammu kotha bolte chay",
+    "chittagong_bangla_speech ":"তোয়ার ফোয়ারিত আর আম্মু হতা হইত চাই ",
+    "chittagong_banglish_speech ":"toyar foyarit ar ammu hota hoito cai",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom wants to talk to you"
+  },
+  {
+    "bangla_speech ":"তোমার কাছে আমি একটি পরামর্শ চাই",
+    "banglish_speech ":"tomar kache ami ekti poramorsho chai",
+    "chittagong_bangla_speech ":"তোয়ার  হাসে আই এক্কান ফরামরশ চাই ",
+    "chittagong_banglish_speech ":"toyar hase ai ekkan foramorsho cai",
+    "region_name ":"Chittagong",
+    "english_speech":"I want a suggestion from you"
+  },
+  {
+    "bangla_speech ":"আপনি কি আমাকে একটি গান গেয়ে শুনাতে পারবেন ?",
+    "banglish_speech ":"apni ki amake ekti gan geye shunate parben ?",
+    "chittagong_bangla_speech ":"অনে কি আরে এক্কান গান গাই ফুনাইত্তারিবান?",
+    "chittagong_banglish_speech ":"one ki are ekkan gan gai funaittariban?",
+    "region_name ":"Chittagong",
+    "english_speech":"Can you sing me a song?"
+  },
+  {
+    "bangla_speech ":"তুমি কি তোমার ভুল বুঝতে পেরেছ ?",
+    "banglish_speech ":"tumi ki tomar vul bujhte perecho ?",
+    "chittagong_bangla_speech ":"তুই কি তোয়ার ভুল বুঝিত্তাইজ্জ না?",
+    "chittagong_banglish_speech ":"tui ki toyar vul bujhittaijjo na?",
+    "region_name ":"Chittagong",
+    "english_speech":"Did you realize your mistake?"
+  },
+  {
+    "bangla_speech ":"তুমি কি আমার জন্য একটি গান লিখে দিতে পারবে?",
+    "banglish_speech ":"tumi ki amar jonno ekti gan likhe dite parbe?",
+    "chittagong_bangla_speech ":"তুই কি আর লাই এক্কান গান লিখিত্তারিবানা?",
+    "chittagong_banglish_speech ":"tui ki ar lai ekkan gan likhittaribana?",
+    "region_name ":"Chittagong",
+    "english_speech":"Can you write a song for me?"
+  },
+  {
+    "bangla_speech ":"আমার প্রতিদিন খেলাধুলা করতে ভালো লাগে",
+    "banglish_speech ":"amar protidin kheladula korte valo lage",
+    "chittagong_bangla_speech ":"আর ফ্রতিদিন খেলা হাইতে ভালো লাগে",
+    "chittagong_banglish_speech ":"ar frotidin khela haite valo lage",
+    "region_name ":"Chittagong",
+    "english_speech":"I like to play sports every day"
+  },
+  {
+    "bangla_speech ":"আমার বন্ধুরা সকাল বেলা  ফুটবল খেলতে মাঠে যায়",
+    "banglish_speech ":"amar bondhura sokal bela  football khelte mathe jay",
+    "chittagong_bangla_speech ":"আর বন্ধু তারা সকালত ফুটবল খেলা হাইত যায়",
+    "chittagong_banglish_speech ":"ar bondhu tara sokalot football khela haito jay",
+    "region_name ":"Chittagong",
+    "english_speech":"My friends go to the field to play football in the morning"
+  },
+  {
+    "bangla_speech ":"তোমার বয়স কত?",
+    "banglish_speech ":"tomar boyosh koto?",
+    "chittagong_bangla_speech ":"তোয়ার বয়স হত?",
+    "chittagong_banglish_speech ":"toyar boyos hoto?",
+    "region_name ":"Chittagong",
+    "english_speech":"how old are you"
+  },
+  {
+    "bangla_speech ":"আমি অনেক বড় ভুল করে ফেলেছি",
+    "banglish_speech ":"ami onek boro vul kore felechi",
+    "chittagong_bangla_speech ":"আই বহুত ভুল গরি ফেলাই",
+    "chittagong_banglish_speech ":"ai bohut vul gori felai",
+    "region_name ":"Chittagong",
+    "english_speech":"I made a big mistake"
+  },
+  {
+    "bangla_speech ":"চাঁদের আলো দেখতে আমার খুব ভালো লাগে",
+    "banglish_speech ":"chader alo dekhte amar khub valo lage",
+    "chittagong_bangla_speech ":" চাদর আলো দেখিতে আর খুব ভাল লাগে দে",
+    "chittagong_banglish_speech ":"chador alo dekhite ar khub valo lage de",
+    "region_name ":"Chittagong",
+    "english_speech":"I love to see moonlight"
+  },
+  {
+    "bangla_speech ":"তুমি কি সকালে উঠে চা খাবে ?",
+    "banglish_speech ":"tumi ki sokale uthe cha khabe ?",
+    "chittagong_bangla_speech ":"তুই কি সকালত উদিয়েররে চা হাইবা না?",
+    "chittagong_banglish_speech ":"tui ki sokalot udiyerre cha haiba na?",
+    "region_name ":"Chittagong",
+    "english_speech":"Do you get up in the morning and eat tea?"
+  },
+  {
+    "bangla_speech ":"আপনি একটু এইদিকে আসতে পারবেন ?",
+    "banglish_speech ":"apni ektu eidike aste parben ?",
+    "chittagong_bangla_speech ":"অনে এক্কানা ইক্কা আইত্তারিবান না?",
+    "chittagong_banglish_speech ":"one ekkana ikka aittariban na?",
+    "region_name ":"Chittagong",
+    "english_speech":"Can you come this way?"
+  },
+  {
+    "bangla_speech ":"তোর পরিক্ষা কবে ?",
+    "banglish_speech ":"tor porikkha kobe ?",
+    "chittagong_bangla_speech ":"তোয়ার ফরিক্ষা হত্তে?",
+    "chittagong_banglish_speech ":"toyar forikkha hotte?",
+    "region_name ":"Chittagong",
+    "english_speech":"When is your exam?"
+  },
+  {
+    "bangla_speech ":"আমাকে বিকালে খেলার মাঠে যেতে হবে",
+    "banglish_speech ":"amake bikale khelar mathe jete hobe",
+    "chittagong_bangla_speech ":"আরে বিকালত খেলাই হাইবের লাই মাঠোত যন ফরিব",
+    "chittagong_banglish_speech ":"are bikalot khelai haiber lai mathot jon forib",
+    "region_name ":"Chittagong",
+    "english_speech":"I have to go to the playground in the afternoon"
+  },
+  {
+    "bangla_speech ":"কিছু মানুষ অনেক স্বার্থপর হয়",
+    "banglish_speech ":"kichu manush onek sarthopor hoy",
+    "chittagong_bangla_speech ":"কিছু মানুষ বহুত সারত ফত অয়দে",
+    "chittagong_banglish_speech ":"kichu manush bohut sarot fot oyde",
+    "region_name ":"Chittagong",
+    "english_speech":"Some people are very selfish"
+  },
+  {
+    "bangla_speech ":"আমি একজন ভালো মানুষ হতে চাই",
+    "banglish_speech ":"ami ekjon valo manush hote chai",
+    "chittagong_bangla_speech ":"আই একজন ভালা মানুষ অইতাম চাই",
+    "chittagong_banglish_speech ":"ai ekjon vala manush oitam chai",
+    "region_name ":"Chittagong",
+    "english_speech":"I want to be a good person"
+  },
+  {
+    "bangla_speech ":"আমার পরিবার তোমাকে কোনদিনও মেনে নেবে না",
+    "banglish_speech ":"amar poribar tomake konodino mene nebe na",
+    "chittagong_bangla_speech ":"আর ফরিিবার হন দিন তোওারে মানি ন লইব",
+    "chittagong_banglish_speech ":"ar foriibar hon din tooare mani n loibo",
+    "region_name ":"Chittagong",
+    "english_speech":"My family will never accept you"
+  },
+  {
+    "bangla_speech ":"আপনাকে  ছাড়া আমার বান্ধুবি ভালো নেই",
+    "banglish_speech ":"apnake  chara amar bandhubi valo nei",
+    "chittagong_bangla_speech ":"অনেরে ছাড়া আর বান্ধুবি ভালো নাই দে",
+    "chittagong_banglish_speech ":"onere chara ar bandhubi valo nai de",
+    "region_name ":"Chittagong",
+    "english_speech":"My girlfriend is not good without you"
+  },
+  {
+    "bangla_speech ":"মেয়েটির রাগ অনেক বেশী",
+    "banglish_speech ":"meyetir rag onek beshi",
+    "chittagong_bangla_speech ":"মাইয়াফোয়া ইবার রাগ বহুত বেশি",
+    "chittagong_banglish_speech ":"maiyafoya ibar rag bohut beshi",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl is very angry"
+  },
+  {
+    "bangla_speech ":"আপনি কি চান আমি এখান থেকে চলে যাই ?",
+    "banglish_speech ":"apni ki chan ami ekhan theke chole jai ?",
+    "chittagong_bangla_speech ":"অনে কি চন্না আই এডেত্তুন চলি জাই?",
+    "chittagong_banglish_speech ":"one ki chonna ai edettun choli jai?",
+    "region_name ":"Chittagong",
+    "english_speech":"Do you want me to leave here?"
+  },
+  {
+    "bangla_speech ":"আপনি  কি এই বিয়েতে রাজি হয়েছেন ?",
+    "banglish_speech ":"apni  ki ei biyete raji hoyechen ?",
+    "chittagong_bangla_speech ":"অনে কি এই বিয়াত রাজি অইয়ন?",
+    "chittagong_banglish_speech ":"one ki ei biyat raji oiyon?",
+    "region_name ":"Chittagong",
+    "english_speech":"Have you agreed to this marriage?"
+  },
+  {
+    "bangla_speech ":"আমার আব্বুর মাথা গরম থাকে",
+    "banglish_speech ":"amar abbur matha gorom thake",
+    "chittagong_bangla_speech ":"আর আব্বুর মাথা গরম তাহে দে",
+    "chittagong_banglish_speech ":"ar abbur matha gorom tahe de",
+    "region_name ":"Chittagong",
+    "english_speech":"My father has a hot head"
+  },
+  {
+    "bangla_speech ":"আমার বড় ভাই একজন বদমেজাজি লোক",
+    "banglish_speech ":"amar boro vai ekjon bodmejaji lok",
+    "chittagong_bangla_speech ":"আর ডর ভাই ইবা একজন বদমেজাজি লোক",
+    "chittagong_banglish_speech ":"ar dor vai  iba ekjon bodmejaji lok",
+    "region_name ":"Chittagong",
+    "english_speech":"My elder brother is a bad-tempered man"
+  },
+  {
+    "bangla_speech ":"যেই মেয়ে বেশী কথা বলে তাকে আমার পছন্দ না",
+    "banglish_speech ":"jei meye beshi kotha bole take amar pochondo na",
+    "chittagong_bangla_speech ":"যেই মাইয়া ফোয়া বেশি হতা হয় তারে আই ফসন্দ ন গরি",
+    "chittagong_banglish_speech ":"jei maiya foya beshi hota hoy tare ai fosondo no gori",
+    "region_name ":"Chittagong",
+    "english_speech":"I don't like the girls who talk too much"
+  },
+  {
+    "bangla_speech ":"ছেলেটি অনেক  বেশী কথা বলো",
+    "banglish_speech ":"cheleti onek  beshi kotha bolo",
+    "chittagong_bangla_speech ":"ফোয়া ইবাা বহুত হতা হয়",
+    "chittagong_banglish_speech ":"foya iba bohut hota hoy",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy talks too much"
+  },
+  {
+    "bangla_speech ":"আপনি আজ সকালে চা খান  নাই",
+    "banglish_speech ":"apni aj sokale cha khan  nai",
+    "chittagong_bangla_speech ":"অনে আজিয়া সকালত চা ন হাই",
+    "chittagong_banglish_speech ":"one ajiya sokalot cha no hai",
+    "region_name ":"Chittagong",
+    "english_speech":"You didn't have tea this morning"
+  },
+  {
+    "bangla_speech ":"আজ সকালে আমি এবং আমার বন্ধুরা ফুটবল খেলতে মাঠে গিয়েছি",
+    "banglish_speech ":"aj sokale ami ebong amar bondhura football khelte mathe giyechi",
+    "chittagong_bangla_speech ":"আজিয়া সকালত আই এবং আর বন্ধু তারা ফুটবল খেলিতাম মাথত গিয়ি",
+    "chittagong_banglish_speech ":"ajiya sokalot ai ebong ar bondhu tara football khelitam mathot giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"This morning me and my friends went to the field to play football"
+  },
+  {
+    "bangla_speech ":"আমি আমার আম্মুর  সব কথা খুবই মনোযোগ দিয়ে শুনি",
+    "banglish_speech ":"ami amar ammur  sob kotha khubi monojog diye shuni",
+    "chittagong_bangla_speech ":"আই আর বন্ধুর সব হতা খুবই মনজগ দিয়েরে হুনি",
+    "chittagong_banglish_speech ":"ai ar bondhur sob hota khubi monojog diyere huni",
+    "region_name ":"Chittagong",
+    "english_speech":"I listen very carefully to everything my mother says"
+  },
+  {
+    "bangla_speech ":"আমার বান্ধুবির একটি ছোট বিড়াল আছে",
+    "banglish_speech ":"amar bandhubir ekti choto biral ache",
+    "chittagong_bangla_speech ":"আর বান্ধুবির এক্কান ছোড বিড়াল আসে দে",
+    "chittagong_banglish_speech ":"ar bandhubir ekkan chodo biral ase de",
+    "region_name ":"Chittagong",
+    "english_speech":"My friend has a small cat"
+  },
+  {
+    "bangla_speech ":"লোকটি তার বউয়ের গায়ে  হাত তুলে",
+    "banglish_speech ":"lokti tar bouyer gaye  hat tule",
+    "chittagong_bangla_speech ":"লোক ইবা তার বউওর গাত আত তুলে",
+    "chittagong_banglish_speech ":"lok iba tar bouor gat at tule",
+    "region_name ":"Chittagong",
+    "english_speech":"The man put his hand on his wife"
+  },
+  {
+    "bangla_speech ":"তোমার কি লোক দেখানো শেষ?",
+    "banglish_speech ":"tomar ki lok dekhano shesh?",
+    "chittagong_bangla_speech ":"তোয়ার কি লোক দেখানো শেষ অইয়েনা?",
+    "chittagong_banglish_speech ":"toyar ki lok dekhano shesh oiyena?",
+    "region_name ":"Chittagong",
+    "english_speech":"Are you done showing people?"
+  },
+  {
+    "bangla_speech ":"আমার বউ  আমাকে কোনদিনও খোঁচা মেরে কথা বলেনি",
+    "banglish_speech ":"amar bou  amake kondino khocha mere kotha boleni",
+    "chittagong_bangla_speech ":"আর বউ আরেে হোন দিনও গুতো মারি হতা ন হয়",
+    "chittagong_banglish_speech ":"ar bou aree hon dino guto mari hota no hoy",
+    "region_name ":"Chittagong",
+    "english_speech":"My wife never scolded me"
+  },
+  {
+    "bangla_speech ":"তুমি একজন  ভালো মেয়ে মানুষ",
+    "banglish_speech ":"tumi ekjon  valo meye manush",
+    "chittagong_bangla_speech ":"তুই একজন ভালো মাইয়াফোয়া",
+    "chittagong_banglish_speech ":"tui ekjon valo maiyafoya",
+    "region_name ":"Chittagong",
+    "english_speech":"You are a good girl"
+  },
+  {
+    "bangla_speech ":"তোমাকে জোর  করে বিয়ে দেয়া হয়েছিল",
+    "banglish_speech ":"tomake jor  kore biye deya hoyechilo",
+    "chittagong_bangla_speech ":"তোয়ারে জর গরি বিয়া দিয়ি",
+    "chittagong_banglish_speech ":"toyare jor gori biya diyi",
+    "region_name ":"Chittagong",
+    "english_speech":"You were forced into marriage"
+  },
+  {
+    "bangla_speech ":"তিনি  দুইবেলা ভাত খেতে পারেন না",
+    "banglish_speech ":"tini  duibela vat khete paren na",
+    "chittagong_bangla_speech ":"তিনি দুই বেলা ভাত হাইতো ন ফারে",
+    "chittagong_banglish_speech ":"tini dui bela vat haito no fare",
+    "region_name ":"Chittagong",
+    "english_speech":"He cannot eat rice for two meals"
+  },
+  {
+    "bangla_speech ":"তোমার পাশে  থাকলে আমি কল্পনার চেয়েও বেশি সুখী থাকি",
+    "banglish_speech ":"tomar pashe  thakle ami kolponar cheyeo beshi sukhi thaki",
+    "chittagong_bangla_speech ":"তোয়ার ফাশত থাকিলে আই হলফনার চাইতেও বেশি সুখী",
+    "chittagong_banglish_speech ":"toyar fashot thakile ai holfonar chaiteo beshi sukhi",
+    "region_name ":"Chittagong",
+    "english_speech":"I am happier than I can imagine when I am by your side"
+  },
+  {
+    "bangla_speech ":"আম্মু আজকে খাবারে লবণ কম দিয়েছে",
+    "banglish_speech ":"ammu ajke khabare lobon kom diyeche",
+    "chittagong_bangla_speech ":"আম্মু আজিয়া  খাবারত  লবণ হম দিয়ি",
+    "chittagong_banglish_speech ":"ammu ajiya khabarot lobon hom diyi",
+    "region_name ":"Chittagong",
+    "english_speech":"Mom gave less salt in food today"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু সব সময় বেশ হাসি খুশি থাকে",
+    "banglish_speech ":"amar ammu sob somoy besh hasi khushi thake",
+    "chittagong_bangla_speech ":"আর আম্মু  সব সমত বেশ হাশি খুশি তাহে দে",
+    "chittagong_banglish_speech ":"ar ammu sob somot besh hashi khushi tahe de",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom is always smiling and happy"
+  },
+  {
+    "bangla_speech ":"তোমার জন্য এত কিছু করেও কোন লাভ হলো না",
+    "banglish_speech ":"tomar jonno eto kichu koreo kon lav holo na",
+    "chittagong_bangla_speech ":"তোয়ার লাই এক কিছু গরিও হোন লাভ ন অয়",
+    "chittagong_banglish_speech ":"toyar lai ek kichu gorio hono lav no oy",
+    "region_name ":"Chittagong",
+    "english_speech":"Even doing so much for you was of no use"
+  },
+  {
+    "bangla_speech ":"আপনি আমাকে আর কত অবাক করবেন",
+    "banglish_speech ":"apni amake ar koto obak korben",
+    "chittagong_bangla_speech ":"অনে আরে আর হত অবাক গরিবান",
+    "chittagong_banglish_speech ":"one are ar hoto obak goriban",
+    "region_name ":"Chittagong",
+    "english_speech":"How much more will you surprise me?"
+  },
+  {
+    "bangla_speech ":"আপনি একটু কম চাপাবাজি করেন",
+    "banglish_speech ":"apni ektu kom chapabaji koren",
+    "chittagong_bangla_speech ":"অনে এক্কেনা হম গাল মারন",
+    "chittagong_banglish_speech ":"one ekkena hom gal maron",
+    "region_name ":"Chittagong",
+    "english_speech":"You push a little less"
+  },
+  {
+    "bangla_speech ":"আজকে আমার ছোট বোন রান্না করেছে",
+    "banglish_speech ":"ajke amar choto bon ranna koreche",
+    "chittagong_bangla_speech ":"আজিয়া আর বইন  ছোড ইবা ফাক গইজ্জে",
+    "chittagong_banglish_speech ":"ajiya ar boin chodo iba fak goijje",
+    "region_name ":"Chittagong",
+    "english_speech":"Today my younger sister cooked"
+  },
+  {
+    "bangla_speech ":"খাবারে লবণ একটু বেশী হয়ে গেসে",
+    "banglish_speech ":"khabare lobon ektu beshi hoye gese",
+    "chittagong_bangla_speech ":"হানাত লবণ এক্কা বেসি অই গিয়ি",
+    "chittagong_banglish_speech ":"hanat lobon ekka besi oi giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"Salt in food becomes a little too much"
+  },
+  {
+    "bangla_speech ":"খাবারে লবণ কম হলে আরো ভালো লাগতো",
+    "banglish_speech ":"khabare lobon kom hole aro valo lagto",
+    "chittagong_bangla_speech ":"হানাাত লবণ হম অইলে আরো গম লাগিত ",
+    "chittagong_banglish_speech ":"hanaat lobon hom oile aro gom lagito",
+    "region_name ":"Chittagong",
+    "english_speech":"It would have been better if there was less salt in the food"
+  },
+  {
+    "bangla_speech ":"আজকে আমি বাহিরে যাবোই",
+    "banglish_speech ":"ajke ami bahire jaboi",
+    "chittagong_bangla_speech ":"আজিয়া আই বাইরত যাইয়ুম",
+    "chittagong_banglish_speech ":"ajiya ai bairot jaiyum",
+    "region_name ":"Chittagong",
+    "english_speech":"I will go out today"
+  },
+  {
+    "bangla_speech ":"আপনি একা একা বাহিরে ঘুরতে যান",
+    "banglish_speech ":"apni eka eka bahire ghurte jan",
+    "chittagong_bangla_speech ":"ইনে এহলা এহলা বাইরত ঘুরিত যান",
+    "chittagong_banglish_speech ":"ine ehla ehla bairot ghurit jan",
+    "region_name ":"Chittagong",
+    "english_speech":"You go out for a walk alone"
+  },
+  {
+    "bangla_speech ":"আমি খুব  জোস মেকআপ করি",
+    "banglish_speech ":"ami khub  joss mekeup kori",
+    "chittagong_bangla_speech ":"আই কুব জস মেকআপ গইজ্জি",
+    "chittagong_banglish_speech ":"ai kub jos mekap goijji",
+    "region_name ":"Chittagong",
+    "english_speech":"I wear a lot of makeup"
+  },
+  {
+    "bangla_speech ":"তুমি একদমই না বুঝে বেশী কথা বলো",
+    "banglish_speech ":"tumi ekdomi na bujhe beshi kotha bolo",
+    "chittagong_bangla_speech ":"তুই একদম ন বুঝি ইয়েরে বেসি হতা হদে",
+    "chittagong_banglish_speech ":"tui ekdom no bujhi iyere besi hota hode",
+    "region_name ":"Chittagong",
+    "english_speech":"You talk too much without understanding at all"
+  },
+  {
+    "bangla_speech ":"আপনাকে কিছু বলা লাগে না , আপনি এমনিতেই আমার মনের কথা বুঝে যান",
+    "banglish_speech ":"apnake kichu bola lage na , apni emnitei amar moner kotha bujhe jan",
+    "chittagong_bangla_speech ":"অন্বেও কিছু হন ন লাগে, অনে এনেই আর মনর হতা বুঝি ফেলান",
+    "chittagong_banglish_speech ":"onere kichu hon no lage, one enei ar monor hota bujhi felan",
+    "region_name ":"Chittagong",
+    "english_speech":"You don't need to say anything, you already understand what I mean"
+  },
+  {
+    "bangla_speech ":"তোমার চোখ থাকে অন্য মেয়েদের দিকে",
+    "banglish_speech ":"tomar chokh thake onno meyeder dike",
+    "chittagong_bangla_speech ":"তোয়ার চুখ তাহে অন্ন মাইয়াফোয়ার মিক্কে",
+    "chittagong_banglish_speech ":"toyar chukh tahe onno maiyafoyar mikke",
+    "region_name ":"Chittagong",
+    "english_speech":"You have eyes for other girls"
+  },
+  {
+    "bangla_speech ":"তোমার বিবাহিত জীবন সুখের হোক",
+    "banglish_speech ":"tomar bibahito jibon sukher hok",
+    "chittagong_bangla_speech ":"তোয়ার বিবাহিত জীবন সুন্দর ওক",
+    "chittagong_banglish_speech ":"toyar bibahito jibon sundor ouk",
+    "region_name ":"Chittagong",
+    "english_speech":"May your married life be happy"
+  },
+  {
+    "bangla_speech ":"আমাদের বাসার দারওয়ান রাতে মদ খায়",
+    "banglish_speech ":"amader basar daroyan rate mod khay",
+    "chittagong_bangla_speech ":"আররার বাসাত দারওয়ান লাতিয়া মদ হাদে",
+    "chittagong_banglish_speech ":"arrar basat daroyan latiya mod hade",
+    "region_name ":"Chittagong",
+    "english_speech":"The janitor of our house drinks alcohol at night"
+  },
+  {
+    "bangla_speech ":"আমার স্বামী রাতে বন্ধুদের সাথে আড্ডা দেয়",
+    "banglish_speech ":"amar shami rate bondhuder sathe adda dey",
+    "chittagong_bangla_speech ":"আর জামাাই লাতিয়া বন্ধু তারা ফোয়ারিত আড্ডা মারে দে",
+    "chittagong_banglish_speech ":"ar jamai latiya bondhu tara foyarit adda mare de",
+    "region_name ":"Chittagong",
+    "english_speech":"My husband hangs out with friends at night"
+  },
+  {
+    "bangla_speech ":"আমি আর আমার আব্বু বিয়ে বাড়িতে যাচ্ছি",
+    "banglish_speech ":"ami ar amar abbu biye barite jacchi",
+    "chittagong_bangla_speech ":"আই আর আর আব্বু বিয়া বারিত জাইরদি",
+    "chittagong_banglish_speech ":"ai ar ar abbu biya barit jairdi",
+    "region_name ":"Chittagong",
+    "english_speech":"I and my father are going to get married"
+  },
+  {
+    "bangla_speech ":"তুমি আমার  কাছে ধরা পড়ার পরেও পরকীয়া করার কথা স্বীকার করছ না",
+    "banglish_speech ":"tumi amar  kache dhora porar poreo porokiya korar kotha shikar korocho na",
+    "chittagong_bangla_speech ":"তুই আর কাসত ধরা ফরিবার ফর ফরকিয়া গরিবার হতা স্বীকার ন গরর",
+    "chittagong_banglish_speech ":"tui ar kasot dhora foribar for forokiya goribar hota shikar no goror",
+    "region_name ":"Chittagong",
+    "english_speech":"You are not admitting to adultery even after being caught by me"
+  },
+  {
+    "bangla_speech ":"একটা বিবাহিত মহিলা রাস্তা দিয়ে হেতে যাচ্ছে",
+    "banglish_speech ":"ekta bibahito mohila rasta diye hete jacche",
+    "chittagong_bangla_speech ":"এক্কান বিবাহিত মহিলা রাস্তাত দিয়েরে হাডি যার",
+    "chittagong_banglish_speech ":"ekkan bibahito mohila rastat diyere hadi jar",
+    "region_name ":"Chittagong",
+    "english_speech":"A married woman is walking down the street"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু আমার পড়াশোনার খরচ দিতে চায় না",
+    "banglish_speech ":"amar ammu amar porashonar khoroch dite chay na",
+    "chittagong_bangla_speech ":"আর আম্মু আর ফন্নাফরার হরছ নিত ন চায়",
+    "chittagong_banglish_speech ":"ar ammu ar fonnaforar horoch nit no chay",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom doesn't want to pay for my education"
+  },
+  {
+    "bangla_speech ":"আমার মা অনেক কষ্ট করে আমাদের বড় করেছেন",
+    "banglish_speech ":"amar ma onek koshto kore amader boro korechen",
+    "chittagong_bangla_speech ":"আর মা অনেক হষ্ট গরি আরার বড় গইজ্জে",
+    "chittagong_banglish_speech ":"ar ma onek hoshto gori arar bor goijje",
+    "region_name ":"Chittagong",
+    "english_speech":"My mother raised us very hard"
+  },
+  {
+    "bangla_speech ":"তোমার ছোট ভাই  আগে নেশায় আসক্ত ছিল",
+    "banglish_speech ":"tomar choto vai  age neshay ashokto chilo",
+    "chittagong_bangla_speech ":"তোয়ার ছোড ভআই ইবা আগত নেশাত আসক্ত আসিল",
+    "chittagong_banglish_speech ":"toyar chodo vai iba agot neshat asokto asilo",
+    "region_name ":"Chittagong",
+    "english_speech":"Your younger brother was addicted to drugs before"
+  },
+  {
+    "bangla_speech ":"ছেলেটি সারাদিন বাহিরে বাহিরে থাকে",
+    "banglish_speech ":"cheleti saradin bahire bahire thake",
+    "chittagong_bangla_speech ":"ফোয়া ইবা ফুর দিন বারত বাইরত তাহে",
+    "chittagong_banglish_speech ":"foya iba fur din barot bairot tahe",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy stays outside all day"
+  },
+  {
+    "bangla_speech ":"আমার ফুফু চাচারাও আমাকে অনেক ভালবাসে",
+    "banglish_speech ":"amar fufu chacharao amake onek valobashe",
+    "chittagong_bangla_speech ":"তোয়ার ফুফুর চাচা তারাও আরে বহুত ভালোবাসে দে",
+    "chittagong_banglish_speech ":"toyar fufur chacha tarao are bohut valobashe de",
+    "region_name ":"Chittagong",
+    "english_speech":"My cousins also love me a lot"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু আগের তুলনায় এখন অনেক ভালো আছেন",
+    "banglish_speech ":"amar ammu ager tulonay ekhon onek valo achen",
+    "chittagong_bangla_speech ":"আর আম্মু আগর তুলনায় এহন বহুত ভালো আসে দে",
+    "chittagong_banglish_speech ":"ar ammu agor tulonay ehon bohut valo ase de",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom is much better now than before"
+  },
+  {
+    "bangla_speech ":"আমি আর আমার ছোট বোন আজকে  খালামুনির বাসায় ঘুরতে যাবো",
+    "banglish_speech ":"ami ar amar choto bon ajke  khalamunir basay ghurte jabo",
+    "chittagong_bangla_speech ":"আই আর আর ছোড বইন  ইবা আজিয়া হালামনির বাসাত ঘুইরত জাইব দে",
+    "chittagong_banglish_speech ":"ai ar ar chodo boin iba ajiya halamonir basat ghuirot jaibo de",
+    "region_name ":"Chittagong",
+    "english_speech":"Me and my younger sister will visit Khalamuni's house today"
+  },
+  {
+    "bangla_speech ":"আমার বড় বোন এতো সকালে ঘুম থেকে উঠতে পারে না",
+    "banglish_speech ":"amar boro bon eto sokale ghum theke uthte pare na",
+    "chittagong_bangla_speech ":"আর ডর বইন ইবা এতো সকালত ঘুমত্তুন উডিন্ন ফারে",
+    "chittagong_banglish_speech ":"ar dor boin iba eto sokalot ghumottun udinno fare",
+    "region_name ":"Chittagong",
+    "english_speech":"My elder sister cannot wake up so early in the morning"
+  },
+  {
+    "bangla_speech ":"আমার বড় বোন প্রচন্ড অলস একটা কাজ সময়মতো করতে পারে না",
+    "banglish_speech ":"amar boro bon prochondo olosh ekta kaj somoymoto korte pare na",
+    "chittagong_bangla_speech ":"আর ডর বইন ইবা ফ্রচন্ড আলস  এক্কান হাম সময়মতন গরিত ন ফারে",
+    "chittagong_banglish_speech ":"ar dor boin iba frochondo alosh ekkan ham somoymoton gorit no fare",
+    "region_name ":"Chittagong",
+    "english_speech":"My elder sister is very lazy and cannot do a job on time"
+  },
+  {
+    "bangla_speech ":"আপনার সাথে আমার একটা জরুরি কথা আছে",
+    "banglish_speech ":"apnar sathe amar ekta joruri kotha ache",
+    "chittagong_bangla_speech ":"অনর হাসে আরার এক্কান জরুরি হতা আসে",
+    "chittagong_banglish_speech ":"onor hase arar ekkan joruri hota ase",
+    "region_name ":"Chittagong",
+    "english_speech":"I have an urgent matter with you"
+  },
+  {
+    "bangla_speech ":"সকালে তাড়াতাড়ি উঠে বাহিরে একটু হেঁটে আসা খুব উপকারী",
+    "banglish_speech ":"sokale taratari uthe bahire ektu hete asa khub upokari",
+    "chittagong_bangla_speech ":"সকালত হারাহারি উঠে বাহিরত এক্কান হাটি আইয়ন খুব উফকারি",
+    "chittagong_banglish_speech ":"sokalot harahari uthe bahirot ekkan hati aiyon khub ufokari",
+    "region_name ":"Chittagong",
+    "english_speech":"Getting up early in the morning and taking a short walk outside is very beneficial"
+  },
+  {
+    "bangla_speech ":"তুমি কি আমটি খেয়েছিলে ?",
+    "banglish_speech ":"tumi ki aamti kheyechile ?",
+    "chittagong_bangla_speech ":"তুইকি নাম্মান হাইয়না?",
+    "chittagong_banglish_speech ":"tuiki namman haiyna?",
+    "region_name ":"Chittagong",
+    "english_speech":"Did you eat the mango?"
+  },
+  {
+    "bangla_speech ":"বাগানের মধ্যে গিয়ে আমার ছোট ভাই দৌড়াল",
+    "banglish_speech ":"baganer moddhe giye amar choto vai douralo",
+    "chittagong_bangla_speech ":"বাগানর মধ্যত আর ছোড ভাই  ইবা দৈর",
+    "chittagong_banglish_speech ":"baganor moddhot ar chodo vai iba doir",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger brother ran into the garden"
+  },
+  {
+    "bangla_speech ":"আপনি ফুটবল খেলায় হেরে গেলেন",
+    "banglish_speech ":"apni football khelay here gelen",
+    "chittagong_bangla_speech ":"অনে ফুটবল হেলা হারি গেইলেন",
+    "chittagong_banglish_speech ":"one football hela hari geilen",
+    "region_name ":"Chittagong",
+    "english_speech":"You lost the football game"
+  },
+  {
+    "bangla_speech ":"তুমি ক্রিকেট খেলায় জিতলে",
+    "banglish_speech ":"tumi cricket khelay jitle",
+    "chittagong_bangla_speech ":"তুই ক্রিকেট হেলাত জিতিলা",
+    "chittagong_banglish_speech ":"tui cricket helat jitila",
+    "region_name ":"Chittagong",
+    "english_speech":"You win the cricket game"
+  },
+  {
+    "bangla_speech ":"তুই এখান থেকে যা",
+    "banglish_speech ":"tui ekhan theke ja",
+    "chittagong_bangla_speech ":"তুই এদে তাহি যো",
+    "chittagong_banglish_speech ":"tui ede tahi jo",
+    "region_name ":"Chittagong",
+    "english_speech":"you get out of here"
+  },
+  {
+    "bangla_speech ":"আপনি আমাকে দয়া করে  বিশ্বাস করেন",
+    "banglish_speech ":"apni amake doya kore  bishsas koren",
+    "chittagong_bangla_speech ":"অনে আরেে দয়া গরি বিশ্বাস গরন",
+    "chittagong_banglish_speech ":"one aree doya gori bisshas goron",
+    "region_name ":"Chittagong",
+    "english_speech":"Please believe me"
+  },
+  {
+    "bangla_speech ":"ছোট শিশুটি  অসুস্থ হয়ে পরেছে",
+    "banglish_speech ":"choto shishuti  osustho hoye poreche",
+    "chittagong_bangla_speech ":" ছোড শিশু ইবা অসুস্ত অই ফইজ্জে",
+    "chittagong_banglish_speech ":"chodo shishu iba oshusto oi foijje",
+    "region_name ":"Chittagong",
+    "english_speech":"The little child is sick"
+  },
+  {
+    "bangla_speech ":"তুমি কি আমার জন্য অপেক্ষা করতে পারবে ?",
+    "banglish_speech ":"tumi ki amar jonno opekkha korte parbe ?",
+    "chittagong_bangla_speech ":"তুই কি আরলাই অফেক্ষা গরিত্তারি বানা?",
+    "chittagong_banglish_speech ":"tui ki arlai ofekkha gorittari bana?",
+    "region_name ":"Chittagong",
+    "english_speech":"can you wait for me"
+  },
+  {
+    "bangla_speech ":"তুমি আমার কাছে  ক্ষমা চাও",
+    "banglish_speech ":"tumi amar kache  khoma chao",
+    "chittagong_bangla_speech ":"তুই আর হাসত ক্ষমা চো",
+    "chittagong_banglish_speech ":"tui ar hasot khoma cho",
+    "region_name ":"Chittagong",
+    "english_speech":"You apologize to me"
+  },
+  {
+    "bangla_speech ":"আমি বিকালে একটু ঘুমিয়ে নিলাম",
+    "banglish_speech ":"ami bikale ektu ghumiye nilam",
+    "chittagong_bangla_speech ":"আই বিহালত এক্কেনা ঘুমাই গেইলাম",
+    "chittagong_banglish_speech ":"ai bihalot ekkena ghumai geilam",
+    "region_name ":"Chittagong",
+    "english_speech":"I took a nap in the afternoon"
+  },
+  {
+    "bangla_speech ":"আমার আব্বু বড় ভাইয়ের উপর রেগে গেছিলেন",
+    "banglish_speech ":"amar abbu boro vaiyer upor rege gechilen",
+    "chittagong_bangla_speech ":"আর আব্বু ডর ভাই ইবার উফরত রাগি গেইয়ে",
+    "chittagong_banglish_speech ":"ar abbu dor vai ibar uforot ragi geiye",
+    "region_name ":"Chittagong",
+    "english_speech":"My father was angry with my elder brother"
+  },
+  {
+    "bangla_speech ":"তোমার কথা শুনে আমি খুব অবাক হয়ে গেছিলাম",
+    "banglish_speech ":"tomar kotha shune ami khub obak hoye gechilam",
+    "chittagong_bangla_speech ":"তোয়ার হোতা ফুনিয়েরে আই খুব অবাক অই গিয়ি",
+    "chittagong_banglish_speech ":"toyar hota funiyere ai khub obak oi giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"I was very surprised to hear your words"
+  },
+  {
+    "bangla_speech ":"তোমার কি মাথা ব্যাথা করছে ?",
+    "banglish_speech ":"tomar ki matha betha korche ?",
+    "chittagong_bangla_speech ":"তোয়ার মাথা ব্যাথা গইজ্জ?",
+    "chittagong_banglish_speech ":"toyar matha betha goijjo?",
+    "region_name ":"Chittagong",
+    "english_speech":"Do you have a headache?"
+  },
+  {
+    "bangla_speech ":"আমার হাত  খরচের টাকা আমার আব্বু দেয়",
+    "banglish_speech ":"amar hat  khorocher taka amar abbu dey",
+    "chittagong_bangla_speech ":"আর আত হরচর টেয়া আর আব্বু দেয়",
+    "chittagong_banglish_speech ":"ar at horochor teya ar abbu dey",
+    "region_name ":"Chittagong",
+    "english_speech":"My father pays my expenses"
+  },
+  {
+    "bangla_speech ":"আমার বোন ইদানীং অনেক খারাপ আচরন করে",
+    "banglish_speech ":"amar bon idaning onek kharap acoron kore",
+    "chittagong_bangla_speech ":"আর বইন  ইদানিং বহুত হারাফ আচরন গরে",
+    "chittagong_banglish_speech ":"ar boin idaning bohut haraf achoron gore",
+    "region_name ":"Chittagong",
+    "english_speech":"My sister has been behaving very badly lately."
+  },
+  {
+    "bangla_speech ":"আমি যেই ছেলেকে পছন্দ করি সে আমার পরিবারের কাউকে সম্মান করেনা",
+    "banglish_speech ":"ami jei cheleke pochondo kori se amar poribarer kauke somman korena",
+    "chittagong_bangla_speech ":"আই যেই ফোয়ারে ফসন্দ গরি সে আর ফরিবারর অনিক্কারে সম্মান ন গরে",
+    "chittagong_banglish_speech ":"ai jei foyare fosondo gori se ar foribaror onikkare somman no gore",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy I like doesn't respect anyone in my family"
+  },
+  {
+    "bangla_speech ":"মেয়েটি তাকে বিয়ে করবে না বলে দিয়েছে ",
+    "banglish_speech ":"meyeti take biye korbe na bole diyeche",
+    "chittagong_bangla_speech ":"মাইয়াফোয়া তারে বিয়া ন গরিব হই দিয়ি",
+    "chittagong_banglish_speech ":"maiyafoya tare biya n gorib hoi diyi",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl has said that she will not marry him"
+  },
+  {
+    "bangla_speech ":"বাড়ি থেকে বিয়ের জন্য আমার জন্য মেয়ে  দেখা শুরু করলো",
+    "banglish_speech ":"bari theke biyer jonno amar jonno meye  dekha shuru korlo",
+    "chittagong_bangla_speech ":"বাড়িত্তুন বিয়ার লাই আর লাই মাইয়াফোয়া দেহা শুরু গইজ্জে",
+    "chittagong_banglish_speech ":"barittun biyar lai ar lai maiyafoya deha shuru goijje",
+    "region_name ":"Chittagong",
+    "english_speech":"She started looking for me for marriage from home"
+  },
+  {
+    "bangla_speech ":"আমার বিয়ে তোমার ছোট বোনের সাথে ঠিক হয়েছে",
+    "banglish_speech ":"amar biye tomar choto boner sathe thik hoyeche",
+    "chittagong_bangla_speech ":"আর বিয়াাত তোয়ার ছোড বইনর ফোয়ারিত ঠিক অইয়ে",
+    "chittagong_banglish_speech ":"ar biyat toyar chodo boinor foyarit thik oiye",
+    "region_name ":"Chittagong",
+    "english_speech":"My marriage is fixed with your younger sister"
+  },
+  {
+    "bangla_speech ":"ছেলেটি আরও দুই  বছর পরে বিয়ে করতে চায় ",
+    "banglish_speech ":"cheleti aro dui  bochor pore biye korte chay",
+    "chittagong_bangla_speech ":"ফোয়া ইবা আরও দুই বছর ফরও বয়া গরিবেল্লাই চায়",
+    "chittagong_banglish_speech ":"foya iba aro dui bochor foro boya goribellai chay",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy wants to get married after two more years"
+  },
+  {
+    "bangla_speech ":"বাবা আমাদের সমস্ত সম্পত্তি বিক্রি করে আমাদের নিয়ে গ্রামের বাড়িতে চলে আসছে",
+    "banglish_speech ":"baba amader somosto sompotti bikri kore amader niye gramer barite cole asche",
+    "chittagong_bangla_speech ":"বাবা আরার সমস্ত সম্পত্তি বেচিয়েরে  গ্রামর বাড়িত চলি আইসসে",
+    "chittagong_banglish_speech ":"baba arar somosto sompotti bechiyere gramor barit choli aisse",
+    "region_name ":"Chittagong",
+    "english_speech":"Father is selling all our possessions and taking us to the village house"
+  },
+  {
+    "bangla_speech ":"আমি  সবাইকে বুঝিয়ে বুঝিয়ে ক্লান্ত যে আমার আম্মু  এরকম কিছু করে  নাই",
+    "banglish_speech ":"ami  sobaike bujhiye bujhiye klanto je amar ammu  erokom kichu kore  nai",
+    "chittagong_bangla_speech ":"আই বেয়াক্কুনর বুঝাইয়েরে ক্লান্ত যে আর আম্মু এইল্লে কিছু গরি নাই",
+    "chittagong_banglish_speech ":"ai beyakkunor bujhaiyere klanto je ar ammu eille kichu gori nai",
+    "region_name ":"Chittagong",
+    "english_speech":"I'm tired of explaining to everyone that my mom never did anything like that"
+  },
+  {
+    "bangla_speech ":"তাদের পারিবারিক ভাবেই বিয়ে হয়েছে",
+    "banglish_speech ":"tader paribarik vabei biye hoyeche",
+    "chittagong_bangla_speech ":"তারাার ফারিবারিক ভাবেই বিয়া অইয়ে",
+    "chittagong_banglish_speech ":"tarar faribarik vabei biya oiye",
+    "region_name ":"Chittagong",
+    "english_speech":"They got married in a family way"
+  },
+  {
+    "bangla_speech ":"তাদের প্রেম করে বিয়ে হয়েছিল",
+    "banglish_speech ":"tader prem kore biye hoyechilo",
+    "chittagong_bangla_speech ":"তারার ফ্রেম গরিয়েরে বিয়া অইয়ে",
+    "chittagong_banglish_speech ":"tarar frem goriyere biya oiye",
+    "region_name ":"Chittagong",
+    "english_speech":"They were married in love"
+  },
+  {
+    "bangla_speech ":"আমার শাশুড়ি অনেক ভালো রান্না করে",
+    "banglish_speech ":"amar shashuri onek valo ranna kore",
+    "chittagong_bangla_speech ":"আর শাশুড়ি বহুত ভালো ফাক গইজ্জে",
+    "chittagong_banglish_speech ":"ar shashuri bohut valo fak goijje",
+    "region_name ":"Chittagong",
+    "english_speech":"My mother-in-law cooks very well"
+  },
+  {
+    "bangla_speech ":"বাবা অশিক্ষিত একটা ছেলের সাথে আমার বিয়ে  দিতে চেয়েছিল",
+    "banglish_speech ":"baba oshikkhito ekta cheler sathe amar biye  dite cheyechilo",
+    "chittagong_bangla_speech ":"বাবা অশিক্ষিত এক্কান ফোয়ার ফোয়ারিত আর বিয়া দিতে চাইল",
+    "chittagong_banglish_speech ":"baba oshikkhit ekkan foyar foyarit ar biya dite chailo",
+    "region_name ":"Chittagong",
+    "english_speech":"My father wanted to marry me to an illiterate boy"
+  },
+  {
+    "bangla_speech ":"আব্বু মান সন্মানের ভয়ে মামলা করেননি",
+    "banglish_speech ":"abbu man sommaner voye mamla korenni",
+    "chittagong_bangla_speech ":"আব্বু মান সম্মানর ভয়ে মামলা ন গরে",
+    "chittagong_banglish_speech ":"abbu man sommanor voye mamla no gore",
+    "region_name ":"Chittagong",
+    "english_speech":"Abbu Maan did not file a case for fear of honour"
+  },
+  {
+    "bangla_speech ":"ছেলেটি চাচার ভয়ে তার বাবাকে সত্যি কথা বলতে পারেনি",
+    "banglish_speech ":"cheleti chachar voye tar babake sotti kotha bolte pareni",
+    "chittagong_bangla_speech ":"ফোয়াইবার চাচার ভয়োত তার বাবারত সত্যি হতা হইন্নোফারে",
+    "chittagong_banglish_speech ":"foyaibar chachar voyot tar babarot sotti hota hoinnofare",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy could not tell the truth to his father for fear of his uncle"
+  },
+  {
+    "bangla_speech ":"আমি তখন খুব ছোট যখন আমার মা মারা গিয়েছিল",
+    "banglish_speech ":"ami tokhon khub choto jokhon amar ma mara giyechilo",
+    "chittagong_bangla_speech ":"আই তহন খুব ছোডযহন আর মা মারা গিয়ি",
+    "chittagong_banglish_speech ":"ai tohon khub chodojohon ar ma mara giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"I was very young when my mother died"
+  },
+  {
+    "bangla_speech ":"গ্রামের থেকে আসা ছেলেটি এখন ঢাকায় পড়াশুনা করছে",
+    "banglish_speech ":"gramer theke asa cheleti ekhon dhakay porashuna korche",
+    "chittagong_bangla_speech ":"গ্রারামত্তুন আইয়োন ফোয়া ইবা এহন ঢাহাত ফন্না ফরের",
+    "chittagong_banglish_speech ":"graramottun aiyon foya iba ehon dhahat fonna forer",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy from the village is now studying in Dhaka"
+  },
+  {
+    "bangla_speech ":"আমার সাথে তার পরিচয় হয়েছে স্কুলে গিয়ে",
+    "banglish_speech ":"amar sathe tar porichoy hoyeche school e giye",
+    "chittagong_bangla_speech ":"আর ফোয়ারিত তার ফরিচয় অইয়ে স্কুলত গিয়ি",
+    "chittagong_banglish_speech ":"ar foyarit tar forichoy oiye school giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"He met me at school"
+  },
+  {
+    "bangla_speech ":"আমাকে দয়া করে পরামর্শ দিন আমি এখন কি করতে পারি",
+    "banglish_speech ":"amake doya kore poramorsho din ami ekhon ki korte pari",
+    "chittagong_bangla_speech ":"আরে দয়া গরি ফরামরশ দন আই এহন কি গরিত্তারি",
+    "chittagong_banglish_speech ":"are doya gori foramorosh don ai ehon ki gorittari",
+    "region_name ":"Chittagong",
+    "english_speech":"Please suggest me what I can do now"
+  },
+  {
+    "bangla_speech ":"আমার বাহিরে ঘুরতে যাওয়ার কোন  ইচ্ছা ছিল না",
+    "banglish_speech ":"amar bahire ghurte jaoyar kon  iccha chilo na",
+    "chittagong_bangla_speech ":"আর বাইরত ঘুইরতাম যাইবার হোন ইচ্ছা ন আসিল",
+    "chittagong_banglish_speech ":"ar bairot ghuirtam jaibar hon iccha no asilo",
+    "region_name ":"Chittagong",
+    "english_speech":"I had no desire to go outside"
+  },
+  {
+    "bangla_speech ":"ছেলেটা সিগারেট পর্যন্ত খায় না",
+    "banglish_speech ":"cheleta cigarettes porjonto khay na",
+    "chittagong_bangla_speech ":"ফোয়া ইবা সিগারেট ফসন্দ ন হায়",
+    "chittagong_banglish_speech ":"foya iba cigarette fosondo no hay",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy does not even smoke cigarettes"
+  },
+  {
+    "bangla_speech ":"প্রথমদিকে আপনাকে আমি এত  ভালোবাসতাম না",
+    "banglish_speech ":"prothomdike apnake ami eto  valobashtam na",
+    "chittagong_bangla_speech ":"ফ্রতম মিক্কে অনেরে আই এত ভালোনোবাসিতাম ",
+    "chittagong_banglish_speech ":"frotom mikke onere ai et valonobasitam",
+    "region_name ":"Chittagong",
+    "english_speech":"At first I didn't love you so much"
+  },
+  {
+    "bangla_speech ":"ছেলেটি সপ্তাহখানেক আগে  আমাদের সাথে দেখা করেছে",
+    "banglish_speech ":"cheleti soptahkhanek age  amader sathe dekha koreche",
+    "chittagong_bangla_speech ":"ফোয়া ইবা সপ্তাত আগদ্দি আরার ফয়ারিত দেহা গইজ্জে",
+    "chittagong_banglish_speech ":"foya iba soptat agoddi arar foyarit deha goijje",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy met us a week ago"
+  },
+  {
+    "bangla_speech ":"ওই মেয়েকে যেভাবেই হোক  খুঁজে বের করতে হবে",
+    "banglish_speech ":"oi meyeke jevabei hok  khuje ber korte hobe",
+    "chittagong_bangla_speech ":"অই মাইয়াফোয়া যেনেইওক খুজি বাইর গরন ফরিব",
+    "chittagong_banglish_speech ":"oi maiyafoya jeneiok khuji bair goron foribo",
+    "region_name ":"Chittagong",
+    "english_speech":"That girl has to be found anyway"
+  },
+  {
+    "bangla_speech ":"ছেলেটির ঘটনা শুনে আমরা তাকে সাহায্য করি",
+    "banglish_speech ":"cheletir ghotona shune amra take sahajjo kori",
+    "chittagong_bangla_speech ":"ফোয়াইবার ঘটনা ফুনি আরা তারে সাহায্য গইজ্জি ",
+    "chittagong_banglish_speech ":"foyaibar ghotona funi ara tare sahajjo goijji",
+    "region_name ":"Chittagong",
+    "english_speech":"After hearing the story of the boy, we help him"
+  },
+  {
+    "bangla_speech ":"ছেলেটি তার পরিবারসহ  ঈদের আগের দিন আমাদের সাথে দেখা করতে আসে",
+    "banglish_speech ":"cheleti tar poribarsoho  eider ager din amader sathe dekha korte ase",
+    "chittagong_bangla_speech ":"ফোয়াইবা তার ফরিবারসহ ঈদুর আগরদিন আরার ফোয়ারিত দেহা গইরতে আইসসে",
+    "chittagong_banglish_speech ":"foyaiba tar foribarosoho eidur agordin arar foyarit deha goirte aisse",
+    "region_name ":"Chittagong",
+    "english_speech":"The boy along with his family came to visit us the day before Eid"
+  },
+  {
+    "bangla_speech ":"মেয়েটি বাংলাদেশে এসে তার পছন্দের ছেলের সাথে  বিয়ে ঠিক করেছে",
+    "banglish_speech ":"meyeti bangladeshe ese tar pochonder cheler sathe  biye thik koreche",
+    "chittagong_bangla_speech ":"মাইয়াফোয়া ইবা বাংলাদেশত আইয়েরে  তার ফসন্দর ফোয়ারিত বিয়া ঠিক গইজ্জি",
+    "chittagong_banglish_speech ":"maiyafoya iba bangladeshot aiyere  tar fosondor foyarit biya thik goijji",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl came to Bangladesh and decided to marry the boy of her choice"
+  },
+  {
+    "bangla_speech ":"আমাদের এলাকায় কেরোসিন তেলের দাম বেড়ে গেছে",
+    "banglish_speech ":"amader elakay kerosene teler dam bere geche",
+    "chittagong_bangla_speech ":"আরার এলাকাত কেরাসিনর দাম বারি গিয়ি",
+    "chittagong_banglish_speech ":"arar elakat kerosenor dam bari giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"The price of kerosene oil has increased in our area"
+  },
+  {
+    "bangla_speech ":"আমার প্রতিদিন পেয়ারা খেতে খুব ভালো লাগে",
+    "banglish_speech ":"amar protidin peyara khete khub valo lage",
+    "chittagong_bangla_speech ":"আর ফ্রতিদিন ফেয়ারা হাইতে বহুত গম লাগে দে",
+    "chittagong_banglish_speech ":"ar frotidin feyara haite bohut gom lage de",
+    "region_name ":"Chittagong",
+    "english_speech":"I love to eat guava every day"
+  },
+  {
+    "bangla_speech ":"পেয়ারা আমার প্রিয় ফল",
+    "banglish_speech ":"peyara amar priyo fol",
+    "chittagong_bangla_speech ":"ফেয়ারা আর ফ্রিও ফল",
+    "chittagong_banglish_speech ":"feyara ar frio fol",
+    "region_name ":"Chittagong",
+    "english_speech":"Guava is my favorite fruit"
+  },
+  {
+    "bangla_speech ":"আমার আব্বু প্রতিদিন নারিকেল পানি পান করে",
+    "banglish_speech ":"amar abbu protidin narikel pani pan kore",
+    "chittagong_bangla_speech ":"আর আব্বু ফ্রতিদিন নাইরকেলর ফানি হা দে",
+    "chittagong_banglish_speech ":"ar abbu frotidin nairkelor fani ha de",
+    "region_name ":"Chittagong",
+    "english_speech":"My father drinks coconut water every day"
+  },
+  {
+    "bangla_speech ":"আমার দাদার বাড়ীর পিছনে একটি পেয়ারা গাছ আছে",
+    "banglish_speech ":"amar dadar barir pichone ekti peyara gach ache",
+    "chittagong_bangla_speech ":"আর দাদার বারির ফিসনদ্দি এক্কা ফেয়ারা হাছ আসে দে",
+    "chittagong_banglish_speech ":"ar dadar barir fisonddi ekka feyara hach ase de",
+    "region_name ":"Chittagong",
+    "english_speech":"There is a guava tree behind my grandfather's house"
+  },
+  {
+    "bangla_speech ":"আম্মু রান্নাঘরে বসে মোরগের মাংস রান্না করছে",
+    "banglish_speech ":"ammu rannaghore bose moroger mangsho ranna korche",
+    "chittagong_bangla_speech ":"আম্মু ফাকঘরত বইয়েরে কুরর মাংস ফাকের",
+    "chittagong_banglish_speech ":"ammu fakoghorot biyere kuror mangos faker",
+    "region_name ":"Chittagong",
+    "english_speech":"Mom is sitting in the kitchen cooking chicken"
+  },
+  {
+    "bangla_speech ":"গ্রামের মানুষরা মাটির পাতিলে রান্না করে",
+    "banglish_speech ":"gramer manushra matir patile ranna kore",
+    "chittagong_bangla_speech ":"গ্রামর মানুষ তারা মাটির ফাতিলত ফাকে",
+    "chittagong_banglish_speech ":"gramor manush tara matir fatilot fake",
+    "region_name ":"Chittagong",
+    "english_speech":"The people of the village cook in clay pans"
+  },
+  {
+    "bangla_speech ":"আমার ছোট ভাই শিমের তরকারী দিয়ে ভাত খেতে খুব ভালবাসে",
+    "banglish_speech ":"amar choto vai  shimer torkari diye vat khete khub valobase",
+    "chittagong_bangla_speech ":"আর ছোড ভাই ইবা শিমর তরহারি দিয়েরে ভাত হাইতে খুব গম লাগেদে",
+    "chittagong_banglish_speech ":"ar chodo vai iba shimor torhari diyere vat haite khub gom lagede",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger brother loves to eat rice with sim's bean curry"
+  },
+  {
+    "bangla_speech ":"এই শিশুটি পাকা পেঁপে খাচ্ছে",
+    "banglish_speech ":"ei shishuti paka pepe khacche",
+    "chittagong_bangla_speech ":"এই শিশু ইবা ফানা ফেফে হার",
+    "chittagong_banglish_speech ":"ei shishu iba fana fefe har",
+    "region_name ":"Chittagong",
+    "english_speech":"This child is eating ripe papaya"
+  },
+  {
+    "bangla_speech ":"আব্বু গ্রাম থেকে আসার সময় অনেক বড় বড় জাম্বুরা কিনে এনেছে",
+    "banglish_speech ":"abbu gram theke asar somoy onek boro boro jambura kine eneche",
+    "chittagong_bangla_speech ":"আব্বুর গ্রামত্তুন আইবার সমত বহুত ডর ডর জাম্বুরো কিনি আইন্নে",
+    "chittagong_banglish_speech ":"abbur gramottun aibar somot bohut dor dor jamburo kini ainne",
+    "region_name ":"Chittagong",
+    "english_speech":"Father bought many big grapefruits when he came from the village"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু জামরুল খাচ্ছে",
+    "banglish_speech ":"amar ammu jamrul khacche",
+    "chittagong_bangla_speech ":"আর আম্মু জামরুল হাদ্দে",
+    "chittagong_banglish_speech ":"ar ammu jamrul hadde",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom is eating Jamrul"
+  },
+  {
+    "bangla_speech ":"আমার ছোট ভাই বিকালে ছাদে উঠে পাশের বাসার ছাদের কবুতর দেখে",
+    "banglish_speech ":"amar choto vai bikale chade uthe pasher basar chader kobutor dekhe",
+    "chittagong_bangla_speech ":"আর ছোড ভাই বিকালত বহুত গুরর সা আসে দে",
+    "chittagong_banglish_speech ":"ar chodo vai  bikalot bohut guror sa ase de",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger brother went up to the roof in the afternoon and saw the pigeons on the roof of the house next door"
+  },
+  {
+    "bangla_speech ":"আমাদের গ্রামের বাড়িতে অনেক গুলা  মুরগির বাচ্চা আছে",
+    "banglish_speech ":"amader gramer barite onek gula  murgir baccha ache",
+    "chittagong_bangla_speech ":"আরার গ্রামর বারির বহুত কুরর সা আসে দে",
+    "chittagong_banglish_speech ":"arar gramor barir bohut kuror sa ase de",
+    "region_name ":"Chittagong",
+    "english_speech":"We have many chickens in our village house"
+  },
+  {
+    "bangla_speech ":"শিশুটি একটি মুরগির বাচ্চা কলে নিয়েছে",
+    "banglish_speech ":"shishuti ekti murgir baccha kole niyeche",
+    "chittagong_bangla_speech ":"শিশু ইবা কুরর সা হুলত লইয়ে",
+    "chittagong_banglish_speech ":"shishu iba kuror sa hulot loiye",
+    "region_name ":"Chittagong",
+    "english_speech":"The child took a chick in the cage"
+  },
+  {
+    "bangla_speech ":"আমার ছোট বোন খুবই  বোকা",
+    "banglish_speech ":"amar choto bon khubi  boka",
+    "chittagong_bangla_speech ":"আর ছোড বইন ছোড ইবা বহুত বকা",
+    "chittagong_banglish_speech ":"ar chodo boin  iba bohut boka",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger sister is very stupid"
+  },
+  {
+    "bangla_speech ":"গ্রামের বারি গিয়ে আমি একা একা  সাঁতার  কেটেছি",
+    "banglish_speech ":"gramer bari giye ami eka eka  satar  ketechi",
+    "chittagong_bangla_speech ":"গ্রামর বারি জাইয়েরে আই এহলা এহলা সাতার হাইট্টি",
+    "chittagong_banglish_speech ":"gramor bari jaiyere ai ehla ehla satar haitti",
+    "region_name ":"Chittagong",
+    "english_speech":"I swam alone after going to the village"
+  },
+  {
+    "bangla_speech ":"আমার আব্বু , আম্মু , ভাই, বোন ড্রয়িংরুমে বসে আছে",
+    "banglish_speech ":"amar abbu , ammu , vai, bon drawing room e bose ache",
+    "chittagong_bangla_speech ":"আর আব্বু, আম্মু, ভাই, বোন ড্রইংরুমত বই আসি দে",
+    "chittagong_banglish_speech ":"ar abbu, ammu, vai, bon drawing roomot boi asi de",
+    "region_name ":"Chittagong",
+    "english_speech":"My father, mother, brother, sister are sitting in the drawing room"
+  },
+  {
+    "bangla_speech ":"আমাদের ঘরের স্টোররুমটি অনেক বড়",
+    "banglish_speech ":"amader ghorer store roomti onek boro",
+    "chittagong_bangla_speech ":"আরার ঘরর স্টররুম ইবা বহুত ডর",
+    "chittagong_banglish_speech ":"arar ghoror storeroom iba bohut dor",
+    "region_name ":"Chittagong",
+    "english_speech":"The storeroom in our house is very big"
+  },
+  {
+    "bangla_speech ":"শিশুটি একটি বিড়াল ছানাকে আদর করছে",
+    "banglish_speech ":"shishuti ekti biral chanake ador korche",
+    "chittagong_bangla_speech ":"শিশু ইবা এক্কান বিড়ালর সারে আদর গরের দে",
+    "chittagong_banglish_speech ":"shishu iba ekkan biralor sare ador gorer de",
+    "region_name ":"Chittagong",
+    "english_speech":"Child caressing a kitten"
+  },
+  {
+    "bangla_speech ":"লাকড়ির চুলায় রান্না করা খাবার খুব মজা",
+    "banglish_speech ":"lakrir chulay ranna kora khabar khub moja",
+    "chittagong_bangla_speech ":"লাহ্রির চুলাত ফাক গরা হানা বহিত মজা",
+    "chittagong_banglish_speech ":"lahrir chulat fak gora hana bohit moja",
+    "region_name ":"Chittagong",
+    "english_speech":"Cooking food on a wood stove is so much fun"
+  },
+  {
+    "bangla_speech ":"আমার বড় ভাই বেগুন তরকারির দিয়ে ঝোল দুপুরে ভাত খেয়েছে",
+    "banglish_speech ":"amar boro vai begun torkarir jhol diye dupure vat kheyeche",
+    "chittagong_bangla_speech ":"আর ডর ভাই ইবা বেগুনর তরহারির ঝোল  দুইজ্জা ভাত হাইয়ে",
+    "chittagong_banglish_speech ":"ar dor vai  iba begunor torharir jhol duijja vat haiye",
+    "region_name ":"Chittagong",
+    "english_speech":"My elder brother had eggplant curry broth with rice at noon"
+  },
+  {
+    "bangla_speech ":"আমার আব্বু লাউ দিয়ে চিংড়ি মাছের ঝোল খুব পছন্দ করে",
+    "banglish_speech ":"amar abbu lau diye chingri macher jhol amar khub pochondo kore",
+    "chittagong_bangla_speech ":"আর আব্বু লাউ দিয়েরে চিংড়ি মাছর ঝোল আর হুব ফসন্দ",
+    "chittagong_banglish_speech ":"ar abbu lau diyere chingri machor jhol ar hub fosondo",
+    "region_name ":"Chittagong",
+    "english_speech":"My father likes the shrimp broth with gourd"
+  },
+  {
+    "bangla_speech ":"আমার শীতের দিনে গোসল করতে ভালো লাগে না",
+    "banglish_speech ":"amar shiter dine gosol korte valo lage na",
+    "chittagong_bangla_speech ":"আর শীতর দিনত গোসল গরিতে গম ন লাগে",
+    "chittagong_banglish_speech ":"ar shitor dinot gosol gorite gom n lage",
+    "region_name ":"Chittagong",
+    "english_speech":"I don't like to take a bath on a winter day"
+  },
+  {
+    "bangla_speech ":"আমার বোন গ্রামের বাড়ীতে গিয়ে পুকুরে গোসল করে",
+    "banglish_speech ":"amar bon gramer barite giye pukure gosol kore",
+    "chittagong_bangla_speech ":"আর বইন গ্রামর বাড়ীত জাইয়েরে ফুকুরত গোসল গরে দে",
+    "chittagong_banglish_speech ":"ar boin gramor barit jaiyere fukurot gosol gore de",
+    "region_name ":"Chittagong",
+    "english_speech":"My sister went to the village house and bathed in the pond"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু বলে যে তেঁতুল  খেলে  আমার বুদ্ধি কমে যাবে",
+    "banglish_speech ":"amar ammu bole je tetul  khele  amar buddhi kome jabe",
+    "chittagong_bangla_speech ":"আর আম্মু হদে তেতই হাইলে মাথার বুদ্ধি হমি জাইব দে",
+    "chittagong_banglish_speech ":"ar ammu hode teti haile mathar buddhi homi jaibo de",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom says that eating tamarind will reduce my intelligence"
+  },
+  {
+    "bangla_speech ":"আমার আব্বু বাজার থেকে আমাদের জন্য তেঁতুল কিনে এনেছে",
+    "banglish_speech ":"amar abbu bajar theke amader jonno tetul kine eneche",
+    "chittagong_bangla_speech ":"আর আব্বু বাজারত্তুন আরার লাই তেতই কিনি আইন্নে দে",
+    "chittagong_banglish_speech ":"ar abbu bajarottun arar lai teti kini ainne de",
+    "region_name ":"Chittagong",
+    "english_speech":"My father bought tamarind for us from the market"
+  },
+  {
+    "bangla_speech ":"আমার গ্রামের বাড়ীর উঠান অনেক বড়",
+    "banglish_speech ":"amar gramer barir uthan onek boro",
+    "chittagong_bangla_speech ":"আর গ্রা্রামর বাড়ীর উডানত বহুত ডর",
+    "chittagong_banglish_speech ":"ar graramor barir udanot bohut dor",
+    "region_name ":"Chittagong",
+    "english_speech":"The yard of my village house is very big"
+  },
+  {
+    "bangla_speech ":"এই শিশুটি গ্রামের বাড়ীর উঠানে খেলছে",
+    "banglish_speech ":"ei shishuti gramer barir uthane khelche",
+    "chittagong_bangla_speech ":"এই শিিশু ইবা গ্রামর বাড়ীর  হেলের",
+    "chittagong_banglish_speech ":"ei shishu iba gramor barir heler",
+    "region_name ":"Chittagong",
+    "english_speech":"This child is playing in the courtyard of the village house"
+  },
+  {
+    "bangla_speech ":"ছোট বাচ্চাটি অনেক অসুস্থ",
+    "banglish_speech ":"choto bacchati onek osustho",
+    "chittagong_bangla_speech ":"ছোড বাইচ্চা ইবা বহুত অসুস্ত",
+    "chittagong_banglish_speech ":"chodo baicca iba bohut osushtho",
+    "region_name ":"Chittagong",
+    "english_speech":"The little boy is very sick"
+  },
+  {
+    "bangla_speech ":"একটি আহত শিশুটি রাস্তায় দাঁড়িয়ে কাঁদছে",
+    "banglish_speech ":"ekti ahoto shishuti rastay dariye kadche",
+    "chittagong_bangla_speech ":"এক্কান আহত শিশু রাস্তাত তিয়াই হান্দের",
+    "chittagong_banglish_speech ":"ekkan ahoto shishu rastat tiyai hander",
+    "region_name ":"Chittagong",
+    "english_speech":"An injured child is crying on the street"
+  },
+  {
+    "bangla_speech ":"আমার ছোট বোনকে আজকে সকালে হাসপাতালে নেয়া হয়েছে",
+    "banglish_speech ":"amar choto bonke ajke sokale hospitale neya hoyeche",
+    "chittagong_bangla_speech ":"আর ছোড বইন ইবারে আজিয়া সকালত হাস্পাতালত লই গিয়ি",
+    "chittagong_banglish_speech ":"ar chodo boin ibare ajiya sokalot hospitalot loi giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger sister was taken to the hospital this morning"
+  },
+  {
+    "bangla_speech ":"আব্বু বলেছে বৃষ্টি হলে বারান্দার গাছে পানি দেওয়ার প্রয়োজন নাই",
+    "banglish_speech ":"abbu boleche brishti hole barandar gache pani deoyar proyojon nai",
+    "chittagong_bangla_speech ":"আব্বু হইয়ে বিষ্টি অইলেও বেলকনির গাসত ফানি দিবার ফ্রয়জন নাই",
+    "chittagong_banglish_speech ":"abbu hoiye bishti oileo belkonir gasot fani dibar froyojon nai",
+    "region_name ":"Chittagong",
+    "english_speech":"Father said that there is no need to water the balcony plants when it rains"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু বৃষ্টি হলেও বারান্দার গাছে পানি দেয়",
+    "banglish_speech ":"amar ammu brishti holeo barandar gache pani dey",
+    "chittagong_bangla_speech ":"আর আম্মু বিষ্টি অইলেও গাসত ফানি দে",
+    "chittagong_banglish_speech ":"ar ammu bishti oileo gasot fani de",
+    "region_name ":"Chittagong",
+    "english_speech":"Even if it rains, my mother water the balcony plants"
+  },
+  {
+    "bangla_speech ":"আব্বু বলেছে গাছে অতিরিক্ত পানি দিলে গাছ মারা যায়",
+    "banglish_speech ":"abbu boleche gache otirikto pani dile gach mara jay",
+    "chittagong_bangla_speech ":"আব্বু হইয়ে গাছ অতিরিক্ত ফানি দিলে মরি যায়  ",
+    "chittagong_banglish_speech ":"abbu hoiye gach otirikto fani dile mori jay",
+    "region_name ":"Chittagong",
+    "english_speech":"Father said that if you give too much water to the tree, the tree will die"
+  },
+  {
+    "bangla_speech ":"গতকাল বিকালে আমাদের এখানে অনেক বৃষ্টি হয়েছে",
+    "banglish_speech ":"gotokal bikale amader ekhane onek brishti hoyeche",
+    "chittagong_bangla_speech ":"গতহালিয়া বিকালত আরার এনডে বহুত বৃষ্টি অইয়ে",
+    "chittagong_banglish_speech ":"gotohaliya bikalot arar ende bohut brishti oiye",
+    "region_name ":"Chittagong",
+    "english_speech":"We had a lot of rain here yesterday afternoon"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু আজক শশার তরকারি রান্না করেছে",
+    "banglish_speech ":"amar ammu ajke shoshar torkari ranna koreche",
+    "chittagong_bangla_speech ":"আর আম্মু আজিয়া শশার তরহারি ফাক গইজ্জে দে",
+    "chittagong_banglish_speech ":"ar ammu ajiya shoshar torhari fak goijje de",
+    "region_name ":"Chittagong",
+    "english_speech":"My mom cooked cucumber curry today"
+  },
+  {
+    "bangla_speech ":"গরমের দিনে লবণ দিয়ে  শশা খেতে খুব ভালো লাগে",
+    "banglish_speech ":"goromer dine lobon diye  shosha khete khub valo lage",
+    "chittagong_bangla_speech ":"গরমর দিনে লবণ দিয়েরে শশা হাইতে খুব গম লাগেদে",
+    "chittagong_banglish_speech ":"goromor dine lobon diyere shosha haite khub gom lagede",
+    "region_name ":"Chittagong",
+    "english_speech":"It is very good to eat cucumber with salt on hot days"
+  },
+  {
+    "bangla_speech ":"শশা খেতে অনেক সুস্বাদু",
+    "banglish_speech ":"shosha khete onek sushadu",
+    "chittagong_bangla_speech ":"শশা হাইতে বহুত গম",
+    "chittagong_banglish_speech ":"shosha haite bohut gom",
+    "region_name ":"Chittagong",
+    "english_speech":"Cucumber is very tasty"
+  },
+  {
+    "bangla_speech ":"আব্বু আজকে সকালে বাজার থেকে টমেটো কিনে এনেছে",
+    "banglish_speech ":"abbu ajke sokale bajar theke tomato kine eneche",
+    "chittagong_bangla_speech ":"আজিয়া আব্বু সকালত বাজারত্তুন টমাটু কিনি আইন্নে দে",
+    "chittagong_banglish_speech ":"ajiya abbu sokalot bajarottun tomatu kini ainne de",
+    "region_name ":"Chittagong",
+    "english_speech":"Dad bought tomatoes from the market this morning"
+  },
+  {
+    "bangla_speech ":"দিন দিন টমেটোর দাম বেড়ে চলছে",
+    "banglish_speech ":"din din tomator dam bere cholche",
+    "chittagong_bangla_speech ":"দিন দিন টমাটুর দাম বারের দে",
+    "chittagong_banglish_speech ":"din din tomatur dam barer de",
+    "region_name ":"Chittagong",
+    "english_speech":"The price of tomatoes is increasing day by day"
+  },
+  {
+    "bangla_speech ":"আমার সরিষার তেল দিয়ে মাছ ভাজা খেতে খুব ভালো লাগে",
+    "banglish_speech ":"amar sorishar tel diye mach vaja khete khub valo lage",
+    "chittagong_bangla_speech ":"আর সরিষার তেলর মাছ ভাজা হাইতে বহুত গম লাগে দে",
+    "chittagong_banglish_speech ":"ar sorishar telor mach vaja haite bohut gom lage de",
+    "region_name ":"Chittagong",
+    "english_speech":"I love fish fried with mustard oil"
+  },
+  {
+    "bangla_speech ":"আমার দাদা চুলে সরিষার তেল দেয়",
+    "banglish_speech ":"amar dada chule sorishar tel dey",
+    "chittagong_bangla_speech ":"আর দাদার চুলত সরিষার তেল মাতাত দে ",
+    "chittagong_banglish_speech ":"ar dadar chulot sorishar tel matat de",
+    "region_name ":"Chittagong",
+    "english_speech":"My grandfather applies mustard oil to his hair"
+  },
+  {
+    "bangla_speech ":"আমার নানা বলেছে সরিষার তেল চুল পড়া কমায়",
+    "banglish_speech ":"amar nana boleche sorishar tel chul pora komay",
+    "chittagong_bangla_speech ":"আর নানা হইয়ে সরিষার তেল চুল ফরন হমায় দে",
+    "chittagong_banglish_speech ":"ar nana hoiye sorishar tel chul foron homay de",
+    "region_name ":"Chittagong",
+    "english_speech":"My grandmother said that mustard oil reduces hair loss"
+  },
+  {
+    "bangla_speech ":"এক কৃষক বাজারে টমেটো বিক্রি করে",
+    "banglish_speech ":"ek krishok bajare tomato bikri kore",
+    "chittagong_bangla_speech ":"এক কৃষক বাজারত টমাটু বিক্রি গরের",
+    "chittagong_banglish_speech ":"ek kishok bajarot tomatu bikri gorer",
+    "region_name ":"Chittagong",
+    "english_speech":"A farmer sells tomatoes in the market"
+  },
+  {
+    "bangla_speech ":"আমার আব্বু গায়ে সরিষার তেল মালিশ  করে",
+    "banglish_speech ":"amar abbu gaye sorishar tel malish  kore",
+    "chittagong_bangla_speech ":"আর আব্বু গাত সরিষার তেল দে",
+    "chittagong_banglish_speech ":"ar abbu gat sorishar tel de",
+    "region_name ":"Chittagong",
+    "english_speech":"My father massaged mustard oil on his body"
+  },
+  {
+    "bangla_speech ":"দিন দিন আমি খুব অসুস্থ হয়ে যাচ্ছি ",
+    "banglish_speech ":"din din ami khub osustho hoye jacchi",
+    "chittagong_bangla_speech ":"দিন দিন আই খুব অসুক্কা অই জাইর",
+    "chittagong_banglish_speech ":"din din ai khub osukka oi jair",
+    "region_name ":"Chittagong",
+    "english_speech":"Day by day I am getting very sick"
+  },
+  {
+    "bangla_speech ":"যেখানে সেখানে থুথু ফেলা একদম নিষেধ",
+    "banglish_speech ":"jekhane sekhane thuthu fela ekdom nishedh",
+    "chittagong_bangla_speech ":"যেন্ডে এন্ডে সেপ দেলন এব্বারে মানা",
+    "chittagong_banglish_speech ":"jende ende sep delon ebbare mana",
+    "region_name ":"Chittagong",
+    "english_speech":"Spitting is strictly prohibited"
+  },
+  {
+    "bangla_speech ":"আমার আম্মু বলেছে প্রতিদিন তেতুল খেলে আমার শরীরের রক্ত পানি হয়ে যাবে",
+    "banglish_speech ":"amar ammu boleche protidin tetul khele amar shorirer rokto pani hoye jabe",
+    "chittagong_bangla_speech ":"আর আম্মু হইয়ে ফ্রতিদিন তেতুল হাইলে আর শরীরর রক্ত ফানি অই জাইবদে",
+    "chittagong_banglish_speech ":"ar ammu hoiye frotidin tetul haile ar shoriror rokto fani oi jaibode",
+    "region_name ":"Chittagong",
+    "english_speech":"My mother said that if I eat turmeric every day, my blood will turn into water"
+  },
+  {
+    "bangla_speech ":"আমার ছোট ভাইয়ের প্রিয় ফল হলো জামরুল",
+    "banglish_speech ":"amar choto vaiyer priyo fol holo jamrul",
+    "chittagong_bangla_speech ":"আর ছোড ভাই ইবার ফ্রিও ফল অইল জামরুল",
+    "chittagong_banglish_speech ":"ar chodo vai ibar frio fol oilo jamrul",
+    "region_name ":"Chittagong",
+    "english_speech":"Jamrul is my younger brother's favorite fruit"
+  },
+  {
+    "bangla_speech ":"শিশুটির কিছু দিন ধরে সর্দি কাশি",
+    "banglish_speech ":"shishutir kichu din dhore sordi kashi",
+    "chittagong_bangla_speech ":"শিশু ইবার কিছু দিন দরিয়েরে সরদি হাসি",
+    "chittagong_banglish_speech ":"shishu ibar kichu din doriyere sordi hasi",
+    "region_name ":"Chittagong",
+    "english_speech":"The child has a cold and cough for a few days"
+  },
+  {
+    "bangla_speech ":"আমাদের গ্রামের বাজারে অনেক বড় একটি  দেশী মুরগীর দোকান আছে",
+    "banglish_speech ":"amader gramer bajare onek bor ekti  deshi murgir dokan ache",
+    "chittagong_bangla_speech ":"আরার গ্রামর বাজারত বহুত ডর এক্কা দেশী কুরোর দোহান আসে দে",
+    "chittagong_banglish_speech ":"arar gramor bajarot bohut dor ekka deshi kuror dohan ase de",
+    "region_name ":"Chittagong",
+    "english_speech":"There is a very big country chicken shop in our village market"
+  },
+  {
+    "bangla_speech ":"সকালে ঘুম থেকে উঠে নারিকেল পানি খেতে আমার খুব ভালো লাগে",
+    "banglish_speech ":"sokale ghum theke uthe narikel pani khete amar khub valo lage",
+    "chittagong_bangla_speech ":"সকালত ঘুমত্তুন উঠিয়েরে নাইরকেলর ফানি হাইতে আর খুব গম লাগে দে",
+    "chittagong_banglish_speech ":"sokalot ghumottun uthiyere nairkelor fani haite ar khub gom lage de",
+    "region_name ":"Chittagong",
+    "english_speech":"I love to drink coconut water when I wake up in the morning"
+  },
+  {
+    "bangla_speech ":"আমি আজকে শিম ভাজি  দিয়ে দুপুরে ভাত খেয়েছি",
+    "banglish_speech ":"ami ajke shim vaji  diye dupure vat kheyechi",
+    "chittagong_bangla_speech ":"আই আইয়া শিম ভাজি দিয়েরে দুফুরত ভাত হাইয়ি",
+    "chittagong_banglish_speech ":"ai aiya shim vaji diyere dufurot vat haiyi",
+    "region_name ":"Chittagong",
+    "english_speech":"Today I had fried beans and rice for lunch"
+  },
+  {
+    "bangla_speech ":"মা আমার জন্য শিম ভাজি রান্না করছে",
+    "banglish_speech ":"ma amar jonno shim vaji ranna korche",
+    "chittagong_bangla_speech ":"মা আর লাই শিম ভাজিফাক গইজ্জে দে",
+    "chittagong_banglish_speech ":"ma ar lai shim vaji fak goijje de",
+    "region_name ":"Chittagong",
+    "english_speech":"Mom is cooking shim bhaji for me"
+  },
+  {
+    "bangla_speech ":"আম্মু রান্নাঘরে বসে মাটির পাতিলে মুরগির মাংস রান্না করছে",
+    "banglish_speech ":"ammu rannaghore bose matir patile murgir mangsho ranna korche",
+    "chittagong_bangla_speech ":"আম্মু ফাকঘরত বসি মাটির ফাতিলত কুরর মাংস ফাক গরের",
+    "chittagong_banglish_speech ":"ammu fakoghorot bosi matir fatilot kuror mangos fak gorer",
+    "region_name ":"Chittagong",
+    "english_speech":"Ammu is sitting in the kitchen cooking chicken in a clay pot"
+  },
+  {
+    "bangla_speech ":"অনেক মানুষই শখের বশে ছাদের উপর কবুতর পালন করে",
+    "banglish_speech ":"onek manushii shokher boshe chader upor kobutor palon kore",
+    "chittagong_bangla_speech ":"বহুত মানুষ শখেরলাই ছাদর উওরত হইতর ফালেদে",
+    "chittagong_banglish_speech ":"bhut manush shokherlai chador uorot hitor falede",
+    "region_name ":"Chittagong",
+    "english_speech":"Many people keep pigeons on the roof as a hobby"
+  },
+  {
+    "bangla_speech ":"দুইদিন ধরে আমার অনেক সর্দি-জ্বর",
+    "banglish_speech ":"duidin dhore amar onek sordi-jbor",
+    "chittagong_bangla_speech ":"দুইদিন ধরি আর বহুত সরদি জর",
+    "chittagong_banglish_speech ":"duidin dhori ar bohut sordi jor",
+    "region_name ":"Chittagong",
+    "english_speech":"I have a lot of cold and fever for two days"
+  },
+  {
+    "bangla_speech ":"সকালে ঘুম থেকে উঠেই ঘরের স্টোররুমটি পরিষ্কার করতে হবে",
+    "banglish_speech ":"sokale ghum theke uthei ghorer storrumti porishkar korte hobe",
+    "chittagong_bangla_speech ":"সকালত ঘুমত্তুন উঠিই ঘরর স্টোররুম ইবা ফরিষ্কার গরন ফরিব",
+    "chittagong_banglish_speech ":"skalot ghumottun uthii ghoror storrum iba forishkar goron forib",
+    "region_name ":"Chittagong",
+    "english_speech":"The storeroom of the house should be cleaned after waking up in the morning"
+  },
+  {
+    "bangla_speech ":"লবণ দিয়ে পেয়ারা খেতে আমার ছোট বোন খুব পছন্দ করে",
+    "banglish_speech ":"lobon diye peyara khete amar choto bon khub pochondo kore",
+    "chittagong_bangla_speech ":"লবণ দিয়েরে ফেয়ারা হাইতে আর ভইন ছোড ইবার বহুত ফসন্দ গরে",
+    "chittagong_banglish_speech ":"lobon diyere feyara haite ar vin chod ibar bohut fosondo gore",
+    "region_name ":"Chittagong",
+    "english_speech":"My younger sister loves guava with salt"
+  },
+  {
+    "bangla_speech ":"মা রান্নাঘরে বসে আমার বাবার জন্য শিমের তরকারি রান্না করছে",
+    "banglish_speech ":"ma rannaghore bose amar babar jonno shimer torkari ranna korche",
+    "chittagong_bangla_speech ":"মা ফাকঘরত বইয়েরে আর বাবার লাই শিমর তরহারি ফাক গরের দে",
+    "chittagong_banglish_speech ":"ma fakoghorot biyere ar babar lai shimor torhari fak gorer de",
+    "region_name ":"Chittagong",
+    "english_speech":"Mother is sitting in the kitchen cooking bean curry for my father"
+  },
+  {
+    "bangla_speech ":"আমি আর আব্বু গতকাল সিলেট থেকে ঢাকায় এসেছি",
+    "banglish_speech ":"ami ar abbu gotokal sylhet theke dhakay esechi",
+    "chittagong_bangla_speech ":"আই আর আব্বু গতহালিয়া সিলেটত্তুন ঢাহা আইসসি",
+    "chittagong_banglish_speech ":"ai ar abbu gotohaliya sylhettottun dhaha aissi",
+    "region_name ":"Chittagong",
+    "english_speech":"My father and I came to Dhaka from Sylhet yesterday"
+  },
+  {
+    "bangla_speech ":"আম্মু লাকড়ির চুলায় রান্না করছে",
+    "banglish_speech ":"ammu lakrir chulay ranna korche",
+    "chittagong_bangla_speech ":"আম্মু লাকড়ির চুলত ফাক গরেদে",
+    "chittagong_banglish_speech ":"ammu lakrir chulot fak gorede",
+    "region_name ":"Chittagong",
+    "english_speech":"Mom is cooking in the wood stove"
+  },
+  {
+    "bangla_speech ":"আমার বড় বোনটি কাঁচা আমের শরবত খেতে খুব ভালবাসে",
+    "banglish_speech ":"amar boro bonti kacha amer shorbot khete khub valobase",
+    "chittagong_bangla_speech ":"আর ডর বইন ইবা  হাচা আমর শরবত হাইতে বহুত ভালোবাসে দে",
+    "chittagong_banglish_speech ":"ar dor vin iba hacha amor shorobot haite bohut valobase de",
+    "region_name ":"Chittagong",
+    "english_speech":"My elder sister is very fond of raw mango sorbet"
+  },
+  {
+    "bangla_speech ":"এই বকা ছেলেটি দুইদিন ধরে পড়ালেখা করছে না",
+    "banglish_speech ":"ei boka cheleti duidin dhore poralekha korche na",
+    "chittagong_bangla_speech ":"এই বকা ফয়া ইবা দুইদিন ধরি ফন্না ন ফরের",
+    "chittagong_banglish_speech ":"ei boka foya iba duidin dhori fonna n forer",
+    "region_name ":"Chittagong",
+    "english_speech":"This stupid boy has not studied for two days"
+  },
+  {
+    "bangla_speech ":"বিকালে আম্মু আমার জন্য শসার সুপ রান্না করেছে \r",
+    "banglish_speech ":"bikale ammu amar jonno shosar soup ranna koreche",
+    "chittagong_bangla_speech ":"বিকালত আম্মু আর লাই সসার সুপ ফাক গইজ্জে",
+    "chittagong_banglish_speech ":"bikalot ammu ar lai shosar soup fak goijje",
+    "region_name ":"Chittagong",
+    "english_speech":"In the afternoon mom cooked cucumber soup for me"
+  },
+  {
+    "bangla_speech ":"আমার স্কুলে কোনো খেলার মাঠ নেই ",
+    "banglish_speech ":"amar school e kono khelar math nei",
+    "chittagong_bangla_speech ":"আর স্কুলত হোনো খেলা হাইবার মঠ নাই দে",
+    "chittagong_banglish_speech ":"ar schoolot hono khela haibar moth nai de",
+    "region_name ":"Chittagong",
+    "english_speech":"There is no playground in my school"
+  },
+  {
+    "bangla_speech ":"আমারা সবাই একসাথে খেলা দেখছিলাম ",
+    "banglish_speech ":"amra sobai eksathe khela dekhchilam",
+    "chittagong_bangla_speech ":"আরা সবাই এক ফোয়ারিত খেলাহাইতাম ",
+    "chittagong_banglish_speech ":"ara sobai ek foyarit khelahaitam",
+    "region_name ":"Chittagong",
+    "english_speech":"We were all watching the game together"
+  },
+  {
+    "bangla_speech ":"বিশ্বকাপ ক্রিকেট খেলা আজকে থেকে শুরু ",
+    "banglish_speech ":"bisshocup cricket khela ajke theke shuru",
+    "chittagong_bangla_speech ":" বিশ্বকাপ ক্রিকেট হেলা আজিয়াত্তুন শুরু",
+    "chittagong_banglish_speech ":"bisshocup cricket  hela ajiyattun shuru",
+    "region_name ":"Chittagong",
+    "english_speech":"World Cup cricket match starts today"
+  },
+  {
+    "bangla_speech ":"আজকে ইংল্যান্ড বিশ্বকাপ ক্রিকেট খেলায়  জিতে গেছে ",
+    "banglish_speech ":"ajke england bisshocup cricket khelay  jite geche",
+    "chittagong_bangla_speech ":"আজিয়া  ইংল্যান্ডর বিশ্বকাপ ক্রিকেট হেলাত জিতি গিয়ি",
+    "chittagong_banglish_speech ":"akiya englandor bisshocup cricket helat jiti giyi",
+    "region_name ":"Chittagong",
+    "english_speech":"Today England won the World Cup cricket match"
+  },
+  {
+    "bangla_speech ":"চল আমরা সবাই গান গাই ",
+    "banglish_speech ":"cholo amra sobai gan gai",
+    "chittagong_bangla_speech ":"চল আরা বেয়াক্কুন গান গাই",
+    "chittagong_banglish_speech ":"cholo ara beyakkun gan gai",
+    "region_name ":"Chittagong",
+    "english_speech":"Let's all sing"
+  },
+  {
+    "bangla_speech ":"তুমি কি আমাকে এক গ্লাস পানি এনে দিতে পারবে ?",
+    "banglish_speech ":"tumi ki amake ek glass pani ene dite parbe ?",
+    "chittagong_bangla_speech ":"তুই কি আরে এক্কা্কান গ্লাস ফানি আনি দিত্তারিবা না?",
+    "chittagong_banglish_speech ":"tui ki are ekkakan glass fani ani dittariba na?",
+    "region_name ":"Chittagong",
+    "english_speech":"Can you get me a glass of water?"
+  },
+  {
+    "bangla_speech ":"আমি পারবো না পানি দিতে ",
+    "banglish_speech ":"ami parbo na pani dite",
+    "chittagong_bangla_speech ":"আই ন ফাইজ্জুম ফানি দিতাম",
+    "chittagong_banglish_speech ":"ai n faijjum fani ditam",
+    "region_name ":"Chittagong",
+    "english_speech":"I can't give water"
+  },
+  {
+    "bangla_speech ":"তোমার ভাই পড়ালেখাতে অনেক মেধাবি ",
+    "banglish_speech ":"tomar vai poralekhate onek medhabi",
+    "chittagong_bangla_speech ":"তোয়ার ভাই ফন্নাফরনত বহুত মেধাবি ",
+    "chittagong_banglish_speech ":"toyar vai fonnaforonot bohut medhabi",
+    "region_name ":"Chittagong",
+    "english_speech":"Your brother is very talented in studies"
+  },
+  {
+    "bangla_speech ":"আচ্ছা বলো দেখি বাংলাদেশে কয়টি জেলা? ",
+    "banglish_speech ":"accha bolo dekhi bangladeshe koyti jela?",
+    "chittagong_bangla_speech ":"আচ্ছা হো সাই বাংলাদেশর জেলা হইয়ান?",
+    "chittagong_banglish_speech ":"accha ho sai bangladeshor jela hoiyan?",
+    "region_name ":"Chittagong",
+    "english_speech":"Well tell me how many districts in Bangladesh?"
+  },
+  {
+    "bangla_speech ":"সামনের দিকে যেয়ে মেয়েটি অনেক হাসবে",
+    "banglish_speech ":"samner dike jeye meyeti onek hashbe",
+    "chittagong_bangla_speech ":"সামনর মিক্কা যাইয়েরে মাইয়াফোয়া ইবা বহুত হাসিব দে",
+    "chittagong_banglish_speech ":"samnor mikka jaiyere maiyafoya iba bohut hasib de",
+    "region_name ":"Chittagong",
+    "english_speech":"The girl will smile a lot going forward"
+  }
+]
