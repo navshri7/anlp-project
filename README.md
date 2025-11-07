@@ -1,6 +1,6 @@
 # Adaptive Memory-based Transformer for Low-Resource Dialect Translation
 
-This repository contains the code and results for a project on translating low-resource Bengali dialects (Chittagonian and Barendri) into Standard Bangla. The core of this work is a novel **Memory-Enhanced Transformer model** that improves upon a standard fine-tuned baseline by integrating a specialized memory module. This module is trained to focus on specific, challenging tokens, leading to significant gains in translation quality and impressive generalization to unseen dialects.
+This repository contains the code and results for a project on translating low-resource dialects such as Chittagonian and Barendri into Standard Bangla. The core of this work is a novel **Memory-Enhanced Transformer model** that improves upon a standard fine-tuned baseline by integrating a specialized memory module. This module is trained to focus on specific, challenging tokens, leading to significant gains in translation quality and impressive generalization to unseen dialects.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -110,19 +110,16 @@ This phase cleans the raw data and partitions it for the two main training stage
 
 1.  **`preprocess.py`**: Place your raw dataset files in a designated folder. Run this script to perform initial cleaning and normalization.
     ```bash
-    # (Example usage, please adapt to your script's arguments)
     python preprocess.py --data_dir path/to/raw/data
     ```
 2.  **`merge.py`**: This script merges multiple cleaned data files into a single corpus.
     ```bash
-    # (Example usage, please adapt to your script's arguments)
     python merge.py --input_dir path/to/cleaned/data --output_file merged_data.json
     ```
 3.  **`partition.py`**: This script splits the merged corpus into two sets:
     *   `pre_training/`: Data used to train the baseline `model_backbone`.
     *   `post_training/`: Data used to fine-tune the `memory_transformer`.
     ```bash
-    # (Example usage, please adapt to your script's arguments)
     python partition.py --input_file merged_data.json
     ```
 After these steps, your directory should contain `pre_training` and `post_training` folders, each with `data_train.json`, `data_val.json`, and `data_test.json`.
@@ -154,7 +151,7 @@ This is the core pipeline for building and evaluating the models.
 
 The best-performing baseline model (`model_backbone`) and the best Memory-Enhanced Transformer (`freq_asc_p25`) are available for download.
 
-**[Download Models Here]**(https://iiithydresearch-my.sharepoint.com/personal/vamshavardhanreddy_b_research_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvamshavardhanreddy%5Fb%5Fresearch%5Fiiit%5Fac%5Fin%2FDocuments%2FANLP%20Project&ga=1)
+**[Download Models Here]**([https://iiithydresearch-my.sharepoint.com/personal/vamshavardhanreddy_b_research_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvamshavardhanreddy%5Fb%5Fresearch%5Fiiit%5Fac%5Fin%2FDocuments%2FANLP%20Project&ga=1](https://iiithydresearch-my.sharepoint.com/:f:/g/personal/vamshavardhanreddy_b_research_iiit_ac_in/EkDRGUqD1EJBlGOA0kTCnmIBM2UcpSAQeOsVdixvhwIYyQ?e=px2iw5))
 
 **Instructions:**
 *   Download and unzip the files.
@@ -183,12 +180,8 @@ Our results clearly indicate that focusing on **low-frequency tokens (`freq_asc`
 ## Datasets
 
 This work utilizes two newly created datasets:
-1.  **Chittagonian-to-Bangla**: A corpus of parallel sentences from the Chittagonian dialect and Standard Bangla.
+1.  **Chittagonian-to-Bangla**: A corpus of parallel sentences from the Chittagonian dialect and Standard Bangla which is present in ANLP_Project file.
 2.  **Barendri-to-Bangla**: A corpus of parallel sentences from the Barendri dialect and Standard Bangla.
 
-These datasets are available in this Git repository. Please refer to the `data/` directory for access.
-
-## Citation
-If you use this work in your research, please cite our paper (link to be added upon publication).
 
 ```
