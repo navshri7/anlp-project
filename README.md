@@ -9,6 +9,10 @@ This repository contains the code and results for a project on translating low-r
   - [Zero-Shot Transfer Performance: Barendri-to-Bangla](#zero-shot-transfer-performance-barendri-to-bangla)
   - [Overall Key Findings](#overall-key-findings)
 - [How to Run the Pipeline](#how-to-run-the-pipeline)
+  - [1. Prerequisites](#1-prerequisites)
+  - [2. Installation](#2-installation)
+  - [3. Data Preparation](#3-data-preparation)
+  - [4. Training and Evaluation](#4-training-and-evaluation)
 - [Pre-trained Models](#pre-trained-models)
 - [Codebase Description](#codebase-description)
 - [Ablation Studies](#ablation-studies)
@@ -35,35 +39,44 @@ We evaluated our models on two distinct tasks: an in-domain task (Chittagonian, 
 
 ### In-Domain Performance: Chittagonian-to-Bangla
 
-This table shows the performance of models trained and tested on the Chittagonian dataset.
+This table shows the performance of models trained and tested on the Chittagonian dataset. The memory-enhanced models show a substantial improvement over the baseline.
 
-| Model                                | SacreBLEU (↑)    | METEOR (↑)     | ROUGE-L (↑)    |
-| ------------------------------------ | ---------------- | -------------- | -------------- |
-| Baseline (`model_backbone`)          | 21.72            | 0.3422         | 0.6862         |
-| **Memory-Enhanced (freq_asc_p25)**   | **25.17** (+3.45) | **0.4191** (+0.077) | **0.7307** (+0.045) |
-| Memory-Enhanced (freq_asc_p50)   | 24.50            | 0.4176         | 0.7325         |
-| Memory-Enhanced (attn_desc_p75)  | 24.27            | 0.4168         | 0.7298         |
+| Model                                | SacreBLEU (↑)    | METEOR (↑)     | ROUGE-1 (↑) | ROUGE-2 (↑) | ROUGE-L (↑)    |
+| ------------------------------------ | ---------------- | -------------- | ----------- | ----------- | -------------- |
+| Baseline (`model_backbone`)          | 21.72            | 0.3422         | 0.7206      | 0.5741      | 0.6862         |
+| **Memory-Enhanced (freq_asc_p25)**   | **25.17** (+3.45) | **0.4191**     | **0.7630**  | **0.6356**  | **0.7307**     |
+| Memory-Enhanced (freq_asc_p50)       | 24.50            | 0.4176         | 0.7643      | 0.6375      | 0.7324         |
+| Memory-Enhanced (attn_desc_p25)      | 24.43            | 0.4009         | 0.7437      | 0.6197      | 0.7128         |
+| Memory-Enhanced (attn_desc_p75)      | 24.27            | 0.4168         | 0.7628      | 0.6357      | 0.7298         |
+| Memory-Enhanced (freq_asc_p75)       | 24.17            | 0.4030         | 0.7517      | 0.6244      | 0.7202         |
+| Memory-Enhanced (attn_desc_p50)      | 24.14            | 0.4011         | 0.7457      | 0.6224      | 0.7144         |
 
 ### Zero-Shot Transfer Performance: Barendri-to-Bangla
 
-To test generalization, we took the models trained *only* on Chittagonian and evaluated them directly on the Barendri test set without any further training.
+To test generalization, we took the models trained *only* on Chittagonian and evaluated them directly on the Barendri test set without any further training. This is a challenging **zero-shot cross-dialectal transfer** task.
 
-| Model (Trained on Chittagonian)      | SacreBLEU (↑)    | METEOR (↑)     | ROUGE-L (↑)    |
-| ------------------------------------ | ---------------- | -------------- | -------------- |
-| Baseline (`model_backbone`)          | 16.61            | 0.3500         | **0.7730**     |
-| **Memory-Enhanced (freq_asc_p25)**   | **17.50** (+0.89) | **0.3542**     | 0.7653         |
-| Memory-Enhanced (attn_desc_p75)  | 17.42            | 0.3523         | 0.7652         |
-| Memory-Enhanced (freq_asc_p50)   | 17.14            | 0.3542         | 0.7688         |
+| Model (Trained on Chittagonian)      | SacreBLEU (↑)    | METEOR (↑)     | ROUGE-1 (↑) | ROUGE-2 (↑) | ROUGE-L (↑)    |
+| ------------------------------------ | ---------------- | -------------- | ----------- | ----------- | -------------- |
+| Baseline (`model_backbone`)          | 16.61            | 0.3500         | 0.8107      | 0.6512      | **0.7730**     |
+| **Memory-Enhanced (freq_asc_p25)**   | **17.50** (+0.89) | **0.3542**     | 0.8101      | **0.6561**  | 0.7653         |
+| Memory-Enhanced (attn_desc_p75)      | 17.42            | 0.3523         | 0.8103      | 0.6549      | 0.7652         |
+| Memory-Enhanced (freq_asc_p50)       | 17.14            | **0.3542**     | **0.8132**  | **0.6581**  | 0.7688         |
+| Memory-Enhanced (attn_desc_p50)      | 17.03            | 0.3510         | 0.8090      | 0.6526      | 0.7637         |
+| Memory-Enhanced (freq_asc_p75)       | 16.91            | 0.3511         | 0.8084      | 0.6540      | 0.7643         |
+| Memory-Enhanced (attn_desc_p25)      | 16.72            | 0.3448         | 0.8075      | 0.6482      | 0.7613         |
 
 ### Overall Key Findings
 
 1.  **Massive In-Domain Improvement**: The memory module provides a substantial **+3.45 BLEU** point increase on the Chittagonian dialect, proving its effectiveness for the primary task.
 
-2.  **Successful Zero-Shot Transfer**: The memory-enhanced model **outperforms the baseline on an unseen dialect (Barendri)**, demonstrating that it has learned a generalizable strategy for handling dialectal variance, not just memorized Chittagonian-specific words.
+2.  **Successful Zero-Shot Transfer**: The memory-enhanced model **outperforms the baseline's BLEU score on an unseen dialect (Barendri)**, demonstrating that it has learned a generalizable strategy for handling dialectal variance, not just memorized Chittagonian-specific words.
 
 3.  **Handling Rare Words is Key**: The best-performing model (`freq_asc_p25`) in *both* scenarios is the one whose memory is built on the **25% least frequent tokens**. This is a critical insight: the model's performance boost comes from an improved ability to translate rare, out-of-vocabulary, or dialect-specific terms.
 
-4.  **Robust Architecture**: All ablations of the memory-enhanced model consistently outperform the baseline on the in-domain task, and most do so on the transfer task, showing the method is robust.
+4.  **Robust Architecture**: Almost all ablations of the memory-enhanced model outperform the baseline, showing the method is robust and consistently beneficial.
+
+### Result Plots
+Result plots for both the Chittagonian and Barendri datasets are included in the repository.
 
 ## How to Run the Pipeline
 
@@ -81,7 +94,7 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
 ```
-A `requirements.txt` file should contain:
+Your `requirements.txt` file should contain:
 ```
 transformers
 torch
@@ -97,25 +110,27 @@ This phase cleans the raw data and partitions it for the two main training stage
 
 1.  **`preprocess.py`**: Place your raw dataset files in a designated folder. Run this script to perform initial cleaning and normalization.
     ```bash
+    # (Example usage, please adapt to your script's arguments)
     python preprocess.py --data_dir path/to/raw/data
     ```
 2.  **`merge.py`**: This script merges multiple cleaned data files into a single corpus.
     ```bash
+    # (Example usage, please adapt to your script's arguments)
     python merge.py --input_dir path/to/cleaned/data --output_file merged_data.json
     ```
 3.  **`partition.py`**: This script splits the merged corpus into two sets:
     *   `pre_training/`: Data used to train the baseline `model_backbone`.
     *   `post_training/`: Data used to fine-tune the `memory_transformer`.
     ```bash
+    # (Example usage, please adapt to your script's arguments)
     python partition.py --input_file merged_data.json
     ```
-
 After these steps, your directory should contain `pre_training` and `post_training` folders, each with `data_train.json`, `data_val.json`, and `data_test.json`.
 
 ### 4. Training and Evaluation
 This is the core pipeline for building and evaluating the models.
 
-1.  **Train the Baseline Model**: This script fine-tunes the `google/mt5-small` model on the `pre_training` dataset. The best model will be saved to `./Barendri-translation-model` (or a similar name).
+1.  **Train the Baseline Model**: This script fine-tunes the `google/mt5-small` model on the `pre_training` dataset. The best model will be saved to `./chittagong-translation-model`.
     ```bash
     python model_backbone.py
     ```
@@ -125,19 +140,19 @@ This is the core pipeline for building and evaluating the models.
     python embeddings_extract.py
     ```
 
-3.  **Train Memory Modules**: This script runs all the ablation studies. It reads `extracted_token_features.json`, filters tokens based on each ablation's criteria (e.g., bottom 25% frequency), and trains a dedicated FFNN memory module for each. The trained modules are saved in the `memory_models/` directory.
+3.  **Train Memory Modules**: This script runs all the ablation studies. It reads `extracted_token_features.json`, filters tokens based on each ablation's criteria, and trains a dedicated FFNN memory module for each. The trained modules are saved in the `memory_models/` directory.
     ```bash
     python memory_module.py
     ```
 
-4.  **Train and Evaluate the Memory-Enhanced Transformer**: This is the final step. The script iterates through each trained memory module in `memory_models/`, integrates it with the baseline model, fine-tunes the combined architecture on the `post_training` dataset, and evaluates the final performance. The script will print a summary of all ablation results at the end.
+4.  **Train and Evaluate the Memory-Enhanced Transformer**: This is the final step. The script iterates through each trained memory module, integrates it with the baseline model, fine-tunes the combined architecture, and evaluates the final performance.
     ```bash
     python memory_transformer.py
     ```
 
 ## Pre-trained Models
 
-The best-performing baseline model (`model_backbone`) and the best Memory-Enhanced Transformer (`freq_asc_p25`) for both datasets are available for download.
+The best-performing baseline model (`model_backbone`) and the best Memory-Enhanced Transformer (`freq_asc_p25`) are available for download.
 
 **[Download Models Here]**(https://iiithydresearch-my.sharepoint.com/personal/vamshavardhanreddy_b_research_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvamshavardhanreddy%5Fb%5Fresearch%5Fiiit%5Fac%5Fin%2FDocuments%2FANLP%20Project&ga=1)
 
@@ -147,11 +162,12 @@ The best-performing baseline model (`model_backbone`) and the best Memory-Enhanc
 *   Place the memory transformer model files (e.g., `best_freq_asc_p25.pt`) inside the `memory_transformer_models/` directory.
 
 ## Codebase Description
-
-*   `model_backbone.py`: Handles the fine-tuning of the standard `google/mt5-small` model to establish the baseline performance.
-*   `embeddings_extract.py`: A feature extraction pipeline that computes embeddings, cross-attention norms, and frequencies for tokens in the training corpus.
-*   `memory_module.py`: Defines the FFNN memory architecture and trains multiple modules based on the ablation configurations.
-*   `memory_transformer.py`: Defines the integrated memory-enhanced architecture, connects the baseline model and a memory module with a learnable gate, and handles the final stage of training and evaluation.
+- **Data Processing**: `preprocess.py`, `merge.py`, `partition.py`
+  - Scripts for cleaning, consolidating, and splitting the raw text data for the two-stage training process.
+- **`model_backbone.py`**: Handles the fine-tuning of the standard `google/mt5-small` model to establish the baseline performance.
+- **`embeddings_extract.py`**: A feature extraction pipeline that computes embeddings, cross-attention norms, and frequencies for tokens in the training corpus.
+- **`memory_module.py`**: Defines the FFNN memory architecture and trains multiple modules based on the ablation configurations.
+- **`memory_transformer.py`**: The core script that defines the integrated memory-enhanced architecture, connects the baseline and memory with a learnable gate, and handles the final stage of training and evaluation.
 
 ## Ablation Studies
 
@@ -162,7 +178,7 @@ To understand what knowledge is most useful for the memory module, we conducted 
 2.  **Cross-Attention**: Does the model benefit from memorizing tokens that it already "focuses on" during translation?
     *   `attn_desc_p25/p50/p75`: Memory trained on the 25%/50%/75% of tokens with the **highest** cross-attention scores.
 
-Our results clearly indicate that focusing on low-frequency tokens (`freq_asc`) provides the most significant and generalizable performance boost.
+Our results clearly indicate that focusing on **low-frequency tokens (`freq_asc`)** provides the most significant and generalizable performance boost.
 
 ## Datasets
 
@@ -173,4 +189,6 @@ This work utilizes two newly created datasets:
 These datasets are available in this Git repository. Please refer to the `data/` directory for access.
 
 ## Citation
-If you use this work, please cite our paper (link to be added upon publication).
+If you use this work in your research, please cite our paper (link to be added upon publication).
+
+```
